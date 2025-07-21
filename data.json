@@ -25,30 +25,336 @@
     "notes": "Used especially in legal or political contexts."
   },
   {
-    "word": "coerce",
-    "definition": "To force someone to do something by using threats.",
+    "word": "transcend",
+    "definition": "To go beyond the limits of something.",
     "examples": [
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract.",
-      "He was coerced into signing the contract."
+      "Her music transcends cultural boundaries.",
+      "He tried to transcend his difficulties through meditation."
     ],
-    "notes": "Used especially in legal or political contexts."
+    "notes": "Bir şeyin sınırlarını aşmak, üstüne çıkmak."
+  },
+  {
+    "word": "sensory world",
+    "definition": "The world experienced through the senses.",
+    "examples": [
+      "We live in a sensory world full of sights and sounds.",
+      "Art can evoke the sensory world in vivid ways."
+    ],
+    "notes": "Duyu organlarıyla deneyimlenen dünya."
+  },
+  {
+    "word": "attain",
+    "definition": "To achieve or reach something after effort.",
+    "examples": [
+      "She attained her goals through hard work.",
+      "Many athletes attain greatness through dedication."
+    ],
+    "notes": "Çaba sonucu ulaşmak, elde etmek."
+  },
+  {
+    "word": "critical of",
+    "definition": "Expressing disapproval or judgment.",
+    "examples": [
+      "The critics were critical of the new movie.",
+      "He was critical of the government's policies."
+    ],
+    "notes": "Eleştirel olmak, bir şeyi beğenmemek."
+  },
+  {
+    "word": "conformity",
+    "definition": "Behaving according to accepted standards or rules.",
+    "examples": [
+      "She refused to follow social conformity.",
+      "Conformity can limit personal creativity."
+    ],
+    "notes": "Toplumun ya da grubun kurallarına uyma."
+  },
+  {
+    "word": "art that stressed emotion over cold",
+    "definition": "Art emphasizing feelings rather than logic or reason.",
+    "examples": [
+      "Romantic art stressed emotion over cold rationality.",
+      "The painting reflects art that stressed emotion over cold techniques."
+    ],
+    "notes": "Mantıktan çok duyguyu ön plana çıkaran sanat."
+  },
+  {
+    "word": "follow in someone's footsteps",
+    "definition": "To do the same things as someone before you, especially as a career.",
+    "examples": [
+      "He followed in his father’s footsteps and became a doctor.",
+      "Many athletes follow in the footsteps of their idols."
+    ],
+    "notes": "Birinin izinden gitmek, onun yaptığını yapmak."
+  },
+  {
+    "word": "Harvard Divinity School",
+    "definition": "A theological seminary of Harvard University.",
+    "examples": [
+      "Emerson studied at Harvard Divinity School.",
+      "Many religious leaders graduated from Harvard Divinity School."
+    ],
+    "notes": "Harvard Üniversitesi'nin ilahiyat fakültesi."
+  },
+  {
+    "word": "clergy",
+    "definition": "People ordained for religious duties, especially in Christian churches.",
+    "examples": [
+      "The clergy led the Sunday service.",
+      "Many members of the clergy attended the conference."
+    ],
+    "notes": "Din görevlileri, ruhban sınıfı."
+  },
+  {
+    "word": "spirituality",
+    "definition": "Concern with the human spirit or soul rather than material things.",
+    "examples": [
+      "She practices meditation to deepen her spirituality.",
+      "Spirituality can bring peace and purpose."
+    ],
+    "notes": "Maneviyat, ruhsal yön."
+  },
+  {
+    "word": "bustling",
+    "definition": "Full of energetic and noisy activity.",
+    "examples": [
+      "The bustling city streets were crowded with people.",
+      "We enjoyed the bustling market atmosphere."
+    ],
+    "notes": "Canlı, hareketli ve gürültülü."
+  },
+  {
+    "word": "urge",
+    "definition": "To strongly encourage or persuade someone to do something.",
+    "examples": [
+      "The teacher urged the students to study harder.",
+      "They urged him to accept the job offer."
+    ],
+    "notes": "İkna etmek, ısrarla tavsiye etmek."
+  },
+  {
+    "word": "overpower",
+    "definition": "To defeat or overcome with superior force.",
+    "examples": [
+      "The army was able to overpower the enemy.",
+      "Fear can sometimes overpower reason."
+    ],
+    "notes": "Güçle yenmek, baskın çıkmak."
+  },
+  {
+    "word": "strike a chord",
+    "definition": "To cause someone to feel sympathy or emotion.",
+    "examples": [
+      "Her story struck a chord with many listeners.",
+      "The film struck a chord with audiences worldwide."
+    ],
+    "notes": "Birinin duygularına dokunmak."
+  },
+  {
+    "word": "drawn",
+    "definition": "Attracted or pulled towards something.",
+    "examples": [
+      "Many writers were drawn to transcendentalism.",
+      "She felt drawn to the city’s vibrant culture."
+    ],
+    "notes": "Çekilmek, ilgi duymak."
+  },
+  {
+    "word": "to permeate",
+    "definition": "To spread throughout something.",
+    "examples": [
+      "The smell of coffee permeated the room.",
+      "Ideas of freedom began to permeate the society."
+    ],
+    "notes": "Bir şeye yayılmak, nüfuz etmek."
+  },
+  {
+    "word": "attracted to",
+    "definition": "Having a liking or interest towards something or someone.",
+    "examples": [
+      "Many were attracted to Emerson’s ideas.",
+      "She was attracted to his kindness."
+    ],
+    "notes": "Bir şeye veya kişiye ilgi duymak."
+  },
+  {
+    "word": "disgust over",
+    "definition": "Strong feeling of dislike or disapproval.",
+    "examples": [
+      "He expressed disgust over the unfair treatment.",
+      "There was public disgust over the corruption scandal."
+    ],
+    "notes": "Tiksinti, hoşlanmama."
+  },
+  {
+    "word": "prominence",
+    "definition": "The state of being important or famous.",
+    "examples": [
+      "Margaret Fuller came to prominence as a leading transcendentalist.",
+      "The artist gained prominence after the exhibition."
+    ],
+    "notes": "Öne çıkma, ün kazanma."
+  },
+  {
+    "word": "towering intellect",
+    "definition": "A person with very great intelligence.",
+    "examples": [
+      "He was regarded as a towering intellect in philosophy.",
+      "Her towering intellect inspired many students."
+    ],
+    "notes": "Yüksek zeka, üstün akıl."
+  },
+  {
+    "word": "compulsive",
+    "definition": "Resulting from an irresistible urge.",
+    "examples": [
+      "He has a compulsive habit of checking his phone.",
+      "Compulsive behaviors can be hard to control."
+    ],
+    "notes": "Kontrol edilemeyen dürtüsel."
+  },
+  {
+    "word": "tale",
+    "definition": "A story, often one that is imaginative or traditional.",
+    "examples": [
+      "The old man told a fascinating tale.",
+      "Fairy tales often have magical creatures."
+    ],
+    "notes": "Masal, hikaye."
+  },
+  {
+    "word": "single-minded quest",
+    "definition": "A very focused and determined search or mission.",
+    "examples": [
+      "Captain Ahab’s single-minded quest was to kill the white whale.",
+      "Her single-minded quest for success inspired everyone."
+    ],
+    "notes": "Tek amaçlı, kararlı arayış."
+  },
+{
+    "word": "fertile",
+    "definition": "Capable of producing abundant vegetation or crops.",
+    "examples": [
+      "The region has fertile soil ideal for farming.",
+      "Fertile lands produce higher crop yields."
+    ],
+    "notes": "Verimli, ürün vermeye elverişli (toprak için)."
+  },
+  {
+    "word": "crops",
+    "definition": "Plants that are grown for food or other agricultural purposes.",
+    "examples": [
+      "Farmers harvest their crops in the fall.",
+      "Rice and wheat are common staple crops."
+    ],
+    "notes": "Tarım ürünleri, ekin."
+  },
+  {
+    "word": "cropland",
+    "definition": "Land used to grow crops.",
+    "examples": [
+      "Much of the region’s cropland is irrigated.",
+      "Cropland is shrinking due to urban expansion."
+    ],
+    "notes": "Tarla, ekili arazi."
+  },
+  {
+    "word": "ill-suited",
+    "definition": "Not appropriate or fitting for a particular purpose or situation.",
+    "examples": [
+      "This dry land is ill-suited for rice farming.",
+      "His personality was ill-suited to leadership."
+    ],
+    "notes": "Uygun olmayan, elverişsiz."
+  },
+  {
+    "word": "thrive",
+    "definition": "To grow or develop well or vigorously.",
+    "examples": [
+      "Plants thrive in a nutrient-rich environment.",
+      "Some businesses thrive even in tough economic times."
+    ],
+    "notes": "Gelişmek, serpilmek, başarılı olmak."
+  },
+  {
+    "word": "the nutrient solution flows constantly past the roots of the plants",
+    "definition": "A method in which liquid nutrients continuously move around plant roots.",
+    "examples": [
+      "In hydroponics, the nutrient solution flows constantly past the roots of the plants.",
+      "This system ensures that the plants receive oxygen and nutrients at all times."
+    ],
+    "notes": "Besin çözeltisi sürekli olarak bitki köklerinin etrafında dolaşır."
+  },
+  {
+    "word": "distilled water",
+    "definition": "Purified water that has been boiled into vapor and condensed back into liquid.",
+    "examples": [
+      "They used distilled water in the hydroponic system.",
+      "Distilled water is free from minerals and impurities."
+    ],
+    "notes": "Damıtılmış, saf su."
+  },
+  {
+    "word": "facilities can be located in or near cities",
+    "definition": "Farming or production centers can be placed close to urban areas.",
+    "examples": [
+      "Hydroponic facilities can be located in or near cities to reduce transportation costs.",
+      "Urban farms are facilities located near city centers."
+    ],
+    "notes": "Tesisler şehir içinde veya yakınında konumlandırılabilir."
+  },
+  {
+    "word": "farmers can grow crops",
+    "definition": "Farmers have the ability to cultivate food plants.",
+    "examples": [
+      "With hydroponics, farmers can grow crops year-round.",
+      "Farmers can grow crops indoors without soil."
+    ],
+    "notes": "Çiftçiler ürün yetiştirebilir."
+  },
+  {
+    "word": "herbs and vegetables",
+    "definition": "Types of edible plants used for flavor or nutrition.",
+    "examples": [
+      "They grow fresh herbs and vegetables in their backyard.",
+      "Hydroponics is ideal for growing herbs and vegetables like basil and lettuce."
+    ],
+    "notes": "Otlar ve sebzeler."
+  },
+  {
+    "word": "staple crops",
+    "definition": "Basic food crops that are grown in large quantities and form the main part of a diet.",
+    "examples": [
+      "Wheat, rice, and corn are staple crops around the world.",
+      "Staple crops provide most of the population’s calories."
+    ],
+    "notes": "Temel gıda ürünleri."
+  },
+  {
+    "word": "cultivation",
+    "definition": "The process of growing plants for food or other uses.",
+    "examples": [
+      "Soil preparation is essential for successful cultivation.",
+      "The cultivation of tomatoes has increased in recent years."
+    ],
+    "notes": "Tarım, ekim-dikim."
+  },
+  {
+    "word": "vital",
+    "definition": "Absolutely necessary or essential.",
+    "examples": [
+      "Clean water is vital for plant growth.",
+      "It is vital to follow safety procedures in the lab."
+    ],
+    "notes": "Hayati, çok önemli."
+  },
+  {
+    "word": "nutrient-rich water",
+    "definition": "Water that contains essential nutrients for plant growth.",
+    "examples": [
+      "Hydroponic systems use nutrient-rich water instead of soil.",
+      "The plants absorb minerals from the nutrient-rich water."
+    ],
+    "notes": "Besin maddeleri açısından zengin su."
   }
 ]
