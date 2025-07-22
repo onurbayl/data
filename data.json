@@ -1,5 +1,140 @@
 [
   {
+    "word": "to go into orbit around it",
+    "definition": "To start moving in a curved path around a planet or object in space.",
+    "examples": [
+      "The satellite went into orbit around the Earth.",
+      "The spacecraft will go into orbit around Mars next week."
+    ],
+    "notes": "'Orbit' yörünge anlamına gelir. 'Go into orbit' bir cismin başka bir cismin çevresinde dönmeye başlaması demektir."
+  },
+  {
+    "word": "in composition",
+    "definition": "Refers to the makeup or components of something.",
+    "examples": [
+      "There are too many similarities in composition between Earth and the moon.",
+      "The composition of this rock includes various minerals."
+    ],
+    "notes": "'Composition' bir şeyin içeriği veya yapısı anlamındadır. 'In composition' ise 'yapısal olarak' veya 'bileşim bakımından' demektir."
+  },
+  {
+    "word": "fission",
+    "definition": "The process of splitting a nucleus into two or more parts, releasing energy.",
+    "examples": [
+      "Nuclear fission is used in power plants to generate electricity.",
+      "Fission releases a large amount of energy."
+    ],
+    "notes": "Nükleer fizikte bir çekirdeğin bölünmesi anlamına gelir. Fiziksel bilimlerde önemli bir terim."
+  },
+  {
+    "word": "remained independent from",
+    "definition": "To continue existing or functioning separately from something else.",
+    "examples": [
+      "The country remained independent from colonial rule.",
+      "The moon remained independent from the Earth after formation."
+    ],
+    "notes": "'Independent from' bağımsız olmak, bir şeyden etkilenmemek anlamına gelir."
+  },
+  {
+    "word": "astronomers",
+    "definition": "Scientists who study stars, planets, and other objects in space.",
+    "examples": [
+      "Astronomers discovered a new planet last year.",
+      "Many astronomers use telescopes to observe distant galaxies."
+    ],
+    "notes": "'Astronomer' gökbilimci anlamındadır. Uzayla ilgili bilimsel çalışmaları yapan kişilerdir."
+  },
+  {
+    "word": "was struck by",
+    "definition": "To be hit suddenly and forcefully by something.",
+    "examples": [
+      "Earth was struck by an object approximately one-tenth of its mass.",
+      "The car was struck by lightning during the storm."
+    ],
+    "notes": "'Strike' fiilinin geçmiş hali olan 'was struck by', bir şeyin aniden ve şiddetle vurulması anlamına gelir."
+  },
+  {
+    "word": "to shutter",
+    "definition": "To close or cause to close (usually windows or businesses).",
+    "examples": [
+      "Many shops had to shutter during the economic crisis.",
+      "The old factory was shuttered last year."
+    ],
+    "notes": "'Shutter' genellikle dükkan ya da işletmelerin kapatılması anlamında kullanılır."
+  },
+  {
+    "word": "to disrupt",
+    "definition": "To interrupt or disturb the normal course of something.",
+    "examples": [
+      "Heavy rain disrupted the football match.",
+      "The new policy disrupted the usual workflow."
+    ],
+    "notes": "Bir şeyin normal işleyişini bozmak, kesintiye uğratmak anlamındadır."
+  },
+  {
+    "word": "to disturb",
+    "definition": "To interrupt someone’s peace, rest, or concentration.",
+    "examples": [
+      "Please don’t disturb me while I’m working.",
+      "The loud noise disturbed the students during the exam."
+    ],
+    "notes": "Rahatsız etmek, huzuru bozmak anlamına gelir."
+  },
+  {
+    "word": "to eject",
+    "definition": "To force someone or something to leave a place.",
+    "examples": [
+      "The pilot ejected from the plane just before it crashed.",
+      "The machine ejected the faulty product."
+    ],
+    "notes": "Bir şeyi zorla dışarı atmak, fırlatmak anlamındadır."
+  },
+  {
+    "word": "to impact",
+    "definition": "To have a strong effect or influence on something.",
+    "examples": [
+      "The new law will impact many businesses.",
+      "The asteroid impacted the Earth millions of years ago."
+    ],
+    "notes": "Hem ‘çarpma, darbe’ anlamı hem de ‘etkilemek, etki yapmak’ anlamı vardır."
+  },
+  {
+    "word": "plausible",
+    "definition": "Seeming reasonable or probable.",
+    "examples": [
+      "It is more plausible that the Earth and the moon were never connected.",
+      "Her explanation was plausible, so everyone believed her."
+    ],
+    "notes": "'Plausible' mantıklı, akla yatkın, makul demektir."
+  },
+  {
+    "word": "Earth’s crust",
+    "definition": "The outermost solid layer of the Earth.",
+    "examples": [
+      "Earth’s crust is made of several large tectonic plates.",
+      "Volcanoes erupt through cracks in Earth’s crust."
+    ],
+    "notes": "'Crust' kabuk anlamına gelir, burada Dünya’nın en dış katmanı."
+  },
+  {
+    "word": "off (the western coast)",
+    "definition": "Near or away from the coast or shore.",
+    "examples": [
+      "There is an island off the western coast of the country.",
+      "The ship sank off the coast during the storm."
+    ],
+    "notes": "'Off' bir yerden biraz uzakta veya yakınında anlamında kullanılır."
+  },
+  {
+    "word": "tear apart",
+    "definition": "To separate something forcefully into pieces.",
+    "examples": [
+      "The storm tore apart many houses along the coast.",
+      "The argument tore their friendship apart."
+    ],
+    "notes": "'Tear apart' parçalamak, yırtıp dağıtmak anlamındadır."
+  },
+  {
     "word": "consolidate",
     "definition": "To make something stronger, more solid, or more unified.",
     "examples": [
