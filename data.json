@@ -1,5 +1,122 @@
 [
   {
+    "word": "settle down",
+    "definition": "To become calm, relaxed, or stable; to begin to live a quieter and more regular life.",
+    "examples": [
+      "The children finally settled down after the excitement.",
+      "He decided to settle down and start a family."
+    ],
+    "notes": "Sakinleşmek, düzene girmek veya yerleşmek anlamındadır."
+  },
+  {
+    "word": "stimulate",
+    "definition": "To encourage or activate a process or function.",
+    "examples": [
+      "Melatonin release is stimulated by darkness.",
+      "Caffeine can stimulate brain activity."
+    ],
+    "notes": "Uyarmak, harekete geçirmek anlamındadır."
+  },
+  {
+    "word": "inhibit",
+    "definition": "To slow down or prevent a process or reaction.",
+    "examples": [
+      "Melatonin release is inhibited by light.",
+      "Fear can inhibit performance during public speaking."
+    ],
+    "notes": "Engellemek, baskılamak anlamındadır."
+  },
+  {
+    "word": "alertness",
+    "definition": "The quality of being attentive and ready to respond.",
+    "examples": [
+      "Lack of sleep affects mental alertness.",
+      "Drivers must maintain alertness on long trips."
+    ],
+    "notes": "Uyanıklık, dikkatli olma durumu."
+  },
+  {
+    "word": "advent of the electric light",
+    "definition": "The arrival or beginning of something important; in this case, electric lighting.",
+    "examples": [
+      "The advent of the electric light changed how people sleep.",
+      "With the advent of the internet, communication has become easier."
+    ],
+    "notes": "'Advent' bir şeyin gelişi veya ortaya çıkışı anlamındadır."
+  },
+  {
+    "word": "convenience",
+    "definition": "The state of being easy to use or suitable for a purpose.",
+    "examples": [
+      "Online shopping offers great convenience.",
+      "People often choose convenience over health."
+    ],
+    "notes": "Kolaylık, elverişlilik anlamına gelir."
+  },
+  {
+    "word": "psychological",
+    "definition": "Related to the mind and mental processes.",
+    "examples": [
+      "Sleep deprivation has psychological effects.",
+      "She received psychological support after the accident."
+    ],
+    "notes": "Psikolojik, zihinsel süreçlerle ilgili."
+  },
+  {
+    "word": "physiological",
+    "definition": "Related to the physical or biological functions of living organisms.",
+    "examples": [
+      "Stress causes physiological changes in the body.",
+      "Sleep is essential for physiological recovery."
+    ],
+    "notes": "Fizyolojik, bedenin işleyişiyle ilgili."
+  },
+  {
+    "word": "acute",
+    "definition": "Severe or intense; also can mean sharp or highly developed.",
+    "examples": [
+      "She suffered from acute back pain.",
+      "Acute stress can lead to serious health problems."
+    ],
+    "notes": "Şiddetli, yoğun, ani gelişen anlamına gelir."
+  },
+  {
+    "word": "obesity",
+    "definition": "The condition of being very overweight in a way that is unhealthy.",
+    "examples": [
+      "Obesity increases the risk of heart disease.",
+      "Childhood obesity is a growing concern worldwide."
+    ],
+    "notes": "Aşırı şişmanlık, obezite durumu."
+  },
+  {
+    "word": "go behind the wheel of a car",
+    "definition": "To drive a car.",
+    "examples": [
+      "You shouldn’t go behind the wheel of a car when you’re tired.",
+      "He went behind the wheel despite having a suspended license."
+    ],
+    "notes": "'Behind the wheel' araba kullanmak anlamına gelir."
+  },
+  {
+    "word": "intoxication",
+    "definition": "The state of being affected by alcohol or drugs.",
+    "examples": [
+      "Alcohol intoxication slows down reaction time.",
+      "He was arrested for driving under intoxication."
+    ],
+    "notes": "Zehirlenme veya alkol/uyuşturucu etkisinde olma durumu."
+  },
+  {
+    "word": "presumably",
+    "definition": "Used to say that something is likely or assumed to be true.",
+    "examples": [
+      "Presumably, she missed the train and is running late.",
+      "The lights are off, so presumably no one is home."
+    ],
+    "notes": "Muhtemelen, büyük ihtimalle anlamına gelir."
+  },
+  {
     "word": "to go into orbit around it",
     "definition": "To start moving in a curved path around a planet or object in space.",
     "examples": [
