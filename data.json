@@ -1,5 +1,122 @@
 [
   {
+    "word": "consolidate",
+    "definition": "To make something stronger, more solid, or more unified.",
+    "examples": [
+      "The company consolidated its position in the market.",
+      "She tried to consolidate her notes before the exam."
+    ],
+    "notes": "Güçlendirmek, sağlamlaştırmak, birleştirmek. Hem soyut şeyler (güç, bilgi, kontrol), hem de somut şeyler için kullanılabilir."
+  },
+  {
+    "word": "I know some Spanish, if that’s any consolation.",
+    "definition": "Used to try to offer a small comfort or reassurance in an otherwise disappointing situation.",
+    "examples": [
+      "I know some Spanish, if that’s any consolation.",
+      "We didn’t win, but at least we played well — if that’s any consolation."
+    ],
+    "notes": "‘If that’s any consolation’ ifadesi, ‘biraz teselli olursa, durumu hafifletirse’ anlamına gelir. Genellikle kötü bir haberi hafifletmeye çalışırken söylenir."
+  },
+  {
+    "word": "They must have let someone go before who isn’t a Spanish major, right?",
+    "definition": "Expresses a logical assumption about the past — that at some point, a non-Spanish major must have been allowed to go.",
+    "examples": [
+      "They must have let someone go before who isn’t a Spanish major, right?",
+      "He must have told them already — they look upset."
+    ],
+    "notes": "‘Must have + V3’ yapısı, geçmişte olmuş olma ihtimali çok yüksek olan bir şeyi ifade eder (mantıksal çıkarım). ‘Let someone go’ burada birini gitmesine izin vermek anlamında kullanılmıştır."
+  },
+  {
+    "word": "I can’t remember the last time a student was able to go who wasn’t a Spanish major.",
+    "definition": "Used to express that something rarely (or never) happens — in this case, that non-Spanish majors almost never get the opportunity to go.",
+    "examples": [
+      "I can’t remember the last time a student was able to go who wasn’t a Spanish major.",
+      "I can’t remember the last time it rained this hard in July."
+    ],
+    "notes": "Bu ifade, nadiren gerçekleşen ya da uzun zamandır olmayan bir durumu vurgular. ‘Spanish major’ ifadesi, üniversitede ana dalı İspanyolca olan öğrenci anlamına gelir. Cümledeki 'who wasn’t a Spanish major' kısmı, önceki ‘student’ kelimesini tanımlar."
+  },
+  {
+    "word": "relevant",
+    "definition": "Closely connected or appropriate to the matter at hand.",
+    "examples": [
+      "Please only include information that is relevant to the topic.",
+      "Her comments were not relevant to the discussion."
+    ],
+    "notes": "Konu ile ilgili, alakalı, yerinde. Genellikle 'relevant to' şeklinde kullanılır."
+  },
+  {
+    "word": "have one's heart set on",
+    "definition": "To want something very much or be determined to achieve or get something.",
+    "examples": [
+      "She has her heart set on studying abroad.",
+      "They have their hearts set on buying that house by the beach."
+    ],
+    "notes": "Bir şeyi çok istemek, gönlünü bir şeye kaptırmak. Genellikle uzun zamandır arzu edilen şeyler için kullanılır."
+  },
+  {
+    "word": "Did you pick up your paper yet?",
+    "definition": "A question asking if someone has collected or retrieved their document, assignment, or newspaper.",
+    "examples": [
+      "Did you pick up your paper yet from the front desk?",
+      "I forgot to pick up my paper after class."
+    ],
+    "notes": "‘Pick up’ fiili burada ‘bir şeyi gidip almak, teslim almak’ anlamında kullanılır. ‘Paper’ kelimesi bağlama göre ‘gazete’, ‘ödev’ ya da ‘belge’ olabilir."
+  },
+  {
+    "word": "dispel",
+    "definition": "To drive away or eliminate a thought, feeling, or belief.",
+    "examples": [
+      "The other choices are mentioned at the beginning of the passage but later dispelled for various reasons.",
+      "The scientist tried to dispel the myth with evidence."
+    ],
+    "notes": "Bir düşünceyi, şüpheyi veya yanılgıyı ortadan kaldırmak, dağıtmak. Genellikle soyut şeyler için kullanılır (örneğin: efsane, korku, şüphe)."
+  },
+  {
+    "word": "narrative",
+    "definition": "A story or an account of events, experiences, or the like, whether true or fictional.",
+    "examples": [
+      "The topic is introduced, followed by an example and a historical narrative.",
+      "The documentary presents a compelling narrative of the war."
+    ],
+    "notes": "Anlatı, öykü ya da olayların anlatımı. Akademik metinlerde 'historical narrative' gibi ifadelerle sıkça kullanılır."
+  },
+  {
+    "word": "we average",
+    "definition": "To have an average amount, level, or number over time.",
+    "examples": [
+      "We average fewer than 7 hours of sleep per day by age 65.",
+      "Americans average about 3 cups of coffee per day."
+    ],
+    "notes": "‘We average’ ifadesi, ‘ortalama olarak ... oluruz/yaparız’ anlamında kullanılır. Burada ‘we average fewer than 7 hours’ demek, ‘ortalama olarak günde 7 saatten az uyuruz’ demektir."
+  },
+  {
+    "word": "sleep deprivation",
+    "definition": "The condition of not having enough sleep.",
+    "examples": [
+      "Sleep deprivation can lead to serious health problems.",
+      "College students often suffer from sleep deprivation during exam weeks."
+    ],
+    "notes": "Yeterince uyuyamama durumu, uyku eksikliği."
+  },
+  {
+    "word": "I really wouldn't want you to get your hopes up.",
+    "definition": "Used to warn someone not to expect too much, so they won’t be disappointed.",
+    "examples": [
+      "I really wouldn't want you to get your hopes up — the position hasn’t been confirmed yet.",
+      "He said he might come, but I wouldn’t get my hopes up."
+    ],
+    "notes": "‘Get your hopes up’ ifadesi, ‘büyük umutlara kapılmak’ anlamına gelir. Bu cümlede ise birini fazla umutlandırmak istemediğini belirtir."
+  },
+  {
+    "word": "I can tell you put a lot of thought into this paper.",
+    "definition": "An expression used to show that someone clearly made a strong effort or was very thoughtful while preparing something.",
+    "examples": [
+      "I can tell you put a lot of thought into this paper. It's well-organized and insightful.",
+      "She smiled and said, 'I can tell you put a lot of thought into your gift.'"
+    ],
+    "notes": "Birinin yaptığı işe çok emek ve dikkat verdiğini belirtmek için kullanılır. 'put a lot of thought into' ifadesi, 'üzerinde çok düşünmek, özen göstermek' anlamına gelir."
+  },
+  {
     "word": "abandon",
     "definition": "To leave behind or give up completely.",
     "examples": [
