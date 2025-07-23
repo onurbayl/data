@@ -1,5 +1,122 @@
 [
   {
+    "word": "settings",
+    "definition": "The time, place, and circumstances in which something occurs.",
+    "examples": [
+      "This kind of teamwork often leads to deeper connections than we form in other settings.",
+      "The story takes place in a rural setting."
+    ],
+    "notes": "'Setting' ortam, bağlam, koşullar demektir. Çoğul haliyle farklı ortamları ifade eder."
+  },
+  {
+    "word": "get together",
+    "definition": "To meet socially or gather for a shared activity.",
+    "examples": [
+      "Let’s get together for coffee sometime.",
+      "We usually get together with friends on weekends."
+    ],
+    "notes": "Bir araya gelmek, sosyal amaçlı buluşmak anlamındadır."
+  },
+  {
+    "word": "come together",
+    "definition": "To unite or work as a group, often toward a common goal.",
+    "examples": [
+      "People came together to support the victims.",
+      "The team came together and won the game."
+    ],
+    "notes": "Bir araya gelmek, birleşmek, ortak bir amaç için toplanmak."
+  },
+  {
+    "word": "had our families meet each other",
+    "definition": "To cause someone to do something; this is a causative structure using 'have'.",
+    "examples": [
+      "We even had our families meet each other.",
+      "They had the mechanic check the car before the trip."
+    ],
+    "notes": "‘Have + object + verb’ yapısı başkasına bir şey yaptırmak anlamındadır. (Causative structure)"
+  },
+  {
+    "word": "meet with someone",
+    "definition": "To have a formal or planned meeting with someone.",
+    "examples": [
+      "I met with the manager to discuss the proposal.",
+      "She met with her advisor to go over the schedule."
+    ],
+    "notes": "Genellikle iş veya resmi konular için kullanılır."
+  },
+  {
+    "word": "meet someone",
+    "definition": "To come into contact with someone, either planned or by chance.",
+    "examples": [
+      "I met her at a conference.",
+      "Have you ever met a celebrity?"
+    ],
+    "notes": "Biriyle tanışmak ya da karşılaşmak anlamındadır. 'With' kullanılmaz."
+  },
+  {
+    "word": "proceeds",
+    "definition": "The money earned from an event or activity.",
+    "examples": [
+      "Part of the proceeds goes towards a charitable cause.",
+      "All proceeds from the concert will go to charity."
+    ],
+    "notes": "'Proceeds' gelir, kazanç anlamına gelir ve her zaman çoğul olarak kullanılır."
+  },
+  {
+    "word": "charitable",
+    "definition": "Related to giving help to those in need.",
+    "examples": [
+      "They donated to a charitable foundation.",
+      "Charitable organizations help the poor and sick."
+    ],
+    "notes": "Hayırsever, yardım amaçlı demektir."
+  },
+  {
+    "word": "compassionate",
+    "definition": "Showing sympathy and concern for others’ suffering.",
+    "examples": [
+      "She is a compassionate nurse who cares for her patients deeply.",
+      "He offered a compassionate response to the tragedy."
+    ],
+    "notes": "Şefkatli, merhametli anlamındadır."
+  },
+  {
+    "word": "betterment",
+    "definition": "The process of improving something.",
+    "examples": [
+      "They worked for the betterment of the community.",
+      "Education plays a key role in social betterment."
+    ],
+    "notes": "İyileştirme, gelişme anlamındadır."
+  },
+  {
+    "word": "marketing ploy",
+    "definition": "A clever tactic used to attract customers or promote a product.",
+    "examples": [
+      "It turned out to be just a marketing ploy.",
+      "Giving free samples is a common marketing ploy."
+    ],
+    "notes": "Pazarlama taktiği, dikkat çekici strateji."
+  },
+  {
+    "word": "appealing to",
+    "definition": "Attractive or interesting to a particular person or group.",
+    "examples": [
+      "The marketing ploy was aimed at appealing to people in their 20s.",
+      "This style of music is appealing to younger audiences."
+    ],
+    "notes": "'Appealing to' ilgisini çekmek, cazip gelmek anlamındadır."
+  },
+  {
+    "word": "charitable cause",
+    "definition": "A purpose or organization focused on helping others in need.",
+    "examples": [
+      "The fundraiser supported a charitable cause.",
+      "Many people donate to charitable causes during the holidays."
+    ],
+    "notes": "Yardım amaçlı faaliyet veya kuruluş, hayır işi."
+  },
+  {
     "word": "refute",
     "definition": "To prove that a statement or theory is wrong or false.",
     "examples": [
