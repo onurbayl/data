@@ -1,5 +1,68 @@
 [
   {
+    "word": "trait",
+    "definition": "A distinguishing quality or characteristic, typically of a person.",
+    "examples": [
+      "Honesty is a valuable trait in a friend.",
+      "Eye color is a genetic trait."
+    ],
+    "notes": "Özellik, kişisel ya da genetik bir nitelik."
+  },
+  {
+    "word": "perpetuate their genes",
+    "definition": "To cause their genes to continue to exist or be passed on through generations.",
+    "examples": [
+      "Organisms reproduce to perpetuate their genes.",
+      "Some behaviors increase the chance to perpetuate their genes."
+    ],
+    "notes": "Genlerini devam ettirmek, kalıcı hâle getirmek anlamındadır."
+  },
+  {
+    "word": "pass on their genes",
+    "definition": "To transmit genetic material to the next generation.",
+    "examples": [
+      "Healthy individuals are more likely to pass on their genes.",
+      "Animals reproduce to pass on their genes."
+    ],
+    "notes": "Genlerini aktarmak, bir sonraki nesle iletmek."
+  },
+  {
+    "word": "innate",
+    "definition": "Inborn; natural and not learned or acquired.",
+    "examples": [
+      "Humans have an innate ability to learn language.",
+      "Some fears are considered to be innate."
+    ],
+    "notes": "Doğuştan gelen, içgüdüsel."
+  },
+  {
+    "word": "inborn",
+    "definition": "Naturally present at birth; not learned or acquired.",
+    "examples": [
+      "He has an inborn talent for music.",
+      "The instinct to survive is inborn in all animals."
+    ],
+    "notes": "Doğuştan gelen, kalıtsal (innate ile eşanlamlı)."
+  },
+  {
+    "word": "instinctual",
+    "definition": "Based on instinct; not involving thought or training.",
+    "examples": [
+      "Protecting one's children is often an instinctual behavior.",
+      "Many animals display instinctual reactions to danger."
+    ],
+    "notes": "İçgüdüsel, düşünmeden yapılan davranışlara ilişkin."
+  },
+  {
+    "word": "gravitate toward",
+    "definition": "To be attracted or drawn toward something or someone.",
+    "examples": [
+      "People tend to gravitate toward others with similar interests.",
+      "Children often gravitate toward colorful toys."
+    ],
+    "notes": "Doğal olarak yönelmek, ilgi duymak."
+  },
+  {
     "word": "settings",
     "definition": "The time, place, and circumstances in which something occurs.",
     "examples": [
