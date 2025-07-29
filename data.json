@@ -1,5 +1,167 @@
 [
-{
+  {
+    "word": "wetland",
+    "definition": "An area of land that is covered with shallow water either permanently or seasonally.",
+    "examples": [
+      "Wetlands are important habitats for many species of birds and amphibians.",
+      "The government is working to protect coastal wetlands from pollution."
+    ],
+    "notes": "Sulak alan. Sürekli ya da mevsimsel olarak suyla kaplı kara parçası."
+  },
+  {
+    "word": "wells",
+    "definition": "Deep holes drilled into the ground to access water, oil, or other resources.",
+    "examples": [
+      "Villagers rely on wells for their daily water supply.",
+      "Some wells dried up during the drought."
+    ],
+    "notes": "Kuyular. Genellikle yer altı suyu ya da diğer doğal kaynakları çıkarmak için açılan derin çukurlar."
+  },
+  {
+    "word": "adversity",
+    "definition": "A difficult or unpleasant situation; hardship or misfortune.",
+    "examples": [
+      "He showed courage in the face of adversity.",
+      "The team overcame great adversity to win the championship."
+    ],
+    "notes": "Zorluk, sıkıntılı durum, musibet anlamındadır. Genellikle uzun süren veya büyük engeller için kullanılır."
+  },
+  {
+    "word": "to dispute",
+    "definition": "To argue or disagree about something.",
+    "examples": [
+      "They disputed the results of the election.",
+      "The scientists disputed the validity of the findings."
+    ],
+    "notes": "Tartışmak, itiraz etmek, karşı çıkmak."
+  },
+  {
+    "word": "to become extinct / go extinct",
+    "definition": "To no longer exist; to die out completely.",
+    "examples": [
+      "Many species have become extinct due to habitat loss.",
+      "Dinosaurs went extinct millions of years ago."
+    ],
+    "notes": "Nesli tükenmek. Eşanlamlılar: 'die out', 'disappear'. İsim hali: extinction (neslin tükenmesi)."
+  },
+  {
+    "word": "to posit",
+    "definition": "To suggest or put forward an idea or theory as a basis for discussion.",
+    "examples": [
+      "The scientist posited a new theory on climate change.",
+      "He posited that all people are inherently good."
+    ],
+    "notes": "İleri sürmek, öne sürmek (teorik veya fikirsel bir iddia)."
+  },
+  {
+    "word": "to elaborate",
+    "definition": "To explain or describe in more detail.",
+    "examples": [
+      "Could you elaborate on your plan?",
+      "She elaborated her argument with examples and data."
+    ],
+    "notes": "Ayrıntılandırmak, detaylandırmak."
+  },
+  {
+    "word": "ponds",
+    "definition": "Small bodies of still water, typically smaller than lakes.",
+    "examples": [
+      "Frogs live in ponds and wetlands.",
+      "We saw ducks swimming in the pond."
+    ],
+    "notes": "Gölet, küçük su birikintisi."
+  },
+  {
+    "word": "to outpace",
+    "definition": "To go faster or do better than someone or something.",
+    "examples": [
+      "The company outpaced its competitors in sales.",
+      "Demand for resources has outpaced supply."
+    ],
+    "notes": "Geride bırakmak, daha hızlı olmak, geçmek."
+  },
+  {
+    "word": "to replenish",
+    "definition": "To fill something up again; to restore.",
+    "examples": [
+      "We need to replenish the food supplies.",
+      "The lake is replenished by rainfall."
+    ],
+    "notes": "Yeniden doldurmak, tazelemek, eski hâline getirmek."
+  },
+  {
+    "word": "drinkable water",
+    "definition": "Water that is safe to drink; potable water.",
+    "examples": [
+      "Access to drinkable water is a global issue.",
+      "Not all tap water is drinkable in some countries."
+    ],
+    "notes": "İçilebilir su. Eşanlamlı: potable water."
+  },
+  {
+    "word": "diminish",
+    "definition": "To make or become less.",
+    "examples": [
+      "His influence has diminished over the years.",
+      "The pain gradually diminished after taking medicine."
+    ],
+    "notes": "Azalmak, azaltmak."
+  },
+  {
+    "word": "purify",
+    "definition": "To make something clean or free from harmful substances.",
+    "examples": [
+      "They use filters to purify the water.",
+      "The air is purified through a special system."
+    ],
+    "notes": "Arıtmak, saflaştırmak."
+  },
+  {
+    "word": "contaminated water",
+    "definition": "Water that has been made impure or unsafe by contact with harmful substances.",
+    "examples": [
+      "Drinking contaminated water can cause diseases.",
+      "The flood left the wells contaminated."
+    ],
+    "notes": "Kirlenmiş, zararlı maddeler içeren su."
+  },
+  {
+    "word": "bleak",
+    "definition": "Cold, depressing, or without hope.",
+    "examples": [
+      "The future looks bleak if no action is taken.",
+      "They walked through a bleak, empty landscape."
+    ],
+    "notes": "Kasvetli, iç karartıcı, umutsuz."
+  },
+  {
+    "word": "to diverge",
+    "definition": "To separate or go in different directions.",
+    "examples": [
+      "The two paths diverge at the top of the hill.",
+      "Their opinions diverged on how to solve the issue."
+    ],
+    "notes": "Ayrılmak, farklı yönlere gitmek (fikirler veya yollar için)."
+  },
+  {
+    "word": "to polish",
+    "definition": "To make something smooth and shiny by rubbing it.",
+    "examples": [
+      "He polished the table until it shone.",
+      "You should polish your shoes before the interview."
+    ],
+    "notes": "Parlatmak, cilalamak."
+  },
+  {
+    "word": "a means / means",
+    "definition": "A method or way of doing something; singular and plural forms are the same.",
+    "examples": [
+      "Education is a means of personal growth.",
+      "They had no means of communication during the storm."
+    ],
+    "notes": "'Means' hem tekil hem çoğul olarak kullanılır. Anlamı: araç, yol, yöntem."
+  },
+  {
     "word": "compel",
     "definition": "To force or strongly persuade someone to do something.",
     "examples": [
