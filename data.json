@@ -1,5 +1,239 @@
 [
   {
+    "word": "Within this tank, lives a miniature world",
+    "definition": "A sentence with inverted word order where the subject follows the verb for emphasis.",
+    "examples": [
+      "Within this tank, lives a miniature world full of tiny creatures.",
+      "On the hill stood a lonely old tree."
+    ],
+    "notes": "Devrik cümle: Normalde 'A miniature world lives within this tank.' şeklinde olur. Burada 'lives' fiili önce, özne sonra gelir; vurgu yapmak için kullanılır."
+  },
+  {
+    "word": "partnerships will form / partnerships will be formed",
+    "definition": "Active voice vs passive voice for future tense.",
+    "examples": [
+      "Partnerships will form between the two companies.",
+      "Partnerships will be formed after the meeting."
+    ],
+    "notes": "'Partnerships will form' aktif (etken) yapıdır, özne (partnerships) işi yapar. 'Partnerships will be formed' ise pasif (edilgen) yapıdır, iş başkası tarafından yapılır. İkisi anlam olarak benzer ama kullanım farklıdır."
+  },
+  {
+    "word": "despite all odds",
+    "definition": "Although something is very unlikely or difficult.",
+    "examples": [
+      "Despite all odds, she completed the marathon.",
+      "They succeeded despite all odds."
+    ],
+    "notes": "Bütün zorluklara rağmen, umulmadık şekilde."
+  },
+  {
+    "word": "barren wasteland",
+    "definition": "A dry, empty, and infertile area of land.",
+    "examples": [
+      "The desert was a barren wasteland with no vegetation.",
+      "After the fire, the forest became a barren wasteland."
+    ],
+    "notes": "Çorak arazi, verimsiz ve çıplak toprak."
+  },
+  {
+    "word": "to thrive",
+    "definition": "To grow, develop, or be successful.",
+    "examples": [
+      "Plants thrive in this climate.",
+      "The business is thriving despite the recession."
+    ],
+    "notes": "Gelişmek, büyümek, başarılı olmak."
+  },
+  {
+    "word": "thriving ecosystem",
+    "definition": "An ecosystem that is healthy and growing.",
+    "examples": [
+      "The coral reef is a thriving ecosystem.",
+      "A thriving ecosystem supports many species."
+    ],
+    "notes": "Sağlıklı ve gelişmekte olan ekosistem."
+  },
+  {
+    "word": "fortress",
+    "definition": "A strong building used for defense.",
+    "examples": [
+      "The castle was built as a fortress against invaders.",
+      "The fortress stood on the hill, guarding the city."
+    ],
+    "notes": "Kale, hisar."
+  },
+  {
+    "word": "coral",
+    "definition": "Marine invertebrates that build reefs.",
+    "examples": [
+      "Colorful coral attracts many fish.",
+      "Coral reefs are important marine habitats."
+    ],
+    "notes": "Mercan; deniz canlılarının oluşturduğu yapılar."
+  },
+  {
+    "word": "refuge (noun and verb)",
+    "definition": "Noun: a safe place; Verb: to seek shelter.",
+    "examples": [
+      "The forest was a refuge for endangered species.",
+      "The animals refuged in the caves during the storm."
+    ],
+    "notes": "İsim: sığınak, korunma yeri. Fiil: sığınmak, korunmak."
+  },
+  {
+    "word": "refugee",
+    "definition": "A person who flees their country due to danger or persecution.",
+    "examples": [
+      "Thousands of refugees crossed the border.",
+      "The refugee camp provided shelter and food."
+    ],
+    "notes": "Mülteci."
+  },
+  {
+    "word": "reef",
+    "definition": "A ridge of rock, coral, or sand near the water surface.",
+    "examples": [
+      "The reef was teeming with colorful fish.",
+      "Divers explored the coral reef."
+    ],
+    "notes": "Resif."
+  },
+  {
+    "word": "hideout",
+    "definition": "A place used for hiding.",
+    "examples": [
+      "The criminals had a secret hideout in the forest.",
+      "They used the cave as a hideout from the storm."
+    ],
+    "notes": "Saklanma yeri."
+  },
+  {
+    "word": "commotion",
+    "definition": "A state of noisy confusion or disturbance.",
+    "examples": [
+      "There was a commotion in the street after the accident.",
+      "The sudden noise caused a commotion in the classroom."
+    ],
+    "notes": "Kargaşa, yaygara."
+  },
+  {
+    "word": "burrow",
+    "definition": "To dig a hole or tunnel, especially for shelter.",
+    "examples": [
+      "Rabbits burrow underground to make their homes.",
+      "The mole burrowed deep into the soil."
+    ],
+    "notes": "Oyuk kazmak, in yapmak."
+  },
+  {
+    "word": "to graze",
+    "definition": "To feed on grass; also to eat small amounts of food throughout the day.",
+    "examples": [
+      "Cows graze in the pasture all day.",
+      "She grazed on fruit and nuts between meals."
+    ],
+    "notes": "Otlamak (hayvan), hafif hafif atıştırmak (insan)."
+  },
+  {
+    "word": "to take shelter",
+    "definition": "To find a safe place during bad weather or danger.",
+    "examples": [
+      "We took shelter under a tree during the storm.",
+      "Birds take shelter in thick bushes."
+    ],
+    "notes": "Sığınmak, korunmak."
+  },
+  {
+    "word": "debris",
+    "definition": "Scattered pieces of waste or remains.",
+    "examples": [
+      "After the storm, debris was scattered everywhere.",
+      "The cleanup crew removed debris from the road."
+    ],
+    "notes": "Enkaz, döküntü."
+  },
+  {
+    "word": "filter out",
+    "definition": "To remove unwanted substances by passing through a filter.",
+    "examples": [
+      "The machine filters out impurities from the water.",
+      "He filtered out the noise from the recording."
+    ],
+    "notes": "Filtrelemek, arıtmak."
+  },
+  {
+    "word": "sponges",
+    "definition": "Simple aquatic animals that filter water to feed.",
+    "examples": [
+      "Sponges clean the water by filtering it.",
+      "They found colorful sponges on the ocean floor."
+    ],
+    "notes": "Süngerler (deniz canlısı)."
+  },
+  {
+    "word": "By day 72, the reef had become a refuge for many forms of life",
+    "definition": "Past perfect tense used to emphasize the state before a certain time.",
+    "examples": [
+      "By day 72, the reef had become a refuge.",
+      "By the time we arrived, she had already left."
+    ],
+    "notes": "'Had become' geçmişte bir zamana kadar tamamlanmış bir durumu anlatır. 'Have become' şimdiki zamana yakın veya etkisi süren durumlarda kullanılır."
+  },
+  {
+    "word": "slug",
+    "definition": "A small, slimy, shell-less mollusk.",
+    "examples": [
+      "The garden was full of slugs after the rain.",
+      "Slugs move slowly across the leaves."
+    ],
+    "notes": "Sümüklüböcek."
+  },
+  {
+    "word": "slime coat on their skin",
+    "definition": "A slippery, protective layer covering the skin of some animals.",
+    "examples": [
+      "Frogs have a slime coat that keeps their skin moist.",
+      "The fish’s slime coat protects it from infections."
+    ],
+    "notes": "Derideki sümüksü tabaka, koruyucu tabaka."
+  },
+  {
+    "word": "pile of bones",
+    "definition": "A heap of skeletal remains.",
+    "examples": [
+      "The predator left a pile of bones after feeding.",
+      "Archaeologists discovered a pile of bones in the cave."
+    ],
+    "notes": "Kemik yığını."
+  },
+  {
+    "word": "as day turns to night",
+    "definition": "An expression describing the transition from daytime to nighttime.",
+    "examples": [
+      "As day turns to night, the city lights up.",
+      "Animals prepare for rest as day turns to night."
+    ],
+    "notes": "Gündüzün geceye dönmesi, gün batımı."
+  },
+  {
+    "word": "shrimp",
+    "definition": "A small marine crustacean with a long body and antennae.",
+    "examples": [
+      "Shrimp are commonly used in cooking.",
+      "We saw colorful shrimp in the coral reef."
+    ],
+    "notes": "Karides."
+  },
+  {
+    "word": "The coral puts on a show",
+    "definition": "An expression meaning the coral displays impressive or colorful activity.",
+    "examples": [
+      "At sunrise, the coral puts on a show of vibrant colors.",
+      "The reef puts on a show for divers."
+    ],
+    "notes": "Mercan canlı bir gösteri sunar (canlı ve renkli etkinlik)."
+  },
+  {
     "word": "wetland",
     "definition": "An area of land that is covered with shallow water either permanently or seasonally.",
     "examples": [
