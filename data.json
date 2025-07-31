@@ -1,5 +1,59 @@
 [
   {
+    "word": "stalls",
+    "definition": "Small enclosed spaces or booths used for selling goods or for other purposes.",
+    "examples": [
+      "Food stalls lined the streets during the festival.",
+      "We bought souvenirs from the market stalls."
+    ],
+    "notes": "Tezgahlar, küçük satış noktaları. Ayrıca tuvalet bölmesi gibi anlamlarda da kullanılabilir (toilet stalls)."
+  },
+  {
+    "word": "lean",
+    "definition": "To rest or incline at an angle, often for support.",
+    "examples": [
+      "She leaned against the wall, looking tired.",
+      "Don’t lean too far out of the window."
+    ],
+    "notes": "Dayanmak, yaslanmak. Ayrıca 'lean' sıfat olarak 'zayıf, yağsız (et)' anlamına da gelir."
+  },
+  {
+    "word": "bolster",
+    "definition": "To support or strengthen something.",
+    "examples": [
+      "They tried to bolster his confidence before the exam.",
+      "Extra evidence bolstered the argument."
+    ],
+    "notes": "Desteklemek, güçlendirmek (soyut anlamda)."
+  },
+  {
+    "word": "dissipate",
+    "definition": "To gradually disappear or become less; to scatter.",
+    "examples": [
+      "The fog began to dissipate as the sun rose.",
+      "Her anger dissipated after a few minutes."
+    ],
+    "notes": "Dağılmak, yok olmak, azalmak."
+  },
+  {
+    "word": "soar (temperature)",
+    "definition": "To rise rapidly or to a very high level.",
+    "examples": [
+      "Temperatures soared above 40°C last summer.",
+      "As the sun came out, the heat soared."
+    ],
+    "notes": "Hızla yükselmek. Genellikle sıcaklık, fiyat, his gibi şeyler için kullanılır."
+  },
+  {
+    "word": "dehydration",
+    "definition": "A condition caused by excessive loss of water from the body.",
+    "examples": [
+      "He suffered from dehydration after hiking without enough water.",
+      "Dehydration can be dangerous if not treated quickly."
+    ],
+    "notes": "Susuz kalma, vücuttaki sıvı kaybı."
+  },
+  {
     "word": "print your files from / off of the library computers",
     "definition": "Different phrasing for expressing the same action—formal vs. informal.",
     "examples": [
