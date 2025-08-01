@@ -1,5 +1,86 @@
 [
   {
+    "word": "disperse",
+    "definition": "To spread or scatter something over a wide area.",
+    "examples": [
+      "The wind helped disperse the seeds across the field.",
+      "The police used tear gas to disperse the crowd."
+    ],
+    "notes": "Dağıtmak, yaymak (özellikle insanlar, tohumlar, parçacıklar vb. için)."
+  },
+  {
+    "word": "dispersal",
+    "definition": "The act or process of spreading things over a wide area.",
+    "examples": [
+      "Seed dispersal is essential for plant reproduction.",
+      "The dispersal of fog allowed us to see the road clearly."
+    ],
+    "notes": "Dağılma, yayılma. Genellikle doğal süreçlerde (tohum, sis vb.) kullanılır."
+  },
+  {
+    "word": "dissipate",
+    "definition": "To disappear gradually or to cause something to disappear.",
+    "examples": [
+      "The storm clouds slowly dissipated by morning.",
+      "Her fear began to dissipate once she entered the room."
+    ],
+    "notes": "Yavaş yavaş dağılmak, yok olmak. Genellikle sis, korku, enerji vb. soyut şeyler için."
+  },
+  {
+    "word": "dandelion",
+    "definition": "A common plant with bright yellow flowers and fluffy seed heads.",
+    "examples": [
+      "Children love to blow dandelion seeds into the air.",
+      "A single dandelion can release hundreds of seeds."
+    ],
+    "notes": "Karahindiba. Sarı çiçekli, tohumlarını rüzgârla dağıtan bitki."
+  },
+  {
+    "word": "breeze",
+    "definition": "A gentle and light wind.",
+    "examples": [
+      "A cool breeze came through the window.",
+      "The breeze helped the dandelion seeds travel far."
+    ],
+    "notes": "Hafif rüzgâr, meltem."
+  },
+  {
+    "word": "fluffy",
+    "definition": "Light, soft, and airy in texture or appearance.",
+    "examples": [
+      "The kitten’s fur was soft and fluffy.",
+      "Dandelions turn into fluffy white balls when they go to seed."
+    ],
+    "notes": "Yumuşak ve kabarık. Genellikle tüy, bulut, tohum başı gibi şeyler için kullanılır."
+  },
+  {
+    "word": "nutrition",
+    "definition": "The process of getting the food necessary for health and growth.",
+    "examples": [
+      "Good nutrition is important for growing children.",
+      "The doctor gave her advice about proper nutrition."
+    ],
+    "notes": "Beslenme, vücudun büyüme ve sağlık için ihtiyaç duyduğu şeyleri alma süreci."
+  },
+  {
+    "word": "nutrient",
+    "definition": "A substance that provides nourishment essential for growth and health.",
+    "examples": [
+      "Soil provides nutrients for plants to grow.",
+      "Calcium is an important nutrient for bones."
+    ],
+    "notes": "Besin öğesi, vücuda fayda sağlayan maddeler."
+  },
+  {
+    "word": "seedling",
+    "definition": "A young plant that has grown from a seed.",
+    "examples": [
+      "The gardener planted the seedlings in rows.",
+      "Each seedling needs sunlight and water to grow."
+    ],
+    "notes": "Fideler; tohumdan yeni çıkmış küçük bitkiler."
+  },
+  {
     "word": "stalls",
     "definition": "Small enclosed spaces or booths used for selling goods or for other purposes.",
     "examples": [
