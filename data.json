@@ -1,5 +1,32 @@
 [
   {
+    "word": "lids",
+    "definition": "Covers or tops for containers such as jars, boxes, or cups.",
+    "examples": [
+      "She forgot to put the lids on the coffee cups.",
+      "The pot lids were rattling from the boiling water."
+    ],
+    "notes": "Kapaklar. Kavanoz, tencere, bardak gibi şeylerin üstünü örten parça."
+  },
+  {
+    "word": "stains",
+    "definition": "Marks or discolorations that are difficult to remove, often caused by liquids or dirt.",
+    "examples": [
+      "There were coffee stains on the tablecloth.",
+      "Red wine stains are hard to clean from clothes."
+    ],
+    "notes": "Leke, iz. Özellikle kalıcı ve zor çıkan türden kirler."
+  },
+  {
+    "word": "spills",
+    "definition": "Accidental flows or drops of a liquid that fall or leak from a container.",
+    "examples": [
+      "He cleaned up the milk spills from the kitchen floor.",
+      "There were several oil spills in the ocean last year."
+    ],
+    "notes": "Dökülme, sıvı saçılması. Kazara olan sıvı taşmaları."
+  },
+  {
     "word": "disperse",
     "definition": "To spread or scatter something over a wide area.",
     "examples": [
