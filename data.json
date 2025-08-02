@@ -1,5 +1,383 @@
 [
   {
+    "word": "the desert sun will dry up little pond",
+    "definition": "The heat from the sun in the desert will cause the small pond to evaporate.",
+    "examples": [
+      "Without rain, the desert sun will dry up the little pond completely.",
+      "In arid regions, the sun often dries up small bodies of water."
+    ],
+    "notes": "Desert: çöl, dry up: kurutmak, little pond: küçük gölet."
+  },
+  {
+    "word": "the pond had dried up completely",
+    "definition": "The pond lost all its water and became dry.",
+    "examples": [
+      "By the end of summer, the pond had dried up completely.",
+      "The drought caused the pond to dry up completely."
+    ],
+    "notes": "Gölet tamamen kurumuş."
+  },
+  {
+    "word": "teem",
+    "definition": "To be full of or swarming with.",
+    "examples": [
+      "The forest teemed with wildlife.",
+      "The river is teeming with fish in spring."
+    ],
+    "notes": "Kaynamak, dolup taşmak (canlı veya nesnelerle)."
+  },
+  {
+    "word": "eggs lay dormant in the sand",
+    "definition": "Eggs remain inactive or in a resting state in the sand.",
+    "examples": [
+      "The eggs lay dormant in the sand until the temperature rose.",
+      "Some insects’ eggs can lie dormant for months."
+    ],
+    "notes": "Yumurtaların kumda hareketsiz kalması, gelişime başlamamış olması."
+  },
+  {
+    "word": "to hatch",
+    "definition": "To emerge from an egg.",
+    "examples": [
+      "The chicks hatched early in the morning.",
+      "Reptiles usually hatch without help."
+    ],
+    "notes": "Yumurtadan çıkmak (canlılar için)."
+  },
+  {
+    "word": "to huddle under sth",
+    "definition": "To crowd together under something for warmth or protection.",
+    "examples": [
+      "The children huddled under the blanket.",
+      "Animals huddle under trees during storms."
+    ],
+    "notes": "Bir şeyin altına sokulmak, sıkıca bir araya gelmek."
+  },
+  {
+    "word": "caterpillar",
+    "definition": "The larval stage of a butterfly or moth.",
+    "examples": [
+      "The caterpillar crawled across the leaf.",
+      "Caterpillars eat a lot before becoming butterflies."
+    ],
+    "notes": "Tırtıl, kelebek ya da güve larvası."
+  },
+  {
+    "word": "bean",
+    "definition": "A seed or pod used as food, especially from the legume family.",
+    "examples": [
+      "She cooked a dish made with red beans.",
+      "Beans grow well in warm climates."
+    ],
+    "notes": "Fasulye, baklagil tohumu."
+  },
+  {
+    "word": "moth",
+    "definition": "A nocturnal insect similar to a butterfly.",
+    "examples": [
+      "The moth was attracted to the light.",
+      "Some moths have beautiful patterns on their wings."
+    ],
+    "notes": "Güve, gece uçan kelebek benzeri böcek."
+  },
+  {
+    "word": "substantially",
+    "definition": "Largely, significantly, or considerably.",
+    "examples": [
+      "The population has substantially increased.",
+      "Their income was substantially higher this year."
+    ],
+    "notes": "Önemli ölçüde, büyük oranda."
+  },
+  {
+    "word": "crustaceans",
+    "definition": "Aquatic animals like crabs, lobsters, and shrimp with hard shells.",
+    "examples": [
+      "Crustaceans live in both freshwater and saltwater.",
+      "The crab is a type of crustacean."
+    ],
+    "notes": "Kabuklu deniz hayvanları (yengeç, karides, ıstakoz vb.)."
+  },
+  {
+    "word": "delicate",
+    "definition": "Easily broken or damaged; fragile.",
+    "examples": [
+      "The coral reef is a delicate ecosystem.",
+      "Be careful, the vase is very delicate."
+    ],
+    "notes": "Hassas, kırılgan, narin."
+  },
+  {
+      "word": "to breed",
+      "definition": "To produce offspring through reproduction.",
+      "examples": [
+          "Many animals breed in the spring.",
+          "The farm breeds horses for racing."
+      ],
+      "notes": "Üremek, yavrulamak; yetiştirmek (özellikle hayvanlar için)."
+  },
+  {
+      "word": "beetle",
+      "definition": "A type of insect with hard wing covers.",
+      "examples": [
+          "The beetle crawled under the rock.",
+          "Ladybugs are a type of beetle."
+      ],
+      "notes": "Böcek türü. Genellikle sert kabukludur."
+  },
+  {
+      "word": "to feign",
+      "definition": "To pretend or fake something.",
+      "examples": [
+          "He feigned illness to avoid going to school.",
+          "The lizard feigned death to escape the predator."
+      ],
+      "notes": "Numara yapmak, taklit etmek."
+  },
+  {
+      "word": "sunscreen",
+      "definition": "A lotion or spray that protects the skin from sun damage.",
+      "examples": [
+          "Always wear sunscreen at the beach.",
+          "She applied sunscreen to avoid sunburn."
+      ],
+      "notes": "Güneş kremi."
+  },
+  {
+      "word": "powder",
+      "definition": "Dry, soft particles (noun); to cover with or turn into powder (verb).",
+      "examples": [
+          "She used baby powder after the bath.",
+          "The sugar was powdered on top of the cake."
+      ],
+      "notes": "Toz (isim); toz haline getirmek veya tozla kaplamak (fiil)."
+  },
+  {
+      "word": "abdomen",
+      "definition": "The part of the body containing digestive organs; in insects, the rear body segment.",
+      "examples": [
+          "The insect’s abdomen was swollen.",
+          "Pain in the abdomen can have many causes."
+      ],
+      "notes": "Karın bölgesi; böceklerde vücutlarının arka kısmı."
+  },
+  {
+      "word": "doom",
+      "definition": "A terrible fate or unavoidable bad outcome.",
+      "examples": [
+          "The ship sailed toward its doom.",
+          "The character’s doom was sealed early in the story."
+      ],
+      "notes": "Kaçınılmaz kötü son, kader."
+  },
+  {
+      "word": "a stalemate",
+      "definition": "A situation where neither side can make progress or win.",
+      "examples": [
+          "The negotiation ended in a stalemate.",
+          "The chess match resulted in a stalemate."
+      ],
+      "notes": "Çıkmaz, tıkanıklık, berabere durum."
+  },
+  {
+      "word": "the tank began to flood",
+      "definition": "Water started to fill the tank uncontrollably.",
+      "examples": [
+          "Suddenly, the tank began to flood.",
+          "They evacuated the room as the tank began to flood."
+      ],
+      "notes": "Tank suyla dolmaya başladı (taşma, sızma durumu)."
+  },
+  {
+      "word": "teeming with life",
+      "definition": "Full of many living organisms.",
+      "examples": [
+          "The coral reef was teeming with life.",
+          "The pond was once again teeming with life after the rain."
+      ],
+      "notes": "Hayatla dolu, canlılarla kaynayan."
+  },
+  {
+      "word": "juveniles",
+      "definition": "Young individuals of a species, not yet fully mature.",
+      "examples": [
+          "Juvenile crocodiles stay near water for protection.",
+          "The zoo has a special area for juvenile animals."
+      ],
+      "notes": "Genç bireyler, henüz erişkin olmayan hayvanlar."
+  },
+  {
+      "word": "shedding skin",
+      "definition": "The process of losing or removing old skin to allow new growth.",
+      "examples": [
+          "Snakes shed their skin regularly as they grow.",
+          "Shedding skin helps reptiles remove parasites."
+      ],
+      "notes": "Deri değiştirme, eski derinin atılması."
+  },
+  {
+      "word": "counterpart",
+      "definition": "Someone or something that has the same function or position in a different place or situation.",
+      "examples": [
+          "The American ambassador met with his French counterpart.",
+          "The crocodile is the freshwater counterpart of the alligator."
+      ],
+      "notes": "Benzer görev veya konumda olan kişi ya da şey."
+  },
+  {
+      "word": "hollow",
+      "definition": "Having a space or empty area inside.",
+      "examples": [
+          "The tree trunk was hollow and filled with insects.",
+          "Some bones are hollow to reduce weight."
+      ],
+      "notes": "İçi boş, oyuk."
+  },
+  {
+      "word": "running rampant",
+      "definition": "Spreading quickly and uncontrollably.",
+      "examples": [
+          "Rumors were running rampant after the announcement.",
+          "Disease can run rampant in crowded conditions."
+      ],
+      "notes": "Hızla yayılmak, kontrolden çıkmak."
+  },
+  {
+      "word": "vicious",
+      "definition": "Violently dangerous or aggressive.",
+      "examples": [
+          "The dog became vicious when it felt threatened.",
+          "That was a vicious attack on the suspect."
+      ],
+      "notes": "Aşırı agresif, saldırgan, kötü niyetli."
+  },
+  {
+      "word": "make short work of sth",
+      "definition": "To finish or deal with something quickly and easily.",
+      "examples": [
+          "The lion made short work of its prey.",
+          "He made short work of the essay assignment."
+      ],
+      "notes": "Bir işi hızla ve kolayca bitirmek."
+  },
+  {
+      "word": "alongside",
+      "definition": "Next to or together with.",
+      "examples": [
+          "The soldiers fought alongside their allies.",
+          "He works alongside engineers on the project."
+      ],
+      "notes": "Yanında, birlikte."
+  },
+  {
+      "word": "burrow",
+      "definition": "To dig a hole or tunnel for shelter; a hole or tunnel made by an animal.",
+      "examples": [
+          "The rabbit burrowed into the ground.",
+          "Foxes live in burrows under the trees."
+      ],
+      "notes": "Oyuk kazmak (fiil); oyuk, yuva (isim)."
+  },
+  {
+      "word": "The scorpion glows a radioactive green under UV light",
+      "definition": "Scorpions appear to glow under ultraviolet light due to chemicals in their exoskeleton.",
+      "examples": [
+          "When we shined the UV flashlight, the scorpion glowed green.",
+          "Scientists still study why scorpions glow under UV light."
+      ],
+      "notes": "UV ışığında yeşil parlamaları, dış iskeletlerindeki özel maddeler nedeniyle olur."
+  },
+  {
+      "word": "crocodilians",
+      "definition": "Large, carnivorous, semi-aquatic reptiles including crocodiles, alligators, caimans, and gharials.",
+      "examples": [
+          "Crocodilians are known for their powerful jaws and stealthy hunting.",
+          "Most crocodilians live in freshwater habitats like rivers and lakes."
+      ],
+      "notes": "Timsahgiller. Timsah, alligator ve benzeri büyük sürüngenleri kapsar."
+  },
+  {
+      "word": "care for a crocodilian",
+      "definition": "To provide food, shelter, and health support for a crocodilian in captivity.",
+      "examples": [
+          "Zookeepers are trained to care for crocodilians safely.",
+          "It takes experience to care for a crocodilian properly."
+      ],
+      "notes": "Bir timsahgile bakmak, ilgilenmek (beslemek, sağlık vb.)."
+  },
+  {
+      "word": "captivity",
+      "definition": "The condition of being kept in a confined space and not in the wild.",
+      "examples": [
+          "The animals were born in captivity and have never lived in the wild.",
+          "Keeping wild animals in captivity is controversial."
+      ],
+      "notes": "Esaret, doğal ortam dışında tutulma durumu."
+  },
+  {
+      "word": "compel",
+      "definition": "To force or strongly persuade someone to do something.",
+      "examples": [
+          "The law compels citizens to pay taxes.",
+          "She felt compelled to tell the truth."
+      ],
+      "notes": "Zorlamak, mecbur bırakmak."
+  },
+  {
+      "word": "to specialize in sth",
+      "definition": "To focus on and become an expert in a particular subject or activity.",
+      "examples": [
+          "He specializes in reptile behavior.",
+          "The doctor specializes in heart surgery."
+      ],
+      "notes": "Bir alanda uzmanlaşmak."
+  },
+  {
+      "word": "to proceed to do sth",
+      "definition": "To continue by doing something after a previous step.",
+      "examples": [
+          "She proceeded to explain the entire plan.",
+          "After the break, the team proceeded to build the model."
+      ],
+      "notes": "Bir şey yapmaya devam etmek ya da bir sonraki adıma geçmek."
+  },
+  {
+      "word": "substrate",
+      "definition": "The surface or material on which an organism lives or grows.",
+      "examples": [
+          "The lizard burrowed into the sandy substrate.",
+          "Different animals prefer different substrates."
+      ],
+      "notes": "Canlının yaşadığı zemin veya yüzey."
+  },
+  {
+      "word": "cactus vs. cacti",
+      "definition": "‘Cactus’ is the singular form, ‘cacti’ is the plural.",
+      "examples": [
+          "I have a cactus on my desk.",
+          "The desert is full of cacti."
+      ],
+      "notes": "Cactus (tekil), cacti (çoğul)."
+  },
+  {
+      "word": "spines",
+      "definition": "Sharp, needle-like structures found on certain plants and animals.",
+      "examples": [
+          "Cacti have spines instead of leaves.",
+          "The hedgehog's back is covered with spines."
+      ],
+      "notes": "Dikenler."
+  },
+  {
+      "word": "detrivores",
+      "definition": "Organisms that feed on dead organic matter.",
+      "examples": [
+          "Earthworms and some insects are detrivores.",
+          "Detrivores help recycle nutrients in ecosystems."
+      ],
+      "notes": "Çürükçül canlılar. Ölü organik madde ile beslenirler."
+  },
+  {
     "word": "participate in a survey",
     "definition": "To take part in answering questions for research or feedback purposes.",
     "examples": [
