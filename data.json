@@ -1,5 +1,113 @@
 [
   {
+    "word": "endow",
+    "definition": "To provide with a quality, ability, or asset.",
+    "examples": [
+      "Nature has endowed the planet with rich resources.",
+      "She was endowed with great intelligence."
+    ],
+    "notes": "Donatmak, bahşetmek. Genellikle soyut şeyler için kullanılır (zeka, yetenek, özellik)."
+  },
+  {
+    "word": "fluid",
+    "definition": "A substance that flows, such as a liquid or gas.",
+    "examples": [
+      "Water and oil are common fluids.",
+      "The doctor examined the patient's bodily fluids."
+    ],
+    "notes": "Sıvı veya gaz hâlindeki akışkan madde."
+  },
+  {
+    "word": "substance",
+    "definition": "A particular kind of matter with uniform properties.",
+    "examples": [
+      "The substance was tested in the lab.",
+      "They found a toxic substance in the water."
+    ],
+    "notes": "Madde, özellikle kimyasal veya fiziksel bir yapıya sahip olan şey."
+  },
+  {
+    "word": "substrate",
+    "definition": "The surface or material on or from which an organism lives, grows, or obtains nourishment.",
+    "examples": [
+      "The algae grows on the rocky substrate of the ocean floor.",
+      "Mushrooms prefer a moist substrate to grow on."
+    ],
+    "notes": "Üzerinde organizmaların büyüdüğü ya da yaşadığı yüzey/malzeme."
+  },
+  {
+    "word": "rifting",
+    "definition": "The process of the Earth's crust breaking apart due to tectonic activity.",
+    "examples": [
+      "Rifting caused the formation of a new valley.",
+      "The rifting of continents is a slow geological process."
+    ],
+    "notes": "Yer kabuğunun kırılması veya yarılması süreci (jeoloji terimi)."
+  },
+  {
+    "word": "glaciers",
+    "definition": "Large masses of ice that move slowly over land.",
+    "examples": [
+      "Glaciers carved deep valleys in the mountains.",
+      "The glacier has been melting rapidly due to climate change."
+    ],
+    "notes": "Buzullar. Yavaş hareket eden büyük buz kütleleri."
+  },
+  {
+    "word": "space probes",
+    "definition": "Unmanned spacecraft that explore space and gather data.",
+    "examples": [
+      "The space probe sent back images of Saturn.",
+      "NASA launched a new space probe to study the Sun."
+    ],
+    "notes": "Uzay sondaları. İnsan olmadan uzaya gönderilen veri toplama araçları."
+  },
+  {
+    "word": "evaporate",
+    "definition": "To change from a liquid into a gas.",
+    "examples": [
+      "The water evaporated in the hot sun.",
+      "Perfume evaporates quickly after being sprayed."
+    ],
+    "notes": "Buharlaşmak. Sıvı hâlden gaz hâline geçmek."
+  },
+  {
+    "word": "vent more gas into the atmosphere",
+    "definition": "To release additional gas from a surface or system into the air.",
+    "examples": [
+      "Volcanoes vent more gas into the atmosphere during eruptions.",
+      "Some factories vent harmful gases into the atmosphere."
+    ],
+    "notes": "Havaya (atmosfere) gaz salmak. ‘Vent’ fiili burada 'dışa bırakmak' anlamında."
+  },
+  {
+    "word": "erode",
+    "definition": "To gradually wear away soil, rock, or other material through natural forces.",
+    "examples": [
+      "Wind and rain eroded the cliffs over time.",
+      "The coastline is eroding at an alarming rate."
+    ],
+    "notes": "Aşındırmak. Rüzgar, su vb. doğal etkenlerle zamanla yıpratmak."
+  },
+  {
+    "word": "surface fluids",
+    "definition": "Liquids found on the surface of a planet or moon.",
+    "examples": [
+      "Scientists found surface fluids on Saturn’s moon Titan.",
+      "Surface fluids on Earth include lakes and rivers."
+    ],
+    "notes": "Yüzeyde bulunan sıvılar. Gezegen veya uyduların yüzeyindeki akışkan maddeler."
+  },
+  {
+    "word": "freight",
+    "definition": "Goods transported in bulk, usually by truck, train, ship, or aircraft.",
+    "examples": [
+      "The freight was loaded onto the ship.",
+      "Freight trains carry large amounts of goods across the country."
+    ],
+    "notes": "Yük, taşınan ticari mal. Genellikle büyük miktarlarda taşınan mallar için kullanılır."
+  },
+  {
     "word": "commence",
     "definition": "To begin or start something.",
     "examples": [
