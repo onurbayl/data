@@ -1,5 +1,311 @@
 [
   {
+    "word": "ample",
+    "definition": "More than enough; plentiful.",
+    "examples": [
+      "There was ample food for everyone.",
+      "She had ample time to finish the test."
+    ],
+    "notes": "Bol, yeterli miktarda."
+  },
+  {
+    "word": "notion",
+    "definition": "An idea, belief, or opinion.",
+    "examples": [
+      "He rejected the notion that money brings happiness.",
+      "She had a romantic notion of life in the countryside."
+    ],
+    "notes": "Fikir, kavram, düşünce."
+  },
+  {
+    "word": "sustenance",
+    "definition": "Food or nourishment needed to survive.",
+    "examples": [
+      "They found little sustenance in the desert.",
+      "Bread and water were their only sustenance."
+    ],
+    "notes": "Besin, yaşam kaynağı."
+  },
+  {
+    "word": "stark",
+    "definition": "Very plain, clear, or harsh in appearance or contrast.",
+    "examples": [
+      "The desert presented a stark landscape.",
+      "There is a stark difference between the two options."
+    ],
+    "notes": "Çarpıcı, sert, yalın."
+  },
+  {
+    "word": "persuade",
+    "definition": "To make someone agree to do something by giving reasons.",
+    "examples": [
+      "She persuaded him to join the trip.",
+      "Can I persuade you to stay a bit longer?"
+    ],
+    "notes": "İkna etmek (davranış değişikliğine odaklanır)."
+  },
+  {
+    "word": "convince",
+    "definition": "To make someone believe something is true.",
+    "examples": [
+      "I convinced him that it was safe.",
+      "She couldn't convince them of her innocence."
+    ],
+    "notes": "İkna etmek (inanç/değer değişikliğine odaklanır)."
+  },
+  {
+    "word": "strive",
+    "definition": "To make a great effort to achieve something.",
+    "examples": [
+      "We strive to provide the best service.",
+      "She always strives for perfection."
+    ],
+    "notes": "Çabalamak, gayret göstermek."
+  },
+  {
+    "word": "strive diligently",
+    "definition": "To work hard and carefully toward a goal.",
+    "examples": [
+      "He strived diligently to finish his research on time.",
+      "They strived diligently to improve living conditions."
+    ],
+    "notes": "Gayretle, büyük çabayla çabalamak."
+  },
+  {
+    "word": "evocative",
+    "definition": "Bringing strong images or feelings to mind.",
+    "examples": [
+      "The poem is evocative of childhood memories.",
+      "It was an evocative performance."
+    ],
+    "notes": "Çağrışım yapan, duyguları canlandıran."
+  },
+  {
+    "word": "studious attention",
+    "definition": "Careful and focused concentration.",
+    "examples": [
+      "She gave studious attention to every detail.",
+      "The artist painted with studious attention."
+    ],
+    "notes": "Dikkatli, özenli ilgi veya odaklanma."
+  },
+  {
+    "word": "prompt",
+    "definition": "To cause or encourage someone to do something.",
+    "examples": [
+      "What could have prompted their studious attention to making such images?",
+      "The teacher's question prompted a lively discussion."
+    ],
+    "notes": "Teşvik etmek, harekete geçirmek, yönlendirmek."
+  },
+  {
+    "word": "likeness",
+    "definition": "A depiction or resemblance of something.",
+    "examples": [
+      "The statue is a likeness of the king.",
+      "The cave painting shows a clear likeness of a deer."
+    ],
+    "notes": "Benzetim, tasvir, suret."
+  },
+  {
+    "word": "to confer success or luck",
+    "definition": "To give or grant success or good fortune.",
+    "examples": [
+      "They believed the painting would confer luck in the hunt.",
+      "Wearing the charm was said to confer success."
+    ],
+    "notes": "Şans ya da başarı getirmek."
+  },
+  {
+    "word": "nourishment",
+    "definition": "Food or anything that provides energy or health.",
+    "examples": [
+      "The baby needs proper nourishment.",
+      "The soup provided warmth and nourishment."
+    ],
+    "notes": "Besin, besleyici şeyler."
+  },
+  {
+    "word": "sheer joy",
+    "definition": "Pure, intense happiness.",
+    "examples": [
+      "They danced out of sheer joy.",
+      "The child screamed with sheer joy when he saw the gift."
+    ],
+    "notes": "Tam anlamıyla, saf mutluluk."
+  },
+  {
+    "word": "delight",
+    "definition": "A feeling of great pleasure or satisfaction.",
+    "examples": [
+      "The children squealed in delight.",
+      "It was a delight to hear her sing."
+    ],
+    "notes": "Zevk, neşe, büyük mutluluk."
+  },
+  {
+    "word": "imitation",
+    "definition": "The act of copying someone or something.",
+    "examples": [
+      "Parrots are known for their imitation of human speech.",
+      "The painting was an imitation of a famous work."
+    ],
+    "notes": "Taklit, benzetme."
+  },
+  {
+    "word": "triumph",
+    "definition": "A great victory or achievement.",
+    "examples": [
+      "Winning the championship was a major triumph.",
+      "The team celebrated their triumph over adversity."
+    ],
+    "notes": "Zafer, büyük başarı."
+  },
+  {
+    "word": "a certain appeal",
+    "definition": "A particular attraction or charm.",
+    "examples": [
+      "The old town has a certain appeal.",
+      "His unusual style had a certain appeal to young audiences."
+    ],
+    "notes": "Kendine has bir çekicilik, cazibe."
+  },
+  {
+    "word": "handiwork",
+    "definition": "Work done skillfully by hand.",
+    "examples": [
+      "The embroidery is her handiwork.",
+      "We admired the artist’s handiwork on the sculpture."
+    ],
+    "notes": "El emeği, ustalık işi."
+  },
+  {
+    "word": "plausibly",
+    "definition": "In a way that seems reasonable or probable.",
+    "examples": [
+      "He plausibly explained his absence.",
+      "The theory was plausibly argued by the scientist."
+    ],
+    "notes": "Mantıklı bir şekilde, akla yatkın biçimde."
+  },
+  {
+    "word": "proliferation",
+    "definition": "A rapid increase in the number or amount of something.",
+    "examples": [
+      "There has been a proliferation of smartphones in recent years.",
+      "The proliferation of fake news is concerning."
+    ],
+    "notes": "Hızlı artış, çoğalma."
+  },
+  {
+    "word": "innumerable",
+    "definition": "Too many to be counted.",
+    "examples": [
+      "There are innumerable stars in the sky.",
+      "She has faced innumerable challenges."
+    ],
+    "notes": "Sayısız, çok fazla."
+  },
+  {
+    "word": "repertoire",
+    "definition": "All the things a person is able to do or perform.",
+    "examples": [
+      "The singer added new songs to her repertoire.",
+      "He has a wide repertoire of cooking techniques."
+    ],
+    "notes": "Repertuvar; bir kişinin yapabildiği tüm şeyler."
+  },
+  {
+    "word": "recur",
+    "definition": "To happen again or repeatedly.",
+    "examples": [
+      "The same problem keeps recurring.",
+      "Headaches may recur after stress."
+    ],
+    "notes": "Tekrar etmek, yeniden meydana gelmek."
+  },
+  {
+    "word": "accorded to the animals",
+    "definition": "Given or granted to animals.",
+    "examples": [
+      "Respect was accorded to the animals in the ritual.",
+      "Certain rights are accorded to endangered species."
+    ],
+    "notes": "Hayvanlara tanınan/verilen (saygı, hak vb.)."
+  },
+  {
+    "word": "incidence of sth",
+    "definition": "The frequency or rate of something happening.",
+    "examples": [
+      "There has been a high incidence of flu this year.",
+      "The incidence of car accidents has dropped."
+    ],
+    "notes": "Bir şeyin meydana gelme sıklığı."
+  },
+  {
+    "word": "spectacular grotto",
+    "definition": "A very impressive natural cave.",
+    "examples": [
+      "We explored a spectacular grotto near the coast.",
+      "The painting was discovered inside a spectacular grotto."
+    ],
+    "notes": "Muhteşem mağara."
+  },
+  {
+    "word": "daub",
+    "definition": "To paint or smear carelessly.",
+    "examples": [
+      "Figures were daubed on the cave walls.",
+      "The child daubed paint on the paper."
+    ],
+    "notes": "Gelişigüzel boyamak, sürmek."
+  },
+  {
+    "word": "conceivably",
+    "definition": "Possibly; it can be imagined.",
+    "examples": [
+      "Conceivably, they might have migrated from the north.",
+      "This could conceivably lead to a new discovery."
+    ],
+    "notes": "Muhtemelen, akla gelebilecek şekilde."
+  },
+  {
+    "word": "conceive",
+    "definition": "To imagine or form an idea; to create.",
+    "examples": [
+      "She couldn't conceive of a world without art.",
+      "The plan was conceived by a group of engineers."
+    ],
+    "notes": "Tasarlamak, hayal etmek, düşünmek."
+  },
+  {
+    "word": "recesses",
+    "definition": "Inner, hidden parts of a space.",
+    "examples": [
+      "He searched the dark recesses of the cave.",
+      "Memories hidden in the recesses of her mind."
+    ],
+    "notes": "Kuytu köşe, iç kısımlar."
+  },
+  {
+    "word": "penetrate",
+    "definition": "To go through or enter something, especially with force.",
+    "examples": [
+      "Light couldn't penetrate the thick fog.",
+      "The bullet penetrated the wall."
+    ],
+    "notes": "Nüfuz etmek, içine girmek, delip geçmek."
+  },
+  {
+    "word": "nooks and crannies",
+    "definition": "Small hidden or hard-to-reach parts of a space.",
+    "examples": [
+      "The house has many nooks and crannies.",
+      "She searched every nook and cranny for her keys."
+    ],
+    "notes": "Köşe bucak, en gizli yerler."
+  },
+  {
     "word": "claws",
     "definition": "Sharp, curved nails found on the feet of some animals.",
     "examples": [
