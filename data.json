@@ -1,5 +1,257 @@
 [
   {
+    "word": "emerge",
+    "definition": "To come out or appear from somewhere.",
+    "examples": [
+      "The ant emerged from her cocoon.",
+      "After the rain, new plants began to emerge."
+    ],
+    "notes": "Ortaya çıkmak, görünmek."
+  },
+  {
+    "word": "choke out",
+    "definition": "To cause someone or something to stop functioning or survive by cutting off air or space.",
+    "examples": [
+      "The smoke choked out the fire.",
+      "Pollution can choke out plant life in rivers."
+    ],
+    "notes": "Boğmak, nefes almayı engellemek."
+  },
+  {
+    "word": "herbivore",
+    "definition": "An animal that eats only plants.",
+    "examples": [
+      "Cows are herbivores.",
+      "Most insects are herbivores."
+    ],
+    "notes": "Otçul hayvan."
+  },
+  {
+    "word": "take refuge in",
+    "definition": "To find shelter or protection in a place.",
+    "examples": [
+      "Birds take refuge in trees during storms.",
+      "They took refuge in a cave during the storm."
+    ],
+    "notes": "Sığınmak, korunmak için bir yere gitmek."
+  },
+  {
+    "word": "stagnant water",
+    "definition": "Water that is not flowing or moving and often becomes stale or dirty.",
+    "examples": [
+      "Mosquitoes breed in stagnant water.",
+      "Stagnant water can be a health hazard."
+    ],
+    "notes": "Durgun su."
+  },
+  {
+    "word": "undergrowth",
+    "definition": "Dense vegetation growing under trees in a forest.",
+    "examples": [
+      "The undergrowth was thick and hard to walk through.",
+      "Animals hide in the undergrowth for safety."
+    ],
+    "notes": "Alt bitki örtüsü, ağaç altındaki yoğun bitkiler."
+  },
+  {
+    "word": "walk past",
+    "definition": "To go by something without stopping.",
+    "examples": [
+      "He walked right past a web.",
+      "She walked past the store without noticing it."
+    ],
+    "notes": "Yanından geçmek."
+  },
+  {
+    "word": "seal oneself in",
+    "definition": "To close oneself off tightly or completely.",
+    "examples": [
+      "The spider seals herself in her web.",
+      "They sealed themselves in the room during the storm."
+    ],
+    "notes": "Kendini tamamen kapatmak, içine kapatmak."
+  },
+  {
+    "word": "young (noun plural)",
+    "definition": "The offspring or young animals of a particular species.",
+    "examples": [
+      "The bird cared for her young.",
+      "The lioness protected her young from danger."
+    ],
+    "notes": "Yavru, genç hayvanlar."
+  },
+  {
+    "word": "rest (plural)",
+    "definition": "The remaining part or people/things.",
+    "examples": [
+      "The rest follow the leader.",
+      "After the first group left, the rest stayed."
+    ],
+    "notes": "'Rest' çoğul anlamda kullanılır; kalanlar, geri kalan."
+  },
+  {
+    "word": "bloom",
+    "definition": "To produce flowers; the flowers of a plant.",
+    "examples": [
+      "The flowers bloom in spring.",
+      "The garden was full of colorful blooms."
+    ],
+    "notes": "Çiçek açmak, çiçek."
+  },
+  {
+    "word": "mythical",
+    "definition": "Relating to myths or legendary stories.",
+    "examples": [
+      "Dragons are mythical creatures.",
+      "The story describes a mythical hero."
+    ],
+    "notes": "Efsanevi, mitolojik."
+  },
+  {
+    "word": "scavenge",
+    "definition": "To search for and collect usable items from discarded material; to feed on dead animals.",
+    "examples": [
+      "Vultures scavenge on carcasses.",
+      "People scavenged for supplies after the disaster."
+    ],
+    "notes": "1. (Hayvanlar için) leşle beslenmek; 2. Atıklardan veya çöpten faydalı şeyler toplamak."
+  },
+  {
+    "word": "terrain",
+    "definition": "A stretch of land, especially with regard to its physical features.",
+    "examples": [
+      "The hikers struggled with the rough terrain.",
+      "The terrain was rocky and uneven."
+    ],
+    "notes": "Arazi, arazi yapısı."
+  },
+  {
+    "word": "moisture",
+    "definition": "Tiny drops of water present in the air, soil, or on surfaces.",
+    "examples": [
+      "Plants need moisture to grow.",
+      "There was moisture on the leaves after the rain."
+    ],
+    "notes": "Nem."
+  },
+  {
+    "word": "wildfire",
+    "definition": "A large, uncontrolled fire that spreads quickly over vegetation.",
+    "examples": [
+      "Wildfires destroyed large areas of forest.",
+      "Firefighters worked to control the wildfire."
+    ],
+    "notes": "Orman yangını, kontrolsüz büyük yangın."
+  },
+  {
+    "word": "sprout",
+    "definition": "To begin to grow; a new growth from a seed or plant.",
+    "examples": [
+      "Seeds sprout after a few days in the soil.",
+      "New leaves sprouted on the tree."
+    ],
+    "notes": "Filizlenmek, filiz."
+  },
+  {
+    "word": "pests",
+    "definition": "Animals or insects that damage crops or plants.",
+    "examples": [
+      "Farmers use pesticides to control pests.",
+      "Pests destroyed much of the garden."
+    ],
+    "notes": "Zararlı böcekler veya hayvanlar."
+  },
+  {
+    "word": "keep sth in check",
+    "definition": "To control or limit something to prevent it from becoming too much.",
+    "examples": [
+      "Farmers try to keep pests in check.",
+      "She kept her emotions in check during the meeting."
+    ],
+    "notes": "Bir şeyi kontrol altında tutmak, sınırlamak."
+  },
+  {
+    "word": "medication",
+    "definition": "Medicine used to treat illness or relieve symptoms.",
+    "examples": [
+      "He takes medication for his allergies.",
+      "The doctor prescribed medication for the infection."
+    ],
+    "notes": "İlaç, tedavi amaçlı kullanılan ilaç."
+  },
+  {
+    "word": "overtake",
+    "definition": "To become more numerous, important, or successful than something else; to take control or cover something.",
+    "examples": [
+      "Plants overtook the landscape after the fire.",
+      "Technology has overtaken many traditional jobs."
+    ],
+    "notes": "Ele geçirmek, geçmek, baskın hâle gelmek. Örnekte 'plants overtook the landscape': bitkiler manzarayı kapladı/hâkim oldu."
+  },
+  {
+    "word": "barren",
+    "definition": "Land that is too poor to produce much or any vegetation.",
+    "examples": [
+      "The desert was dry and barren.",
+      "Nothing could grow in the barren soil."
+    ],
+    "notes": "Verimsiz, çorak (toprak)."
+  },
+  {
+    "word": "vegetation",
+    "definition": "Plants in general, especially those found in a particular area.",
+    "examples": [
+      "The region is known for its rich vegetation.",
+      "Lush vegetation covered the hillsides."
+    ],
+    "notes": "Bitki örtüsü."
+  },
+  {
+    "word": "log",
+    "definition": "A large piece of a tree that has been cut down, especially for firewood or construction.",
+    "examples": [
+      "He sat on a log by the fire.",
+      "They rolled the heavy log down the hill."
+    ],
+    "notes": "Kütük, kesilmiş ağaç parçası."
+  },
+  {
+    "word": "batch of young",
+    "definition": "A group of young animals born or hatched at the same time.",
+    "examples": [
+      "The frog laid a new batch of young in the pond.",
+      "This batch of young turtles will hatch in a few days."
+    ],
+    "notes": "Aynı anda doğmuş ya da yumurtadan çıkmış yavru grubu. 'Batch' = grup, 'young' = yavrular."
+  },
+  {
+    "word": "larvae",
+    "definition": "The immature form of an insect that undergoes metamorphosis.",
+    "examples": [
+      "Mosquito larvae develop in stagnant water.",
+      "The larvae will become butterflies in a few weeks."
+    ],
+    "notes": "Larva, bazı hayvanların (özellikle böceklerin) yavru hâli. Tekil: larva, çoğul: larvae."
+  },
+  {
+    "word": "to stand watch",
+    "definition": "To stay alert and keep guard or lookout, especially at night or in a dangerous situation.",
+    "examples": [
+      "We took turns standing watch at the campsite.",
+      "A soldier stood watch outside the base."
+    ],
+    "notes": "Nöbet tutmak, gözlemci olarak beklemek."
+  },
+  {
+    "word": "crickets",
+    "definition": "Insects that make a chirping sound, often heard at night.",
+    "examples": [
+      "We could hear the crickets chirping in the grass.",
+      "Crickets are active during warm summer nights."
+    ],
+    "notes": "Cırcır böcekleri."
+  },
+  {
     "word": "endow",
     "definition": "To provide with a quality, ability, or asset.",
     "examples": [
