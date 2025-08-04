@@ -1,5 +1,41 @@
 [
   {
+    "word": "claws",
+    "definition": "Sharp, curved nails found on the feet of some animals.",
+    "examples": [
+      "The crab used its claws to defend itself.",
+      "The eagle's claws are strong and sharp."
+    ],
+    "notes": "Pençe, kıskaç (hayvanlarda)."
+  },
+  {
+    "word": "venomous sting",
+    "definition": "A painful and poisonous wound caused by an animal like a scorpion or wasp.",
+    "examples": [
+      "The scorpion delivered a venomous sting to its prey.",
+      "Some jellyfish have a venomous sting that can harm humans."
+    ],
+    "notes": "Zehirli iğne/dokunuş. Genellikle böcek ve deniz canlıları için kullanılır."
+  },
+  {
+    "word": "sting",
+    "definition": "To pierce the skin with a sharp point, causing pain or injury.",
+    "examples": [
+      "Bees sting when they feel threatened.",
+      "I was stung by a wasp yesterday."
+    ],
+    "notes": "Fiil hâli: 'to sting' – sokmak, iğnelemek. 2. hali: **stung**, 3. hali: **stung**."
+  },
+  {
+    "word": "territory",
+    "definition": "An area that an animal or group claims and defends as its own.",
+    "examples": [
+      "Lions mark their territory by scent.",
+      "The birds defended their territory from intruders."
+    ],
+    "notes": "Bölge, alan (hayvanların sahip çıktığı veya kontrol ettiği alan)."
+  },
+  {
     "word": "emerge",
     "definition": "To come out or appear from somewhere.",
     "examples": [
