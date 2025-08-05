@@ -1,5 +1,446 @@
 [
   {
+    "word": "pollinate",
+    "definition": "To transfer pollen to a flower, enabling it to produce seeds.",
+    "examples": [
+      "Bees pollinate many types of flowers.",
+      "Wind can also pollinate plants."
+    ],
+    "notes": "Tozlaşmak, bitkilerin döllenmesi."
+  },
+  {
+    "word": "pollinators",
+    "definition": "Animals or insects that transfer pollen from one flower to another.",
+    "examples": [
+      "Bees and butterflies are common pollinators.",
+      "Pollinators play a key role in agriculture."
+    ],
+    "notes": "Tozlaştırıcılar; polen taşıyan canlılar."
+  },
+  {
+    "word": "heirloom seeds",
+    "definition": "Seeds saved and passed down through generations, often from traditional plant varieties.",
+    "examples": [
+      "Many gardeners prefer heirloom seeds for their unique flavors.",
+      "Heirloom seeds help preserve plant diversity."
+    ],
+    "notes": "Atadan kalma tohumlar, geleneksel tohum çeşitleri."
+  },
+  {
+    "word": "species",
+    "definition": "A group of living organisms that can breed and produce fertile offspring.",
+    "examples": [
+      "The tiger is an endangered species.",
+      "There are many species of birds in the forest."
+    ],
+    "notes": "Tür (hem tekil hem çoğul kullanılır)."
+  },
+  {
+    "word": "dye",
+    "definition": "A substance used to change the color of something, especially fabric.",
+    "examples": [
+      "They used natural dyes to color the fabric.",
+      "The cloth was dyed bright red."
+    ],
+    "notes": "Boyamak için kullanılan madde; boya."
+  },
+  {
+    "word": "dyes",
+    "definition": "Plural of dye; substances used to color materials.",
+    "examples": [
+      "Synthetic dyes are common in the textile industry.",
+      "Different dyes produce different colors."
+    ],
+    "notes": "Boyalar (çoğul)."
+  },
+  {
+    "word": "advent of sth",
+    "definition": "The arrival or beginning of something important.",
+    "examples": [
+      "The advent of the internet changed communication.",
+      "With the advent of electricity, life improved greatly."
+    ],
+    "notes": "Bir şeyin başlangıcı, gelişi."
+  },
+  {
+    "word": "curative (verb: cure)",
+    "definition": "Having the ability to cure diseases or heal.",
+    "examples": [
+      "Many plants have curative properties.",
+      "The medicine was curative for the infection."
+    ],
+    "notes": "Şifa verici, iyileştirici. Fiil hali: cure = iyileştirmek."
+  },
+  {
+    "word": "watersheds",
+    "definition": "Areas of land that separate waters flowing to different rivers or seas.",
+    "examples": [
+      "Watersheds are important for managing water resources.",
+      "Pollution can affect entire watersheds."
+    ],
+    "notes": "Su havzaları."
+  },
+  {
+    "word": "moderate (verb)",
+    "definition": "To make something less extreme or intense.",
+    "examples": [
+      "Plantlife moderates the local climate.",
+      "The government tried to moderate the effects of the crisis."
+    ],
+    "notes": "Dengelemek, hafifletmek, ılımlı hale getirmek."
+  },
+  {
+    "word": "in full swing",
+    "definition": "At the highest level of activity or progress.",
+    "examples": [
+      "The festival was in full swing by evening.",
+      "Construction is now in full swing."
+    ],
+    "notes": "Tam gaz, en yoğun şekilde."
+  },
+  {
+    "word": "swing",
+    "definition": "To move back and forth or to change.",
+    "examples": [
+      "Children love to swing at the playground.",
+      "Public opinion can swing quickly."
+    ],
+    "notes": "Sallamak, salınmak; değişmek."
+  },
+  {
+    "word": "human encroachment into forests",
+    "definition": "Humans gradually invading or taking over forest areas.",
+    "examples": [
+      "Human encroachment into forests threatens wildlife habitats.",
+      "Deforestation is often caused by human encroachment."
+    ],
+    "notes": "İnsanların orman alanlarını işgal etmesi."
+  },
+  {
+    "word": "arable",
+    "definition": "Suitable for growing crops.",
+    "examples": [
+      "The farmers worked on arable land.",
+      "Arable soil is necessary for agriculture."
+    ],
+    "notes": "Tarım yapılabilir, ekilebilir (toprak)."
+  },
+  {
+    "word": "dam",
+    "definition": "A barrier built to hold back water and raise its level.",
+    "examples": [
+      "The dam provides water for irrigation.",
+      "They built a dam to control flooding."
+    ],
+    "notes": "Baraj."
+  },
+  {
+    "word": "spice",
+    "definition": "A substance used to add flavor to food, usually from plants.",
+    "examples": [
+      "Cinnamon is a common spice used in desserts.",
+      "They added several spices to the stew."
+    ],
+    "notes": "Baharat."
+  },
+  {
+    "word": "spicy",
+    "definition": "Having a strong, hot flavor from spices.",
+    "examples": [
+      "This curry is very spicy.",
+      "He likes spicy food."
+    ],
+    "notes": "Baharatlı, acı (baharat nedeniyle)."
+  },
+  {
+    "word": "bark of bush",
+    "definition": "The outer covering of the stem or trunk of a bush.",
+    "examples": [
+      "Some spices are made from the bark of bushes.",
+      "The bark of this bush has a strong scent."
+    ],
+    "notes": "Çalı kabuğu (bitkinin dış kısmı)."
+  },
+  {
+    "word": "cinnamon",
+    "definition": "A spice made from the bark of certain trees, used in sweet dishes.",
+    "examples": [
+      "She sprinkled cinnamon on her oatmeal.",
+      "Cinnamon is often used in baking."
+    ],
+    "notes": "Tarçın."
+  },
+  {
+    "word": "flavor (verb)",
+    "definition": "To give a particular taste to food or drink.",
+    "examples": [
+      "Herbs are used to flavor many dishes.",
+      "The sauce was flavored with garlic and basil."
+    ],
+    "notes": "Tat katmak, lezzet vermek."
+  },
+  {
+    "word": "starches",
+    "definition": "Foods rich in carbohydrates, such as potatoes and grains.",
+    "examples": [
+      "Rice, bread, and pasta are common starches.",
+      "Starches provide energy to the body."
+    ],
+    "notes": "Nişastalı gıdalar; karbonhidrat içeriği yüksek yiyecekler."
+  },
+  {
+    "word": "as with sth",
+    "definition": "In the same way as something else.",
+    "examples": [
+      "As with other grains, rice needs to be cooked before eating.",
+      "As with many fruits, bananas ripen quickly."
+    ],
+    "notes": "Diğer ... gibi; ...'da olduğu gibi."
+  },
+  {
+    "word": "timber",
+    "definition": "Wood prepared for use in building or carpentry.",
+    "examples": [
+      "The house was built from local timber.",
+      "They export timber to several countries."
+    ],
+    "notes": "Kereste, inşaatlık ağaç."
+  },
+  {
+    "word": "pulp of coniferous trees",
+    "definition": "Soft material from evergreen trees, used to make paper.",
+    "examples": [
+      "Paper is produced from the pulp of coniferous trees.",
+      "The factory processes pulp from pine and spruce trees."
+    ],
+    "notes": "İğne yapraklı ağaçlardan (çam türü) elde edilen kağıt hamuru."
+  },
+  {
+    "word": "flax",
+    "definition": "A plant grown for its fiber and seeds, used in making linen and oil.",
+    "examples": [
+      "Flax is used to produce linen fabric.",
+      "Flax seeds are a healthy source of omega-3."
+    ],
+    "notes": "Keten bitkisi."
+  },
+  {
+    "word": "weave",
+    "definition": "To form fabric by crossing threads over and under each other.",
+    "examples": [
+      "They weave fabric using traditional methods.",
+      "She learned to weave baskets as a child."
+    ],
+    "notes": "Dokumak."
+  },
+  {
+    "word": "wove",
+    "definition": "Past tense of 'weave'.",
+    "examples": [
+      "She wove a beautiful scarf from fine wool.",
+      "The artisan wove the cloth by hand."
+    ],
+    "notes": "'Weave' fiilinin geçmiş zaman hali (V2)."
+  },
+  {
+    "word": "woven",
+    "definition": "Past participle of 'weave'; made by weaving.",
+    "examples": [
+      "The fabric was tightly woven.",
+      "They used woven materials for the tent."
+    ],
+    "notes": "'Weave' fiilinin üçüncü hali (V3); dokunmuş."
+  },
+  {
+    "word": "rapeseed (canola)",
+    "definition": "A plant whose seeds are used to produce canola oil.",
+    "examples": [
+      "Canola oil is extracted from rapeseed.",
+      "Rapeseed fields turn bright yellow in spring."
+    ],
+    "notes": "Kolza tohumu (canola olarak da bilinir); yemeklik yağ üretiminde kullanılır."
+  },
+  {
+    "word": "olive",
+    "definition": "A small fruit used for its oil or eaten as food.",
+    "examples": [
+      "Olives are a major part of the Mediterranean diet.",
+      "They harvested olives from the old trees."
+    ],
+    "notes": "Zeytin. Çoğulu: olives."
+  },
+  {
+    "word": "livestock",
+    "definition": "Farm animals raised for food or other products.",
+    "examples": [
+      "The farm has a large number of livestock, including cows and sheep.",
+      "Livestock farming is a major part of the economy."
+    ],
+    "notes": "Çiftlik hayvanları (sığır, koyun, keçi gibi)."
+  },
+  {
+    "word": "to sweeten dishes",
+    "definition": "To make food taste sweet by adding sugar or another sweetener.",
+    "examples": [
+      "Honey is often used to sweeten dishes naturally.",
+      "They sweetened the sauce with a little brown sugar."
+    ],
+    "notes": "Yemekleri tatlandırmak."
+  },
+  {
+    "word": "sugarcane",
+    "definition": "A tall tropical plant whose juice is a source of sugar.",
+    "examples": [
+      "Sugar is extracted from sugarcane and sugar beets.",
+      "They grow sugarcane in tropical regions."
+    ],
+    "notes": "Şeker kamışı."
+  },
+  {
+    "word": "sugar beets",
+    "definition": "A root vegetable used to produce sugar, mainly in temperate regions.",
+    "examples": [
+      "Europe produces a lot of sugar from sugar beets.",
+      "Sugar beets are harvested in the fall."
+    ],
+    "notes": "Şeker pancarı."
+  },
+  {
+    "word": "infusions",
+    "definition": "Drinks made by soaking herbs or other substances in hot water.",
+    "examples": [
+      "Herbal infusions are popular for relaxation.",
+      "They served fruit infusions instead of tea."
+    ],
+    "notes": "Bitki çayı, demleme içecekler."
+  },
+  {
+    "word": "herbal",
+    "definition": "Made from or related to herbs.",
+    "examples": [
+      "She drank a cup of herbal tea before bed.",
+      "Herbal remedies are used in traditional medicine."
+    ],
+    "notes": "Bitkisel, otlarla ilgili."
+  },
+  {
+    "word": "coffee beans",
+    "definition": "The seeds of the coffee plant, used to make coffee.",
+    "examples": [
+      "They ground the coffee beans for a fresh brew.",
+      "Coffee beans are roasted before being packaged."
+    ],
+    "notes": "Kahve çekirdekleri."
+  },
+  {
+    "word": "powdered",
+    "definition": "In the form of a powder.",
+    "examples": [
+      "Powdered sugar is used to decorate cakes.",
+      "She added powdered milk to the recipe."
+    ],
+    "notes": "Toz halinde, tozlaştırılmış."
+  },
+  {
+    "word": "seed plants",
+    "definition": "Plants that reproduce by producing seeds.",
+    "examples": [
+      "Seed plants include both flowering plants and conifers.",
+      "Most of the crops we eat come from seed plants."
+    ],
+    "notes": "Tohumla çoğalan bitkiler."
+  },
+  {
+    "word": "human diets",
+    "definition": "The types of food people regularly eat.",
+    "examples": [
+      "Grains are a common part of many human diets.",
+      "Human diets vary greatly between cultures."
+    ],
+    "notes": "İnsanların düzenli olarak yediği yiyecekler; beslenme şekli."
+  },
+  {
+    "word": "fare",
+    "definition": "The kind of food that is served or eaten.",
+    "examples": [
+      "Many societies eat vegetarian fare almost exclusively.",
+      "The restaurant serves traditional Italian fare."
+    ],
+    "notes": "Yemek çeşidi; yiyecek türü (özellikle sunulan yemekler için)."
+  },
+  {
+    "word": "exclusively",
+    "definition": "Only; not including anything else.",
+    "examples": [
+      "Many societies eat vegetarian fare almost exclusively.",
+      "This room is reserved exclusively for staff."
+    ],
+    "notes": "Sadece, yalnızca."
+  },
+  {
+    "word": "crops",
+    "definition": "Plants that are grown for food or profit.",
+    "examples": [
+      "Farmers harvested their crops before the storm.",
+      "Corn and wheat are common crops."
+    ],
+    "notes": "Tarım ürünleri, mahsuller."
+  },
+  {
+    "word": "nomadic",
+    "definition": "Living a lifestyle of moving from place to place.",
+    "examples": [
+      "Nomadic tribes move in search of food and water.",
+      "Before agriculture, humans were mostly nomadic."
+    ],
+    "notes": "Göçebe; yerleşik olmayan yaşam tarzı."
+  },
+  {
+    "word": "horticulture",
+    "definition": "The practice of growing fruits, vegetables, or flowers.",
+    "examples": [
+      "Horticulture became more common with early farming societies.",
+      "He studied horticulture in college."
+    ],
+    "notes": "Bahçecilik; meyve, sebze veya süs bitkileri yetiştiriciliği."
+  },
+  {
+    "word": "cereals",
+    "definition": "Grains used for food, such as wheat, rice, or corn.",
+    "examples": [
+      "Cereals are a major part of the human diet.",
+      "Breakfast cereals are often made from corn or oats."
+    ],
+    "notes": "Tahıllar; buğday, mısır gibi yiyecek için yetiştirilen taneli bitkiler."
+  },
+  {
+    "word": "staple food",
+    "definition": "A food that is eaten regularly and in large quantities.",
+    "examples": [
+      "Rice is a staple food in many Asian countries.",
+      "Bread and potatoes are staple foods in Europe."
+    ],
+    "notes": "Temel gıda; düzenli olarak ve çokça tüketilen yiyecek."
+  },
+  {
+    "word": "beans and nuts",
+    "definition": "Plant-based foods rich in protein and nutrients.",
+    "examples": [
+      "Vegetarians often eat beans and nuts for protein.",
+      "Almonds and kidney beans are examples of beans and nuts."
+    ],
+    "notes": "Baklagiller ve kuruyemişler; besleyici ve protein kaynağı."
+  },
+  {
+    "word": "peanut",
+    "definition": "A type of nut that grows underground and is high in protein.",
+    "examples": [
+      "Peanut butter is made from ground peanuts.",
+      "Some people are allergic to peanuts."
+    ],
+    "notes": "Yer fıstığı."
+  },
+  {
     "word": "ample",
     "definition": "More than enough; plentiful.",
     "examples": [
