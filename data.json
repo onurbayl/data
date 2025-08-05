@@ -1,5 +1,96 @@
 [
   {
+    "word": "subjunctive mood",
+    "definition": "A verb form used to express demands, suggestions, wishes, or necessities, often following verbs like 'demand', 'suggest', or 'insist'. In passive constructions, it uses 'be' + past participle.",
+    "examples": [
+      "They demand that the telescope be placed in the best possible site.",
+      "She insists that he be here on time.",
+      "We suggest that he go to the doctor."
+    ],
+    "notes": "İngilizcede gereklilik, istek veya öneri ifade etmek için kullanılır. Passive yapıda 'be' + geçmiş zaman fiili (past participle) şeklindedir."
+  },
+  {
+    "word": "observatory",
+    "definition": "A place or building equipped for observing astronomical events.",
+    "examples": [
+      "The observatory has a large telescope for stargazing.",
+      "Scientists made important discoveries at the observatory."
+    ],
+    "notes": "Gözlemevi, astronomi için kullanılan yer."
+  },
+  {
+    "word": "to peer into",
+    "definition": "To look carefully or with difficulty at something.",
+    "examples": [
+      "Astronomers peer into the galaxy through powerful telescopes.",
+      "She peered into the dark room to see what was inside."
+    ],
+    "notes": "Dikkatle bakmak, gözlemek."
+  },
+  {
+    "word": "vital",
+    "definition": "Extremely important or necessary for life.",
+    "examples": [
+      "Water is vital for all living organisms.",
+      "It's vital to get enough sleep every night."
+    ],
+    "notes": "Hayati, çok önemli."
+  },
+  {
+    "word": "water vapor",
+    "definition": "Water in the form of gas, present in the air.",
+    "examples": [
+      "Water vapor rises from the ocean surface.",
+      "The air was thick with water vapor after the rain."
+    ],
+    "notes": "Su buharı."
+  },
+  {
+    "word": "altitude",
+    "definition": "The height of an object or place above sea level.",
+    "examples": [
+      "Mount Everest has a high altitude.",
+      "Air pressure decreases with altitude."
+    ],
+    "notes": "Rakım, yükseklik."
+  },
+  {
+    "word": "refracting",
+    "definition": "Bending of light as it passes through a medium.",
+    "examples": [
+      "Refracting telescopes use lenses to bend light.",
+      "Light refracting through a prism creates a rainbow."
+    ],
+    "notes": "Kırma (ışığın yön değiştirmesi)."
+  },
+  {
+    "word": "devise",
+    "definition": "To plan or invent a method or solution.",
+    "examples": [
+      "Scientists devised a new experiment.",
+      "They devised a strategy to solve the problem."
+    ],
+    "notes": "Tasarlamak, planlamak."
+  },
+  {
+    "word": "distort",
+    "definition": "To change the shape, appearance, or sound of something in a way that is not natural or true.",
+    "examples": [
+      "The image was distorted on the screen.",
+      "Noise can distort the sound quality."
+    ],
+    "notes": "Bozmak, çarpıtmak."
+  },
+  {
+    "word": "compensate",
+    "definition": "To make up for something lost or damaged.",
+    "examples": [
+      "He compensated for his mistake by working harder.",
+      "The company compensated employees for overtime."
+    ],
+    "notes": "Telafi etmek, karşılamak."
+  },
+  {
     "word": "pollinate",
     "definition": "To transfer pollen to a flower, enabling it to produce seeds.",
     "examples": [
