@@ -1,5 +1,329 @@
 [
   {
+    "word": "bask",
+    "definition": "To lie or relax in a pleasant warmth (usually sunlight).",
+    "examples": [
+      "The lizard basked in the afternoon sun.",
+      "They basked in the warm glow of the campfire."
+    ],
+    "notes": "Güneşin veya sıcaklığın tadını çıkarmak, keyifle uzanmak."
+  },
+  {
+    "word": "cling to sth",
+    "definition": "To hold onto something tightly or not want to let go of something (physically or emotionally).",
+    "examples": [
+      "The child clung to his mother’s hand in the crowd.",
+      "Many people still cling to old traditions."
+    ],
+    "notes": "Bir şeye sıkıca tutunmak ya da duygusal olarak bağlı kalmak."
+  },
+  {
+    "word": "mate",
+    "definition": "To pair or come together for reproduction (used for animals).",
+    "examples": [
+      "Birds often mate during the spring season.",
+      "The frogs mate in the pond every year."
+    ],
+    "notes": "Eşleşmek, çiftleşmek (hayvanlar için)."
+  },
+  {
+    "word": "climb over",
+    "definition": "To go over something by climbing.",
+    "examples": [
+      "The child climbed over the fence to get into the garden.",
+      "He climbed over the wall to retrieve the ball."
+    ],
+    "notes": "Üzerinden tırmanarak geçmek."
+  },
+  {
+    "word": "crab",
+    "definition": "A sea creature with a flat body, pincers, and sideways walk.",
+    "examples": [
+      "The crab scuttled across the beach.",
+      "Crabs use their pincers to defend themselves."
+    ],
+    "notes": "Yengeç."
+  },
+  {
+    "word": "outgrow",
+    "definition": "To grow too big for something (like clothes or a habit).",
+    "examples": [
+      "Children often outgrow their clothes quickly.",
+      "She outgrew her fear of the dark."
+    ],
+    "notes": "Bir şey için fazla büyümek ya da alışkanlığı bırakmak."
+  },
+  {
+    "word": "The storm coated the tank in a thin red sand",
+    "definition": "The storm covered the tank with a thin layer of red sand.",
+    "examples": [
+      "After the storm, the car was coated in dust.",
+      "The storm coated the tank in a thin red sand."
+    ],
+    "notes": "Fırtına, tankı ince kırmızı kum tabakasıyla kapladı."
+  },
+  {
+    "word": "ravine",
+    "definition": "A deep, narrow gorge with steep sides.",
+    "examples": [
+      "The hikers crossed the ravine using a wooden bridge.",
+      "Water flowed rapidly through the ravine after the rain."
+    ],
+    "notes": "Dar ve derin vadi, uçurum."
+  },
+  {
+    "word": "gecko",
+    "definition": "A small lizard known for its sticky feet and ability to climb walls.",
+    "examples": [
+      "The gecko clung to the wall effortlessly.",
+      "Geckos are common in tropical regions."
+    ],
+    "notes": "Duvarlara tırmanabilen küçük kertenkele."
+  },
+  {
+    "word": "lizard",
+    "definition": "A reptile with scaly skin, movable eyelids, and usually four legs.",
+    "examples": [
+      "The lizard basked in the sun on the rock.",
+      "Many lizards can regenerate their tails."
+    ],
+    "notes": "Kertenkele."
+  },
+  {
+    "word": "chameleon",
+    "definition": "A lizard that can change its color to blend into surroundings.",
+    "examples": [
+      "The chameleon changed color to match the leaves.",
+      "Chameleons use their color change for camouflage."
+    ],
+    "notes": "Rengini değiştirebilen kertenkele."
+  },
+  {
+    "word": "have sth on hand",
+    "definition": "To have something available or ready to use.",
+    "examples": [
+      "Make sure you have extra batteries on hand.",
+      "I always have a first aid kit on hand."
+    ],
+    "notes": "Bir şeyi hazır veya elde bulundurmak."
+  },
+  {
+    "word": "wait out",
+    "definition": "To stay in place until a difficult or unpleasant situation ends.",
+    "examples": [
+      "They waited out the storm inside the cabin.",
+      "We waited out the traffic jam by listening to music."
+    ],
+    "notes": "Bir durum geçene kadar beklemek."
+  },
+  {
+    "word": "monsoon",
+    "definition": "A seasonal heavy rain, especially in South and Southeast Asia.",
+    "examples": [
+      "The monsoon brought heavy rains to the region.",
+      "Farmers depend on the monsoon for their crops."
+    ],
+    "notes": "Muson; yoğun mevsimlik yağmur."
+  },
+  {
+    "word": "grain of sand",
+    "definition": "A tiny particle of sand.",
+    "examples": [
+      "A single grain of sand can be sharp.",
+      "The beach was covered in millions of grains of sand."
+    ],
+    "notes": "Bir kum tanesi."
+  },
+  {
+    "word": "clutch of eggs",
+    "definition": "A group of eggs laid by a bird or reptile at one time.",
+    "examples": [
+      "The mother bird guarded her clutch of eggs.",
+      "A clutch of turtle eggs was found on the beach."
+    ],
+    "notes": "Yumurtalar grubu, kümelenmiş yumurtalar."
+  },
+  {
+    "word": "decay",
+    "definition": "To rot or decompose over time.",
+    "examples": [
+      "The fallen leaves began to decay on the forest floor.",
+      "Teeth can decay without proper care."
+    ],
+    "notes": "Çürümek, bozulmak."
+  },
+  {
+    "word": "bone marrow",
+    "definition": "Soft tissue inside bones that produces blood cells.",
+    "examples": [
+      "Bone marrow is essential for producing new blood cells.",
+      "Doctors can transplant bone marrow to treat diseases."
+    ],
+    "notes": "Kemik iliği."
+  },
+  {
+    "word": "coyote",
+    "definition": "A wild animal similar to a small wolf found in North America.",
+    "examples": [
+      "Coyotes are known for their howling at night.",
+      "The coyote scavenged near the campsite."
+    ],
+    "notes": "Kurt benzeri bir yırtıcı, Kuzey Amerika’da yaşayan."
+  },
+  {
+    "word": "hive",
+    "definition": "A structure where bees live and produce honey.",
+    "examples": [
+      "The bees returned to their hive after collecting nectar.",
+      "The hive was buzzing with activity."
+    ],
+    "notes": "Arı kovanı."
+  },
+  {
+    "word": "to swarm",
+    "definition": "To move or gather in a large group, especially insects.",
+    "examples": [
+      "Bees swarmed around the hive.",
+      "Locusts swarmed the crops, causing damage."
+    ],
+    "notes": "Sürü halinde hareket etmek, toplanmak."
+  },
+  {
+    "word": "come head to head",
+    "definition": "To meet in direct conflict or competition.",
+    "examples": [
+      "The two teams came head to head in the final match.",
+      "The rivals came head to head over the business deal."
+    ],
+    "notes": "Direkt karşılaşmak, çatışmak."
+  },
+  {
+    "word": "muster up",
+    "definition": "To gather or summon up (courage, strength, etc.).",
+    "examples": [
+      "She mustered up the courage to speak in public.",
+      "He mustered up all his energy to finish the race."
+    ],
+    "notes": "Toplamak, güç ya da cesaret biriktirmek."
+  },
+  {
+    "word": "dig out",
+    "definition": "To remove something by digging.",
+    "examples": [
+      "They dug out the buried treasure.",
+      "The dog dug out a hole in the yard."
+    ],
+    "notes": "Kazıp çıkarmak."
+  },
+  {
+    "word": "sanctuary",
+    "definition": "A safe place or refuge.",
+    "examples": [
+      "The forest serves as a sanctuary for many animals.",
+      "The refugees found sanctuary in the camp."
+    ],
+    "notes": "Sığınak, korunaklı yer."
+  },
+  {
+    "word": "to coat",
+    "definition": "To cover something with a layer of material.",
+    "examples": [
+      "The leaves were coated with morning dew.",
+      "The cake was coated with chocolate."
+    ],
+    "notes": "Kaplamak, bir şeyle örtmek."
+  },
+  {
+    "word": "resilient ecosystem",
+    "definition": "An ecosystem that can recover quickly from disturbances or changes.",
+    "examples": [
+      "The forest is a resilient ecosystem that bounces back after fires.",
+      "Resilient ecosystems are important for maintaining biodiversity."
+    ],
+    "notes": "Dayanıklı, çabuk toparlanan ekosistem."
+  },
+  {
+    "word": "to be doomed to die",
+    "definition": "Certain or destined to die.",
+    "examples": [
+      "Many species are doomed to die due to habitat loss.",
+      "Without water, the plants were doomed to die."
+    ],
+    "notes": "Ölümü kesin, kaderinde ölmek."
+  },
+  {
+    "word": "razor sharp spines",
+    "definition": "Spines that are extremely sharp, like a razor blade.",
+    "examples": [
+      "The cactus has razor sharp spines to protect itself.",
+      "Be careful of the razor sharp spines on this plant."
+    ],
+    "notes": "Jilet gibi keskin dikenler."
+  },
+  {
+    "word": "sap",
+    "definition": "The fluid that circulates through a plant, carrying nutrients.",
+    "examples": [
+      "Maple trees produce sweet sap used for syrup.",
+      "The sap flows through the branches."
+    ],
+    "notes": "Bitkilerdeki özsu, özsu akışı."
+  },
+  {
+    "word": "group up",
+    "definition": "To come together to form a group.",
+    "examples": [
+      "The animals group up for protection.",
+      "Students grouped up to work on the project."
+    ],
+    "notes": "Bir araya gelmek, grup oluşturmak."
+  },
+  {
+    "word": "monumental moment",
+    "definition": "An extremely important or historic moment.",
+    "examples": [
+      "Graduation day was a monumental moment in her life.",
+      "The discovery marked a monumental moment in science."
+    ],
+    "notes": "Anlamlı, çok önemli an."
+  },
+  {
+    "word": "angle their backs high into the air",
+    "definition": "To position their backs at a steep angle upwards.",
+    "examples": [
+      "The birds angled their backs high into the air before flying.",
+      "The cat angled its back high when it felt threatened."
+    ],
+    "notes": "Sırtlarını havaya doğru kaldırmak."
+  },
+  {
+    "word": "water droplets",
+    "definition": "Small drops of water.",
+    "examples": [
+      "Water droplets formed on the leaves after rain.",
+      "She wiped the water droplets from the window."
+    ],
+    "notes": "Su damlacıkları."
+  },
+  {
+    "word": "drip down",
+    "definition": "To fall in drops downward.",
+    "examples": [
+      "Water dripped down the glass.",
+      "Rain dripped down from the roof."
+    ],
+    "notes": "Damlamak, aşağı doğru damlamak."
+  },
+  {
+    "word": "drip from",
+    "definition": "To fall in drops from a specific place.",
+    "examples": [
+      "Water was dripping from the faucet.",
+      "Sap dripped from the tree."
+    ],
+    "notes": "Bir yerden damlamak."
+  },
+  {
     "word": "subjunctive mood",
     "definition": "A verb form used to express demands, suggestions, wishes, or necessities, often following verbs like 'demand', 'suggest', or 'insist'. In passive constructions, it uses 'be' + past participle.",
     "examples": [
