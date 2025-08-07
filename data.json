@@ -1,5 +1,59 @@
 [
   {
+    "word": "compliance",
+    "definition": "The act of obeying rules, laws, or requests.",
+    "examples": [
+      "The company was fined for not being in compliance with environmental regulations.",
+      "Wearing a seatbelt is a matter of legal compliance."
+    ],
+    "notes": "Uyum sağlama, kurallara/kanunlara itaat etme anlamındadır. 'In compliance with' kalıbı sıkça kullanılır."
+  },
+  {
+    "word": "incentivize",
+    "definition": "To encourage someone to do something by offering a reward or benefit.",
+    "examples": [
+      "The government wants to incentivize companies to reduce emissions.",
+      "They offered bonuses to incentivize employees to meet their targets."
+    ],
+    "notes": "Teşvik etmek anlamındadır. Genellikle ekonomik ya da motivasyonel ödüllerle desteklenir."
+  },
+  {
+    "word": "vessels",
+    "definition": "Large boats or ships used for transporting goods or people.",
+    "examples": [
+      "Fishing vessels were spotted near the coast.",
+      "Oil was transported in massive cargo vessels."
+    ],
+    "notes": "Gemi, tekne anlamındadır. 'Vessel' kelimesi tıpta damar anlamına da gelir (blood vessel), ama burada denizcilik anlamı kullanılmıştır."
+  },
+  {
+    "word": "loopholes",
+    "definition": "Gaps or ambiguities in laws or rules that allow people to avoid obeying them.",
+    "examples": [
+      "Companies often exploit tax loopholes to avoid paying taxes.",
+      "The new law was written carefully to close existing legal loopholes."
+    ],
+    "notes": "Yasal boşluk, kuralda açıklık. Bu boşluklar genelde kötü niyetli amaçlarla kullanılır."
+  },
+  {
+    "word": "shrimp trawling",
+    "definition": "A fishing method that uses large nets to catch shrimp, often dragging the nets along the seafloor.",
+    "examples": [
+      "Shrimp trawling can cause damage to ocean ecosystems.",
+      "Regulations now limit where shrimp trawling can occur."
+    ],
+    "notes": "Karides avcılığı için deniz tabanına büyük ağların çekilmesi yöntemi. Sıklıkla çevresel etkileri nedeniyle eleştirilir."
+  },
+  {
+    "word": "tilt",
+    "definition": "To move or cause something to move into a sloping position.",
+    "examples": [
+      "He tilted his head to one side.",
+      "The table began to tilt under the weight."
+    ],
+    "notes": "Eğilmek, eğmek anlamına gelir. Hem fiziksel eğim hem de mecazi olarak (örneğin 'the balance tilted in their favor') kullanılabilir."
+  },
+  {
     "word": "humidity",
     "definition": "The amount of moisture (water vapor) in the air.",
     "examples": [
