@@ -1,5 +1,68 @@
 [
   {
+    "word": "engage in",
+    "definition": "To take part in or become involved in an activity.",
+    "examples": [
+      "The students actively engaged in the classroom discussion.",
+      "She rarely engages in political debates."
+    ],
+    "notes": "Bir faaliyete katılmak, dahil olmak anlamındadır. Genellikle resmi ya da akademik bağlamlarda kullanılır. Örnek: 'engage in conversation', 'engage in research', 'engage in illegal activities'."
+  },
+  {
+    "word": "mere",
+    "definition": "Used to emphasize how small or insignificant something is.",
+    "examples": [
+      "The mere thought of it makes me nervous.",
+      "He lost the match by a mere two points."
+    ],
+    "notes": "Sadece, yalnızca anlamına gelir. Küçük ya da önemsiz bir şeyi vurgulamak için kullanılır."
+  },
+  {
+    "word": "collective reflection",
+    "definition": "The shared process of thinking deeply or carefully about something as a group.",
+    "examples": [
+      "The memorial encouraged collective reflection on the tragedy.",
+      "The class engaged in collective reflection after the group project."
+    ],
+    "notes": "Bir topluluğun birlikte düşünmesi veya değerlendirme sürecidir. Genellikle sosyal ya da duygusal konular için kullanılır."
+  },
+  {
+    "word": "transcends linguistic barriers",
+    "definition": "Goes beyond the limitations of language; can be understood without words.",
+    "examples": [
+      "Music often transcends linguistic barriers and connects people worldwide.",
+      "His artwork transcends linguistic barriers, communicating emotions universally."
+    ],
+    "notes": "Dil engellerini aşmak, dil farkı olmadan anlaşılabilir olmak anlamındadır."
+  },
+  {
+    "word": "resonate with people",
+    "definition": "To have a deep emotional or meaningful impact on someone.",
+    "examples": [
+      "Her story resonated with people around the world.",
+      "The movie’s message truly resonated with the audience."
+    ],
+    "notes": "İnsanlarda güçlü bir duygu uyandırmak, onların deneyimleriyle ya da değerleriyle örtüşmek anlamındadır."
+  },
+  {
+    "word": "foster",
+    "definition": "To encourage the development or growth of something (such as ideas or relationships).",
+    "examples": [
+      "The school aims to foster creativity among students.",
+      "Open communication fosters trust in relationships."
+    ],
+    "notes": "Teşvik etmek, büyütmek, geliştirmek anlamındadır. Fiziksel değil, soyut şeyler (düşünce, ilişki, gelişim) için kullanılır."
+  },
+  {
+    "word": "evoke",
+    "definition": "To bring a feeling, memory, or image into someone's mind.",
+    "examples": [
+      "The smell of pine evoked memories of his childhood.",
+      "The painting evokes a sense of peace and nostalgia."
+    ],
+    "notes": "Anı, duygu ya da tepki uyandırmak anlamındadır. Genellikle sanatsal ya da duygusal bağlamlarda kullanılır."
+  },
+  {
     "word": "compliance",
     "definition": "The act of obeying rules, laws, or requests.",
     "examples": [
