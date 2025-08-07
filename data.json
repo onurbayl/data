@@ -1,5 +1,14 @@
 [
   {
+    "word": "humidity",
+    "definition": "The amount of moisture (water vapor) in the air.",
+    "examples": [
+      "The humidity in the jungle made it hard to breathe.",
+      "High humidity levels can make hot temperatures feel even hotter."
+    ],
+    "notes": "Nem, özellikle havadaki su buharı oranı anlamına gelir. ‘High humidity’ → yüksek nem; ‘low humidity’ → düşük nem."
+  },
+  {
     "word": "deteriorate",
     "definition": "To become worse over time; to decline in condition, quality, or function.",
     "examples": [
