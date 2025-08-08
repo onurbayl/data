@@ -1,5 +1,176 @@
 [
   {
+    "word": "medieval",
+    "definition": "Relating to the Middle Ages, roughly from the 5th to the late 15th century.",
+    "examples": [
+      "The castle is a fine example of medieval architecture.",
+      "Medieval knights followed a strict code of honor."
+    ],
+    "notes": "Orta Çağ'a ait; İngilizce telaffuz /ˌmediˈiːvəl/ veya /ˌmiːdɪˈiːvəl/."
+  },
+  {
+    "word": "porous",
+    "definition": "Having small holes that allow liquids or air to pass through.",
+    "examples": [
+      "Sandstone is a porous rock that can hold water.",
+      "The sponge’s porous surface absorbs water easily."
+    ],
+    "notes": "Gözenekli; geçirimli."
+  },
+  {
+    "word": "cattle",
+    "definition": "Large domesticated animals such as cows and bulls, kept on a farm for milk or meat. Always plural in form.",
+    "examples": [
+      "The cattle are grazing in the field.",
+      "Farmers keep cattle for milk production."
+    ],
+    "notes": "Her zaman çoğul kullanılır; 'a cattle' denmez."
+  },
+  {
+    "word": "expend",
+    "definition": "To use up energy, resources, or time for a specific purpose.",
+    "examples": [
+      "You should not expend all your energy at once.",
+      "The project has expended a lot of financial resources."
+    ],
+    "notes": "Harcamak, tüketmek."
+  },
+  {
+    "word": "barnacle",
+    "definition": "A small marine animal that attaches itself permanently to surfaces like rocks, ships, or shells.",
+    "examples": [
+      "The ship’s hull was covered in barnacles.",
+      "Barnacles attach themselves to whales."
+    ],
+    "notes": "Deniz canlısı; gemi gövdelerine ve kayalara yapışır."
+  },
+  {
+    "word": "nutrient-rich",
+    "definition": "Containing a large amount of essential nutrients.",
+    "examples": [
+      "Spinach is a nutrient-rich vegetable.",
+      "The soil here is nutrient-rich and ideal for farming."
+    ],
+    "notes": "Besin açısından zengin."
+  },
+  {
+    "word": "indifferent",
+    "definition": "Having no particular interest or sympathy; unconcerned.",
+    "examples": [
+      "She was indifferent to their problems.",
+      "He seemed indifferent about the outcome."
+    ],
+    "notes": "Umursamaz, ilgisiz."
+  },
+  {
+    "word": "tomb",
+    "definition": "A large grave, often an impressive stone structure, for burying the dead.",
+    "examples": [
+      "The tomb of the ancient king was discovered by archaeologists.",
+      "They visited the tomb of the poet."
+    ],
+    "notes": "Mezar, türbe."
+  },
+  {
+    "word": "pottery",
+    "definition": "Objects made of clay and hardened by heat.",
+    "examples": [
+      "The museum has a fine collection of ancient pottery.",
+      "She studied pottery making for three years."
+    ],
+    "notes": "Çanak çömlek, seramik."
+  },
+  {
+    "word": "relic",
+    "definition": "An object surviving from an earlier time, often of historical or cultural value.",
+    "examples": [
+      "The old sword is a relic from the medieval period.",
+      "The ruins are relics of a once-great empire."
+    ],
+    "notes": "Tarihi eser, kalıntı."
+  },
+  {
+    "word": "moisture vs humidity",
+    "definition": "Moisture: small amounts of water present in a substance or the air; Humidity: the amount of water vapor in the air.",
+    "examples": [
+      "Wipe off any moisture before painting.",
+      "The humidity in the room made it uncomfortable."
+    ],
+    "notes": "Moisture: nem (genel olarak su miktarı); Humidity: havadaki nem oranı."
+  },
+  {
+    "word": "sponge",
+    "definition": "A soft, porous material used for cleaning or absorbing liquid.",
+    "examples": [
+      "She used a sponge to wash the dishes.",
+      "Sea sponges are animals that live on the ocean floor."
+    ],
+    "notes": "Sünger."
+  },
+  {
+    "word": "limit students to sth",
+    "definition": "To restrict students so that they only do or have a certain thing.",
+    "examples": [
+      "The teacher limited students to two questions each.",
+      "The program limits students to using school equipment only."
+    ],
+    "notes": "Öğrencilerin yalnızca belirli bir şeyle sınırlanmasını sağlamak."
+  },
+  {
+    "word": "account for real needs",
+    "definition": "To take into consideration the actual requirements of something or someone.",
+    "examples": [
+      "The budget should account for real needs, not just estimates.",
+      "The plan must account for real needs of the community."
+    ],
+    "notes": "Gerçek ihtiyaçları göz önünde bulundurmak."
+  },
+  {
+    "word": "bacteria vs bacterium",
+    "definition": "Bacterium: singular form; Bacteria: plural form of microscopic single-celled organisms.",
+    "examples": [
+      "One bacterium can multiply quickly in the right conditions.",
+      "Bacteria are found everywhere in nature."
+    ],
+    "notes": "Bacterium: tekil; Bacteria: çoğul."
+  },
+  {
+    "word": "intact",
+    "definition": "Remaining whole, undamaged, or unbroken.",
+    "examples": [
+      "The ancient vase was found intact.",
+      "Despite the storm, the building remained intact."
+    ],
+    "notes": "Hasarsız, bozulmamış."
+  },
+  {
+    "word": "Mediterranean Sea",
+    "definition": "A large sea bordered by Europe, Asia, and Africa.",
+    "examples": [
+      "Italy is surrounded by the Mediterranean Sea on three sides.",
+      "The Mediterranean Sea is known for its clear blue water."
+    ],
+    "notes": "Akdeniz."
+  },
+  {
+    "word": "shipwreck",
+    "definition": "The destruction or sinking of a ship.",
+    "examples": [
+      "They found treasure in a centuries-old shipwreck.",
+      "The shipwreck was caused by a powerful storm."
+    ],
+    "notes": "Gemi enkazı."
+  },
+  {
+    "word": "wreck",
+    "definition": "A vehicle, ship, or building that has been destroyed or badly damaged.",
+    "examples": [
+      "The car was a total wreck after the accident.",
+      "Divers explored the wreck of an old warship."
+    ],
+    "notes": "Enkaz; ayrıca fiil olarak 'harap etmek' anlamında."
+  },
+  {
     "word": "to wage a war/campaign",
     "definition": "To carry out or engage in a war or campaign actively.",
     "examples": [
