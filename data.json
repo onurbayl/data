@@ -1,5 +1,257 @@
 [
   {
+    "word": "orchid mantis",
+    "definition": "A type of praying mantis that resembles an orchid flower.",
+    "examples": [
+      "The orchid mantis uses its flower-like appearance to camouflage.",
+      "Orchid mantises are fascinating insects found in tropical forests."
+    ],
+    "notes": "Orkide peygamberdevesi; orkide çiçeğine benzeyen bir böcek türü."
+  },
+  {
+    "word": "petals",
+    "definition": "The colorful parts of a flower that surround the reproductive organs.",
+    "examples": [
+      "The rose petals are soft and fragrant.",
+      "She collected the petals to make potpourri."
+    ],
+    "notes": "Çiçek taçyaprakları."
+  },
+  {
+    "word": "paw vs claw",
+    "definition": "Paw: the foot of an animal with pads and usually claws. Claw: a sharp curved nail on the foot of an animal.",
+    "examples": [
+      "The cat’s paw is soft but has sharp claws.",
+      "Birds use their claws to grip branches."
+    ],
+    "notes": "Paw: hayvanın yumuşak tabanlı ayağı. Claw: pençenin keskin tırnağı."
+  },
+  {
+    "word": "arid shrubland",
+    "definition": "A dry region dominated by shrubs and little rainfall.",
+    "examples": [
+      "Cacti are common plants in arid shrublands.",
+      "Arid shrublands have adapted plants that survive with little water."
+    ],
+    "notes": "Kurak çalılık alan."
+  },
+  {
+    "word": "shrub",
+    "definition": "A small to medium-sized woody plant.",
+    "examples": [
+      "The garden is full of flowering shrubs.",
+      "Shrubs provide shelter for many animals."
+    ],
+    "notes": "Çalı, küçük odunsu bitki."
+  },
+  {
+    "word": "up my sleeve",
+    "definition": "Having a secret plan or idea.",
+    "examples": [
+      "Don’t worry, I have a trick up my sleeve.",
+      "She always has something up her sleeve for surprises."
+    ],
+    "notes": "Sürpriz ya da gizli plan anlamında kullanılan deyim."
+  },
+  {
+    "word": "move on to sth",
+    "definition": "To start doing or discussing something new.",
+    "examples": [
+      "After the break, we moved on to the next topic.",
+      "Let's move on to the next chapter in the book."
+    ],
+    "notes": "Bir şeye geçmek, devam etmek."
+  },
+  {
+    "word": "swamp",
+    "definition": "A wetland area with waterlogged soil and dense vegetation.",
+    "examples": [
+      "The swamp is home to many unique animals.",
+      "They hiked through the swamp despite the muddy conditions."
+    ],
+    "notes": "Bataklık."
+  },
+  {
+    "word": "moss",
+    "definition": "A small green plant that grows in moist shady areas.",
+    "examples": [
+      "Moss covers the rocks near the waterfall.",
+      "The forest floor was soft with moss."
+    ],
+    "notes": "Yosun."
+  },
+  {
+    "word": "shall we",
+    "definition": "A polite suggestion or offer to do something together.",
+    "examples": [
+      "Shall we go for a walk?",
+      "Shall we start the meeting now?"
+    ],
+    "notes": "Birlikte bir şey yapmayı önerme ifadesi."
+  },
+  {
+    "word": "haul",
+    "definition": "Verb: to pull or drag something heavy. Noun: the amount of something transported.",
+    "examples": [
+      "They hauled the boat out of the water.",
+      "The fishermen brought in a large haul of fish."
+    ],
+    "notes": "Taşımak, çekmek (fiil); taşınan miktar (isim)."
+  },
+  {
+    "word": "steep",
+    "definition": "Having a sharp slope; rising or falling sharply.",
+    "examples": [
+      "The hikers climbed a steep hill.",
+      "Be careful, the road is very steep here."
+    ],
+    "notes": "Dik, sarp."
+  },
+  {
+    "word": "flat-topped",
+    "definition": "Having a flat surface at the top.",
+    "examples": [
+      "The mountain has a flat-topped summit.",
+      "Flat-topped tables are easier to work on."
+    ],
+    "notes": "Düz tepeli, üstü düz."
+  },
+  {
+    "word": "sparse",
+    "definition": "Thinly scattered or distributed; not dense.",
+    "examples": [
+      "Vegetation in the desert is sparse.",
+      "The forest had sparse trees in some areas."
+    ],
+    "notes": "Seyrek, az."
+  },
+  {
+    "word": "vegetation",
+    "definition": "Plants considered collectively, especially in a particular area.",
+    "examples": [
+      "The mountain has dense vegetation.",
+      "Vegetation in the tundra is limited."
+    ],
+    "notes": "Bitki örtüsü."
+  },
+  {
+    "word": "So do I",
+    "definition": "Used to agree with a positive statement.",
+    "examples": [
+      "I like coffee. – So do I.",
+      "She enjoys reading. – So do I."
+    ],
+    "notes": "Ben de (olumlu cümleye katılma)."
+  },
+  {
+    "word": "Neither do I",
+    "definition": "Used to agree with a negative statement.",
+    "examples": [
+      "I don’t like spinach. – Neither do I.",
+      "He can’t swim. – Neither do I."
+    ],
+    "notes": "Ben de (olumsuz cümleye katılma)."
+  },
+  {
+    "word": "stinger",
+    "definition": "A sharp pointed organ of some insects used for defense or attack.",
+    "examples": [
+      "The bee uses its stinger to protect itself.",
+      "Be careful of the scorpion’s stinger."
+    ],
+    "notes": "Diken, sokma organı."
+  },
+  {
+    "word": "shabby",
+    "definition": "In poor condition through long use or lack of care.",
+    "examples": [
+      "He wore a shabby old coat.",
+      "The house looked shabby and neglected."
+    ],
+    "notes": "Eski püskü, yıpranmış."
+  },
+  {
+    "word": "tweezers",
+    "definition": "A small tool used for picking up small objects or pulling hairs.",
+    "examples": [
+      "She used tweezers to remove a splinter.",
+      "Tweezers are useful for detailed work."
+    ],
+    "notes": "Cımbız."
+  },
+  {
+    "word": "scissors",
+    "definition": "A tool used for cutting paper, cloth, etc., consisting of two blades.",
+    "examples": [
+      "Cut the paper with scissors.",
+      "The scissors are on the desk."
+    ],
+    "notes": "Makas."
+  },
+  {
+    "word": "centipede",
+    "definition": "A long, many-legged arthropod.",
+    "examples": [
+      "Centipedes can move very quickly.",
+      "Some centipedes have venomous bites."
+    ],
+    "notes": "Kırkayak."
+  },
+  {
+    "word": "enclosure",
+    "definition": "An area that is sealed off with barriers.",
+    "examples": [
+      "The animals were kept in a secure enclosure.",
+      "They built an enclosure for the garden."
+    ],
+    "notes": "Çit veya duvarla çevrili alan."
+  },
+  {
+    "word": "spacious",
+    "definition": "Having ample space; roomy.",
+    "examples": [
+      "The house has a spacious living room.",
+      "The office was bright and spacious."
+    ],
+    "notes": "Geniş, ferah."
+  },
+  {
+    "word": "cockroach",
+    "definition": "A common insect known for surviving in harsh conditions.",
+    "examples": [
+      "Cockroaches are found in many homes.",
+      "They can be difficult to get rid of cockroaches."
+    ],
+    "notes": "Hamam böceği."
+  },
+  {
+    "word": "grab on",
+    "definition": "To seize or hold something tightly.",
+    "examples": [
+      "Grab on to the rope to avoid falling.",
+      "The child grabbed on to his mother’s hand."
+    ],
+    "notes": "Sıkıca tutunmak."
+  },
+  {
+    "word": "railing",
+    "definition": "A barrier made of rails, usually for safety.",
+    "examples": [
+      "Hold the railing while going down the stairs.",
+      "The balcony has a metal railing."
+    ],
+    "notes": "Korkuluk."
+  },
+  {
+    "word": "Arctic",
+    "definition": "Relating to the region around the North Pole.",
+    "examples": [
+      "Polar bears live in the Arctic.",
+      "The Arctic climate is extremely cold."
+    ],
+    "notes": "Kuzey Kutbu bölgesi."
+  },
+  {
     "word": "medieval",
     "definition": "Relating to the Middle Ages, roughly from the 5th to the late 15th century.",
     "examples": [
