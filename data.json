@@ -1,5 +1,87 @@
 [
   {
+    "word": "fit",
+    "definition": "To be the right size or shape for someone or something; or to equip, install, or provide with something.",
+    "examples": [
+      "These shoes don’t fit me.",
+      "They fitted a new lock on the door.",
+      "The horse was fitted with a leather harness."
+    ],
+    "notes": "Türkçe: 1) Sığmak, uymak. 2) Takmak, monte etmek, donatmak. İngiliz İngilizcesinde 'fitted' formu donatma anlamında yaygındır."
+  },
+  {
+    "word": "abundant",
+    "definition": "Existing in large quantities; more than enough.",
+    "examples": [
+      "The forest is abundant with wildlife.",
+      "There is abundant evidence to support the claim."
+    ],
+    "notes": "Bol, çok."
+  },
+  {
+    "word": "apparent",
+    "definition": "Clearly visible or understood; obvious.",
+    "examples": [
+      "It became apparent that she was lying.",
+      "The solution to the problem was not immediately apparent."
+    ],
+    "notes": "Açık, belli."
+  },
+  {
+    "word": "to attribute",
+    "definition": "To regard something as being caused by someone or something.",
+    "examples": [
+      "She attributes her success to hard work.",
+      "The painting was attributed to a famous artist."
+    ],
+    "notes": "Bağlamak, atfetmek."
+  },
+  {
+    "word": "to cease",
+    "definition": "To stop doing something or to come to an end.",
+    "examples": [
+      "The factory ceased operations last year.",
+      "They never cease to amaze me."
+    ],
+    "notes": "Durmak, durdurmak."
+  },
+  {
+    "word": "cohesive",
+    "definition": "Forming a united whole; sticking together.",
+    "examples": [
+      "The team worked in a cohesive manner.",
+      "Good writing needs cohesive paragraphs."
+    ],
+    "notes": "Uyumlu, bütünleşmiş."
+  },
+  {
+    "word": "endure",
+    "definition": "To suffer patiently; to last or continue over time.",
+    "examples": [
+      "They had to endure many hardships during the journey.",
+      "This tradition has endured for centuries."
+    ],
+    "notes": "Dayanmak, katlanmak; sürmek."
+  },
+  {
+    "word": "erode",
+    "definition": "To wear away gradually, usually by wind, water, or other natural agents.",
+    "examples": [
+      "The river has eroded the banks over time.",
+      "Strong waves eroded the coastline."
+    ],
+    "notes": "Aşındırmak, erozyona uğratmak."
+  },
+  {
+    "word": "harness",
+    "definition": "Verb: to control and make use of (natural resources). Noun: a set of straps and fittings for fastening or controlling something.",
+    "examples": [
+      "They harnessed the power of the wind to generate electricity.",
+      "The horse was fitted with a leather harness."
+    ],
+    "notes": "Kullanmak (enerji vb.), koşum takımı."
+  },
+  {
     "word": "orchid mantis",
     "definition": "A type of praying mantis that resembles an orchid flower.",
     "examples": [
