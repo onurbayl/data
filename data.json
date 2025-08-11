@@ -1,5 +1,158 @@
 [
   {
+    "word": "commitment",
+    "definition": "A dedication or obligation to a cause, activity, or relationship.",
+    "examples": [
+      "He showed great commitment to his studies.",
+      "Their commitment to the project ensured its success."
+    ],
+    "notes": "Bağlılık, taahhüt, adanmışlık."
+  },
+  {
+    "word": "forage",
+    "definition": "To search widely for food or provisions.",
+    "examples": [
+      "The animals forage for food during the day.",
+      "She had to forage through the forest to find berries."
+    ],
+    "notes": "Yiyecek aramak, doğada besin bulmak."
+  },
+  {
+    "word": "She has been raised her whole life in a pet store",
+    "definition": "Indicates that someone or an animal spent their entire life growing up in a pet store environment.",
+    "examples": [
+      "She has been raised her whole life in a pet store, so she is used to people.",
+      "Animals raised their whole life in captivity may struggle when released."
+    ],
+    "notes": "Bütün hayatı boyunca bir pet shopta büyütülmüş."
+  },
+  {
+    "word": "ease her into new home",
+    "definition": "To gradually help someone or an animal adjust comfortably to a new environment.",
+    "examples": [
+      "We need to ease her into the new home to reduce stress.",
+      "Easing pets into new surroundings can help them adapt faster."
+    ],
+    "notes": "\"Ease into sth\" birine veya bir şeye alışmasını kolaylaştırmak anlamında kullanılır."
+  },
+  {
+    "word": "crack open seeds",
+    "definition": "To break the hard outer shell of seeds to access the edible part inside.",
+    "examples": [
+      "The bird used its beak to crack open seeds.",
+      "You need a tool to crack open some types of nuts."
+    ],
+    "notes": "Tohumları kırmak, dış kabuğunu açmak."
+  },
+  {
+    "word": "the catch",
+    "definition": "A hidden problem or disadvantage in an agreement or situation.",
+    "examples": [
+      "The catch is the button is buried under a pile of dirt.",
+      "You can borrow the car, but the catch is you have to fill the tank."
+    ],
+    "notes": "\"The catch\" beklenmedik veya gizli sorun anlamına gelir."
+  },
+  {
+    "word": "controversial challenge",
+    "definition": "A difficult task or problem that causes disagreement or debate.",
+    "examples": [
+      "Climate change is a controversial challenge worldwide.",
+      "The proposal presented a controversial challenge to the community."
+    ],
+    "notes": "Tartışmalı, görüş ayrılığı yaratan zorluk veya meydan okuma."
+  },
+  {
+    "word": "... like I hoped",
+    "definition": "Used to express that something happened in the way one desired or expected.",
+    "examples": [
+      "The plan worked out ... like I hoped.",
+      "She responded positively, just like I hoped."
+    ],
+    "notes": "Umduğum gibi, beklediğim gibi."
+  },
+  {
+    "word": "pouch",
+    "definition": "A small bag or pocket, often referring to the fold of skin in marsupials used to carry their young.",
+    "examples": [
+      "Kangaroos carry their babies in a pouch.",
+      "He put his snacks in a small pouch."
+    ],
+    "notes": "Kese, torba; kanguru gibi hayvanların yavrularını taşıdığı deri kesesi."
+  },
+  {
+    "word": "dig sth up",
+    "definition": "To remove something from the ground by digging.",
+    "examples": [
+      "They dug up the old tree roots.",
+      "She dug up some interesting facts about the history."
+    ],
+    "notes": "\"Dig up\" hem fiziksel olarak kazıp bir şeyi çıkarmak, hem de mecazi olarak bilgi veya sır ortaya çıkarmak anlamında kullanılır."
+  },
+  {
+    "word": "to close in",
+    "definition": "To move closer and surround or trap someone or something.",
+    "examples": [
+      "The fog began to close in around the town.",
+      "The police closed in on the suspect."
+    ],
+    "notes": "Yaklaşmak, kuşatmak, etrafını sarmak."
+  },
+  {
+    "word": "pace around",
+    "definition": "To walk back and forth nervously or thoughtfully in a small area.",
+    "examples": [
+      "He paced around the room waiting for news.",
+      "She paced around anxiously before the interview."
+    ],
+    "notes": "Bir yerde endişeyle veya düşünerek ileri geri yürümek."
+  },
+  {
+    "word": "resemble sth",
+    "definition": "To look like or be similar to something or someone.",
+    "examples": [
+      "The baby resembles her mother.",
+      "This sculpture resembles a famous painting."
+    ],
+    "notes": "Benzemek, andırmak."
+  },
+  {
+    "word": "dig up",
+    "definition": "To remove something from the ground by digging, often to find something hidden or buried.",
+    "examples": [
+      "They dug up ancient artifacts in the archaeological site.",
+      "He dug up some old letters from the backyard."
+    ],
+    "notes": "Türkçe: Topraktan bir şey çıkarmak, genellikle gömülü veya saklı olanı bulmak için."
+  },
+  {
+    "word": "dig out",
+    "definition": "To remove something from a confined or covered space, often by digging or clearing away surrounding material.",
+    "examples": [
+      "After the heavy snow, they had to dig out their car.",
+      "She dug out her old photos from the attic."
+    ],
+    "notes": "Türkçe: Sıkışmış, kaplanmış veya çevresi dolu bir yerden bir şey çıkarmak, genellikle kazıyarak ya da temizleyerek."
+  },	
+  {
+    "word": "off to",
+    "definition": "Leaving for or starting a journey, task, or new activity.",
+    "examples": [
+      "She is already off to the next challenge.",
+      "I'm off to the grocery store; do you need anything?"
+    ],
+    "notes": "Türkçe: Bir yere gitmek üzere yola çıkmak ya da yeni bir işe başlamak."
+  },
+  {
+    "word": "stuff",
+    "definition": "General term for things or materials; can also mean to fill something tightly.",
+    "examples": [
+      "She packed all her stuff into the suitcase.",
+      "He stuffed the box with clothes."
+    ],
+    "notes": "Türkçe: Eşya, şey, materyal anlamına gelir. Ayrıca bir şeyi sıkıca doldurmak anlamında da kullanılır."
+  },
+  {
     "word": "do is + bare infinitive vs noun + is + to infinitive",
     "definition": "Bu yapı İngilizcede iki farklı durumda kullanılır: 'do is' kalıbından sonra fiilin yalın hali (to'suz) gelir; isim + is yapısından sonra ise genellikle 'to + fiil' kullanılır.",
     "examples": [
@@ -1617,15 +1770,6 @@
       "He mustered up all his energy to finish the race."
     ],
     "notes": "Toplamak, güç ya da cesaret biriktirmek."
-  },
-  {
-    "word": "dig out",
-    "definition": "To remove something by digging.",
-    "examples": [
-      "They dug out the buried treasure.",
-      "The dog dug out a hole in the yard."
-    ],
-    "notes": "Kazıp çıkarmak."
   },
   {
     "word": "sanctuary",
