@@ -1,5 +1,194 @@
 [
   {
+    "word": "fabric",
+    "definition": "Cloth produced by weaving or knitting textile fibers.",
+    "examples": [
+      "This dress is made from soft cotton fabric.",
+      "The fabric of the tent is waterproof."
+    ],
+    "notes": "Türkçe: Kumaş, dokuma. Ayrıca soyut anlamda ‘yapı, temel’ anlamında da kullanılır (the fabric of society → toplumun yapısı)."
+  },
+  {
+    "word": "artisan",
+    "definition": "A worker skilled in a craft, especially one involving making things by hand.",
+    "examples": [
+      "The artisan crafted a beautiful wooden table.",
+      "Local artisans sell handmade jewelry at the market."
+    ],
+    "notes": "Türkçe: Zanaatkâr, el işlerinde usta kişi."
+  },
+  {
+    "word": "port",
+    "definition": "A town or city with a harbor where ships load or unload goods.",
+    "examples": [
+      "The ship docked at the port early in the morning.",
+      "Singapore is one of the busiest ports in the world."
+    ],
+    "notes": "Türkçe: Liman kenti. 'Harbor' ise limanın kendisi, güvenli su alanıdır."
+  },
+  {
+    "word": "harbor",
+    "definition": "A sheltered area of water where ships can anchor safely.",
+    "examples": [
+      "The boats returned to the harbor before the storm.",
+      "The natural harbor provided protection for the fishing fleet."
+    ],
+    "notes": "Türkçe: Liman, sığınak. Fiziksel olarak gemilerin barındığı yer."
+  },
+  {
+	"word": "rise in ... from ...",
+	"definition": "To go upward from a source or starting point, in a particular shape, form, or manner.",
+	"examples": [
+	  "The cliffs rose in sheer walls from the sea.",
+	  "Smoke rose in thick columns from the burning building."
+	],
+	"notes": "Türkçe: '-den/-dan ... halinde yükselmek'. 'from' çıkış kaynağını, 'in' ise yükselme şeklini belirtir."
+  },
+  {
+    "word": "evade",
+    "definition": "To escape or avoid something, especially by cleverness or trickery.",
+    "examples": [
+      "The thief evaded capture by hiding in the crowd.",
+      "She evaded his questions about her past."
+    ],
+    "notes": "Türkçe: Kaçmak, atlatmak, (sorudan) kaçınmak."
+  },
+  {
+    "word": "jar",
+    "definition": "A cylindrical container, typically made of glass or clay, with a wide mouth.",
+    "examples": [
+      "She opened a jar of honey.",
+      "The shelf was filled with jars of jam."
+    ],
+    "notes": "Türkçe: Kavanoz, küp."
+  },
+  {
+    "word": "intricate",
+    "definition": "Very detailed and complicated.",
+    "examples": [
+      "The artist created an intricate pattern on the vase.",
+      "The watch’s intricate design fascinated the engineer."
+    ],
+    "notes": "Türkçe: Karmaşık, detaylı, ince işçilikli."
+  },
+  {
+    "word": "parade",
+    "definition": "A public procession, often to celebrate an event.",
+    "examples": [
+      "The city held a parade to celebrate the holiday.",
+      "Soldiers marched in the military parade."
+    ],
+    "notes": "Türkçe: Geçit töreni, alay."
+  },
+  {
+    "word": "dispose",
+    "definition": "To get rid of something by throwing it away.",
+    "examples": [
+      "Please dispose of your trash properly.",
+      "Hazardous waste must be disposed of carefully."
+    ],
+    "notes": "Türkçe: Elden çıkarmak, atmak."
+  },
+  {
+    "word": "imperfections",
+    "definition": "Small faults, flaws, or defects that make something less than perfect.",
+    "examples": [
+      "The craftsman carefully inspected the vase for any imperfections.",
+      "Minor imperfections in the fabric made it unsuitable for sale."
+    ],
+    "notes": "Türkçe: Kusurlar, hatalar, eksiklikler."
+  },
+  {
+    "word": "wares",
+    "definition": "Items or goods that are for sale.",
+    "examples": [
+      "The street vendor displayed his wares on a blanket.",
+      "Artisans come to the market to sell their wares."
+    ],
+    "notes": "Türkçe: Mallar, satılık eşyalar."
+  },
+  {
+    "word": "vessels",
+    "definition": "Containers used to hold liquids; or ships and large boats.",
+    "examples": [
+      "The museum displayed ancient clay vessels.",
+      "Several fishing vessels were anchored in the harbor."
+    ],
+    "notes": "Türkçe: Kap, kap-kacak; gemi, tekne."
+  },
+  {
+    "word": "sheer",
+    "definition": "Used to emphasize the large amount, size, or degree of something; or meaning very steep or almost vertical.",
+    "examples": [
+      "The sheer size of the mountain was overwhelming.",
+      "The cliffs rose in sheer walls from the sea."
+    ],
+    "notes": "Türkçe: Sırf, tamamen; dik, sarp."
+  },
+  {
+    "word": "elusive",
+    "definition": "Difficult to find, catch, or achieve; hard to understand or define.",
+    "examples": [
+      "The elusive criminal evaded capture for years.",
+      "True happiness can be elusive."
+    ],
+    "notes": "Türkçe: Zor bulunan, yakalanması veya tanımlanması güç."
+  },
+  {
+    "word": "substantial",
+    "definition": "Large in amount, size, or importance.",
+    "examples": [
+      "The company made a substantial profit last year.",
+      "There is substantial evidence to support the claim."
+    ],
+    "notes": "Türkçe: Önemli ölçüde, büyük, sağlam."
+  },
+  {
+    "word": "amphorae",
+    "definition": "Plural form of amphora: tall ancient Greek or Roman jars with two handles and a narrow neck, used to store and transport goods such as oil, wine, and grain.",
+    "examples": [
+      "Archaeologists discovered several amphorae buried under the sand.",
+      "The amphorae were once filled with olive oil transported across the Mediterranean."
+    ],
+    "notes": "Türkçe: Amphora (tekil), amphorae (çoğul); antik çağlarda özellikle Akdeniz ticaretinde kullanılan iki kulplu dar boyunlu çömlekler. Gemilerde genellikle ambarlarda sıralanır ve sıvı ya da kuru mallar taşınırdı."
+  },
+  {
+    "word": "amphora",
+    "definition": "A tall ancient Greek or Roman jar with two handles and a narrow neck, used to store and transport goods such as oil, wine, and grain.",
+    "examples": [
+      "The amphora was decorated with intricate patterns.",
+      "An amphora of wine was placed on the merchant's ship."
+    ],
+    "notes": "Türkçe: İki kulplu, dar boyunlu antik çömlek; özellikle antik deniz ticaretinde şarap, zeytinyağı ve tahıl taşımak için kullanılırdı. Gemilerde istiflenmesi kolay olacak şekilde tasarlanırdı."
+  },
+  {
+    "word": "might of state",
+    "definition": "The power, strength, or force of a nation or government.",
+    "examples": [
+      "The might of state was displayed in the grand military parade.",
+      "Small countries often struggle against the might of state."
+    ],
+    "notes": "Türkçe: Devletin gücü, otoritesi."
+  },
+  {
+    "word": "dump",
+    "definition": "To get rid of something by dropping or throwing it away, often in a careless way; or a place where waste is disposed of.",
+    "examples": [
+      "Factories are not allowed to dump toxic waste into the river.",
+      "The old furniture was taken to the dump."
+    ],
+    "notes": "Türkçe: Atmak, boşaltmak; çöplük."
+  },
+  {
+    "word": "discard on delivery",
+    "definition": "To throw away or dispose of something immediately upon receiving it.",
+    "examples": [
+      "The damaged goods were discarded on delivery.",
+      "They decided to discard on delivery any items that were not up to standard."
+    ],
+    "notes": "Türkçe: Teslim alındığında hemen atmak/elden çıkarmak."
+  },
+  {
     "word": "fit",
     "definition": "To be the right size or shape for someone or something; or to equip, install, or provide with something.",
     "examples": [
