@@ -1,5 +1,24 @@
 [
   {
+    "word": "inversion (grammar)",
+    "definition": "A grammatical construction in which the normal order of words is reversed, typically by placing the verb before the subject. It is often used for emphasis, questions, conditional sentences without 'if', or negative adverbs at the beginning of a sentence.",
+    "examples": [
+      "Never have I seen such a beautiful sunset.",
+      "Had I known, I would have acted differently.",
+      "Rarely does he come to the office early."
+    ],
+    "notes": "Türkçe: Cümlenin normal kelime dizilişinin tersine çevrilmesidir. Genellikle fiilin özneden önce gelmesi şeklinde olur. Vurgu yapmak, soru sormak, koşul cümlelerinde 'if' kullanılmadan ifade etmek veya olumsuz zarfların cümle başında yer alması durumlarında kullanılır.\n\nÖrnek açıklamaları:\n- 'Had I known, I would have acted differently.': Normalde 'If I had known' şeklindedir. Burada 'if' düşürülmüş ve fiil ile özne yer değiştirmiş, koşul cümlesi daha resmi ve vurgu yapıcı.\n- 'Rarely does he come to the office early.': Normal cümle 'He rarely comes to the office early.' Olumsuz zarf cümle başına alınmış ve yardımcı fiil ile yer değiştirmiş, vurgu artmış.\n- 'Never have I seen such a beautiful sunset.': Vurgu için fiil ve özne yer değiştirmiş."
+  },
+  {
+    "word": "elevation",
+    "definition": "The height of a place above sea level or ground level.",
+    "examples": [
+      "The mountain's elevation is over 3,000 meters.",
+      "Cities at high elevation often have cooler temperatures."
+    ],
+    "notes": "Türkçe: Yükselti, deniz seviyesinden ya da zemin seviyesinden yükseklik."
+  },
+  {
     "word": "genuine",
     "definition": "Real and exactly what it appears to be; sincere.",
     "examples": [
