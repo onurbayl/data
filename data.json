@@ -1,5 +1,26 @@
 [
   {
+    "word": "do is + bare infinitive vs noun + is + to infinitive",
+    "definition": "Bu yapı İngilizcede iki farklı durumda kullanılır: 'do is' kalıbından sonra fiilin yalın hali (to'suz) gelir; isim + is yapısından sonra ise genellikle 'to + fiil' kullanılır.",
+    "examples": [
+	  "All I have to do is add in some food.",
+	  "Her only task is to press a button.",
+	  "All you have to do is wait.",
+	  "My job is to answer the phone."
+    ],
+    "notes": "'do is' yapısından sonra gelen fiil yalın halde olur (bare infinitive). Örneğin: \"All I have to do is add\". Buna karşın, isim + is yapısından sonra genellikle 'to + fiil' kullanılır, örneğin: \"Her only task is to press\". Bu fark, İngilizcede yaygın bir kalıptır."
+  },
+  {
+	"word": "as much as I want to",
+	"definition": "Used to express a strong desire to do something, but indicating that it is not possible or allowed.",
+	"examples": [
+	  "But as much as I want to, I cannot just drop her in here.",
+	  "As much as I want to help, I have other commitments.",
+	  "As much as I want to stay, I have to leave early."
+	],
+    "notes": "\"As much as I want to\" ifadesi, bir şeyi yapma isteğini belirtirken, bunu yapmanın mümkün olmadığını ya da izin verilmediğini vurgular."
+  },
+  {
     "word": "anything but",
     "definition": "Used to emphasize that something is not at all as described; the opposite of what is expected. (Bir şeyin kesinlikle belirtilen özellikte olmadığını, hatta tam tersi olduğunu vurgular.)",
     "examples": [
