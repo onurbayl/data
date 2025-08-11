@@ -1,5 +1,75 @@
 [
   {
+    "word": "make up of sth",
+    "definition": "To consist of or be formed from particular parts or elements.",
+    "examples": [
+      "The committee is made up of five members.",
+      "Water is made up of hydrogen and oxygen.",
+      "The team is made up of both experienced and new players."
+    ],
+    "notes": "\"Make up of sth\" bir şeyin hangi parçalar veya unsurlardan oluştuğunu belirtmek için kullanılır."
+  },
+  {
+    "word": "pioneer",
+    "definition": "A person who is among the first to explore, develop, or be involved in a new area of activity.",
+    "examples": [
+      "Marie Curie was a pioneer in the field of radioactivity.",
+      "The pioneers of the internet changed the way we communicate.",
+      "He is considered a pioneer in renewable energy technology."
+    ],
+    "notes": "\"Pioneer\" genellikle bir alanda öncü olan kişi anlamına gelir."
+  },
+  {
+    "word": "pioneering",
+    "definition": "Involving new ideas or methods; innovative and original.",
+    "examples": [
+      "She did pioneering research on cancer treatment.",
+      "The company is known for its pioneering technology.",
+      "Pioneering work in genetics has led to many breakthroughs."
+    ],
+    "notes": "\"Pioneering\" sıfat olarak kullanılır ve yenilikçi, öncü anlamındadır."
+  },
+  {
+    "word": "tissue",
+    "definition": "A group of similar cells that work together to perform a specific function in the body.",
+    "examples": [
+      "Muscle tissue helps the body move.",
+      "The skin is made up of different types of tissue.",
+      "Scientists study tissue samples to understand diseases."
+    ],
+    "notes": "Doku; vücutta benzer hücrelerin bir araya gelerek belirli görevleri gerçekleştirmesi."
+  },
+  {
+    "word": "impede",
+    "definition": "To delay or prevent something by obstructing or hindering its progress.",
+    "examples": [
+      "Heavy traffic can impede emergency vehicles.",
+      "Bad weather may impede the construction work.",
+      "Lack of funding can impede the research project."
+    ],
+    "notes": "Engellemek, aksatmak, yavaşlatmak."
+  },
+  {
+    "word": "flesh",
+    "definition": "The soft substance consisting of muscle and fat that is found between the skin and bones of humans or animals.",
+    "examples": [
+      "The knife cut through the flesh of the fruit.",
+      "The wound exposed the flesh beneath the skin.",
+      "Some animals have thick layers of flesh for insulation."
+    ],
+    "notes": "Et, vücut dokusu; hem hayvan hem insan eti için kullanılabilir. Ayrıca meyve/sebzenin yenilebilir kısmı anlamına da gelir."
+  },
+  {
+    "word": "physicist",
+    "definition": "A scientist who studies or specializes in physics, the branch of science concerned with matter, energy, and their interactions.",
+    "examples": [
+      "Marie Curie was a famous physicist who conducted pioneering research on radioactivity.",
+      "The physicist explained the principles of quantum mechanics.",
+      "Physicists study the laws that govern the universe."
+    ],
+    "notes": "Fizikçi; madde, enerji ve bunların etkileşimlerini inceleyen bilim insanı."
+  },
+  {
     "word": "inhale",
     "definition": "To breathe air into the lungs.",
     "examples": [
