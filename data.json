@@ -1,5 +1,15 @@
 [
   {
+	"word": "intestines",
+	"definition": "The long tube in the digestive system where food is digested further and nutrients are absorbed, consisting of the small intestine and large intestine.",
+	"examples": [
+	  "The small intestines absorb most of the nutrients from food.",
+	  "The large intestines absorb water and form solid waste.",
+	  "Stomach pain can sometimes be caused by problems in the intestines."
+    ],
+    "notes": "Bağırsaklar; ince bağırsak ve kalın bağırsaktan oluşur, sindirim ve emilim görevini üstlenir."
+  },
+  {
     "word": "joint",
     "definition": "A point where two or more bones meet in the body, allowing movement and flexibility.",
     "examples": [
@@ -15,7 +25,8 @@
     "examples": [
       "When you lift a weight, your arm muscles contract.",
       "The heart contracts to pump blood.",
-      "She could feel her leg muscles contract as she climbed the stairs."
+      "She could feel her leg muscles contract as she climbed the stairs.",
+	  "You contract your skeletal muscles to move the bones of your skeleton"
     ],
     "notes": "Kasların kasılması; hareket için kas liflerinin kısalıp gerilmesi."
   },
