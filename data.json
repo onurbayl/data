@@ -1,5 +1,35 @@
 [
   {
+    "word": "inhale",
+    "definition": "To breathe air into the lungs.",
+    "examples": [
+      "Take a deep breath and inhale slowly.",
+      "She inhaled the fresh mountain air.",
+      "Inhaling deeply can help you relax."
+    ],
+    "notes": "Nefes almak; akciğerlere hava çekmek."
+  },
+  {
+    "word": "exhale",
+    "definition": "To breathe air out from the lungs.",
+    "examples": [
+      "Hold your breath for a moment, then exhale.",
+      "He exhaled in relief after hearing the good news.",
+      "Slowly exhale to release tension."
+    ],
+    "notes": "Nefes vermek; akciğerlerden havayı dışarı atmak."
+  },
+  {
+    "word": "move air into and out of your lungs",
+    "definition": "The process of breathing, where air is inhaled into the lungs and exhaled out, allowing gas exchange to occur.",
+    "examples": [
+      "The diaphragm helps move air into and out of your lungs.",
+      "During exercise, you move air into and out of your lungs more rapidly.",
+      "Breathing exercises train you to move air into and out of your lungs efficiently."
+    ],
+    "notes": "Nefes alma ve verme; akciğerlere hava çekme ve dışarı çıkarma süreci."
+  },
+  {
 	"word": "intestines",
 	"definition": "The long tube in the digestive system where food is digested further and nutrients are absorbed, consisting of the small intestine and large intestine.",
 	"examples": [
