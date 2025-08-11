@@ -1,5 +1,185 @@
 [
   {
+    "word": "genuine",
+    "definition": "Real and exactly what it appears to be; sincere.",
+    "examples": [
+      "Her smile was genuine and warm.",
+      "The signature on the document is genuine."
+    ],
+    "notes": "Türkçe: gerçek, samimi."
+  },
+  {
+    "word": "ingenuity",
+    "definition": "The ability to solve problems in clever new ways.",
+    "examples": [
+      "The project showed remarkable ingenuity.",
+      "Her ingenuity saved the company thousands of dollars."
+    ],
+    "notes": "Türkçe: yaratıcılık, ustalık."
+  },
+  {
+    "word": "edifice",
+    "definition": "A large, impressive building.",
+    "examples": [
+      "The old edifice stood at the center of the city.",
+      "They restored the historic edifice to its original glory."
+    ],
+    "notes": "Türkçe: büyük ve gösterişli bina."
+  },
+  {
+    "word": "metropolis",
+    "definition": "A very large and important city.",
+    "examples": [
+      "New York is a bustling metropolis.",
+      "Ancient Rome was the metropolis of its empire."
+    ],
+    "notes": "Türkçe: metropol, büyük şehir."
+  },
+  {
+    "word": "foresightedness",
+    "definition": "The ability to predict and plan for the future.",
+    "examples": [
+      "Her foresightedness helped the company avoid bankruptcy.",
+      "Good leaders are known for their foresightedness."
+    ],
+    "notes": "Türkçe: ileri görüşlülük."
+  },
+  {
+    "word": "circumstance",
+    "definition": "A fact or condition connected with an event or action.",
+    "examples": [
+      "Under no circumstance should you open that door.",
+      "They were victims of circumstance."
+    ],
+    "notes": "Türkçe: durum, koşul."
+  },
+  {
+    "word": "circumstantially",
+    "definition": "In a way that relates to particular situations or conditions.",
+    "examples": [
+      "He was circumstantially involved in the case.",
+      "Circumstantially, it seemed like a good decision."
+    ],
+    "notes": "Türkçe: koşullara bağlı olarak, durum gereği."
+  },
+  {
+    "word": "predominant vs dominant",
+    "definition": "Predominant: most frequent or common; having more influence. Dominant: having power and control over others.",
+    "examples": [
+      "English is the predominant language in the country.",
+      "The dominant team won the championship easily."
+    ],
+    "notes": "Türkçe: 'predominant' = baskın, en yaygın; 'dominant' = egemen, üstün."
+  },
+  {
+    "word": "edge",
+    "definition": "An advantage over others.",
+    "examples": [
+      "Their potential gave the city a competitive edge over its neighbors.",
+      "Experience gives older workers an edge in the job market."
+    ],
+    "notes": "Türkçe: avantaj, üstünlük."
+  },
+  {
+    "word": "in demand",
+    "definition": "Wanted by many people.",
+    "examples": [
+      "Skilled workers are in demand.",
+      "That brand is always in demand."
+    ],
+    "notes": "Türkçe: talep gören."
+  },
+  {
+    "word": "flourish",
+    "definition": "To grow or develop successfully.",
+    "examples": [
+      "Business is flourishing in the city center.",
+      "Plants flourish in this climate."
+    ],
+    "notes": "Türkçe: gelişmek, büyümek."
+  },
+  {
+    "word": "commodity",
+    "definition": "A product or raw material that can be bought and sold.",
+    "examples": [
+      "Oil is a valuable commodity.",
+      "Coffee is one of the country's main commodities."
+    ],
+    "notes": "Türkçe: ticari mal, emtia."
+  },
+  {
+    "word": "exotic goods",
+    "definition": "Products that are unusual or from foreign countries.",
+    "examples": [
+      "The market was filled with exotic goods.",
+      "They imported exotic goods from Asia."
+    ],
+    "notes": "Türkçe: egzotik mallar."
+  },
+  {
+    "word": "coerce",
+    "definition": "To make someone do something by force or threat.",
+    "examples": [
+      "They coerced him into signing the contract.",
+      "She was coerced to confess."
+    ],
+    "notes": "Türkçe: zorlamak, baskı yapmak."
+  },
+  {
+    "word": "irrigation works",
+    "definition": "Structures or systems used to supply water to land or crops.",
+    "examples": [
+      "The farmers built new irrigation works.",
+      "Ancient civilizations depended on irrigation works for farming."
+    ],
+    "notes": "Türkçe: sulama sistemleri."
+  },
+  {
+    "word": "prosperous",
+    "definition": "Successful and wealthy.",
+    "examples": [
+      "They live in a prosperous neighborhood.",
+      "A prosperous economy benefits everyone."
+    ],
+    "notes": "Türkçe: refah içinde, zengin."
+  },
+  {
+    "word": "prosperity",
+    "definition": "The state of being successful and wealthy.",
+    "examples": [
+      "The country enjoyed years of prosperity.",
+      "Education is key to prosperity."
+    ],
+    "notes": "Türkçe: refah, zenginlik."
+  },
+  {
+    "word": "lowlands",
+    "definition": "Areas of land that are low in elevation.",
+    "examples": [
+      "The lowlands are prone to flooding.",
+      "Rice grows well in the lowlands."
+    ],
+    "notes": "Türkçe: alçak araziler."
+  },
+  {
+    "word": "highlands",
+    "definition": "Areas of land that are high in elevation.",
+    "examples": [
+      "The highlands are cooler than the coast.",
+      "Sheep farming is common in the highlands."
+    ],
+    "notes": "Türkçe: yüksek araziler."
+  },
+  {
+    "word": "gulf",
+    "definition": "A large difference between two people, groups, or things; also a large area of sea partly surrounded by land.",
+    "examples": [
+      "There is a wide gulf between rich and poor.",
+      "The Gulf of Mexico is a large body of water."
+    ],
+    "notes": "Türkçe: körfez; büyük fark."
+  },
+  {
     "word": "fabric",
     "definition": "Cloth produced by weaving or knitting textile fibers.",
     "examples": [
