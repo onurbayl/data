@@ -1,5 +1,75 @@
 [
   {
+    "word": "joint",
+    "definition": "A point where two or more bones meet in the body, allowing movement and flexibility.",
+    "examples": [
+      "The knee is the largest joint in the human body.",
+      "Regular exercise helps keep your joints healthy.",
+      "He injured the joint in his shoulder."
+    ],
+    "notes": "Eklemler; kemiklerin birleştiği ve hareket etmesini sağlayan yapılar."
+  },
+  {
+    "phrase": "contract muscles",
+    "definition": "The action of muscles becoming shorter and tighter to produce movement.",
+    "examples": [
+      "When you lift a weight, your arm muscles contract.",
+      "The heart contracts to pump blood.",
+      "She could feel her leg muscles contract as she climbed the stairs."
+    ],
+    "notes": "Kasların kasılması; hareket için kas liflerinin kısalıp gerilmesi."
+  },
+  {
+    "phrase": "relax muscles",
+    "definition": "The action of muscles becoming loose or less tense after contraction.",
+    "examples": [
+      "After exercise, it’s important to relax your muscles.",
+      "Breathing deeply can help relax tense muscles.",
+      "Massage therapy helps relax muscles and reduce stress."
+    ],
+    "notes": "Kasların gevşemesi; kasılmanın ardından kasların eski haline dönmesi."
+  },
+  {
+    "word": "gland",
+    "definition": "An organ in the body that produces and releases substances such as hormones or other chemicals.",
+    "examples": [
+      "The salivary glands produce saliva.",
+      "Sweat glands help regulate body temperature.",
+      "The thyroid gland controls metabolism."
+    ],
+    "notes": "Bez; vücutta salgı üreten organ."
+  },
+  {
+    "word": "secrete",
+    "definition": "To produce and release a substance, especially from a gland or cell.",
+    "examples": [
+      "Salivary glands secrete saliva to help digest food.",
+      "The pancreas secretes insulin.",
+      "Some plants secrete a sticky substance to trap insects."
+    ],
+    "notes": "Salgılamak; özellikle bezler aracılığıyla sıvı ya da kimyasal madde üretmek."
+  },
+  {
+    "word": "propel",
+    "definition": "To push or drive something forward with force.",
+    "examples": [
+      "The engine propels the boat through the water.",
+      "Strong winds propelled the ship forward.",
+      "Muscle contractions propel food through the digestive tract."
+    ],
+    "notes": "İtmek, ileri doğru hareket ettirmek."
+  },
+  {
+    "phrase": "digestive tract",
+    "definition": "The series of organs in the body that work together to digest food, from the mouth to the anus.",
+    "examples": [
+      "The digestive tract includes the stomach and intestines.",
+      "Food moves through the digestive tract via muscle contractions.",
+      "A healthy diet supports the proper functioning of the digestive tract."
+    ],
+    "notes": "Sindirim sistemi; ağızdan anüse kadar uzanan, besinleri işleyen organlar zinciri."
+  },
+  {
     "word": "inversion (grammar)",
     "definition": "A grammatical construction in which the normal order of words is reversed, typically by placing the verb before the subject. It is often used for emphasis, questions, conditional sentences without 'if', or negative adverbs at the beginning of a sentence.",
     "examples": [
