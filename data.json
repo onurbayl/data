@@ -1,5 +1,107 @@
 [
   {
+    "word": "on time vs. in time",
+    "definition": "Both refer to timing, but 'on time' means exactly at the scheduled time, while 'in time' means early enough to be able to do something before it is too late.",
+    "examples": [
+      "The train arrived on time. (Tren tam saatinde geldi.)",
+      "Please be on time for the meeting. (Toplantıya tam zamanında gel.)",
+      "We got to the station in time to catch the train. (Trene yetişecek kadar erken vardık.)",
+      "I arrived just in time to see the beginning of the show. (Tam gösteri başlarken geldim.)"
+    ],
+    "notes": "'On time' → Dakiklik, belirlenen saatte olma.\n'In time' → Yetişecek kadar erken, geç olmadan varma.\nKısaca: On time = planlı tam saatinde; In time = son anda bile olsa bir şey için yetişmiş olmak."
+  },
+  {
+    "word": "on (location/surface)",
+    "definition": "Used to show that something is physically in contact with and supported by a surface.",
+    "examples": [
+      "She is sitting on the couch. (Koltukta oturuyor.)",
+      "There is a book on the table. (Masada bir kitap var.)",
+      "He spilled coffee on his shirt. (Gömleğinin üzerine kahve döktü.)"
+    ],
+    "notes": "'On' bir yüzeyin üzerinde olmayı belirtir."
+  },
+  {
+    "word": "on (street/road)",
+    "definition": "Used to indicate that something is located along or at a street or road.",
+    "examples": [
+      "They live on Maple Street. (Maple Caddesi'nde yaşıyorlar.)",
+      "The shop is on the main road. (Dükkan ana yol üzerinde.)",
+      "There’s heavy traffic on Highway 1. (1 numaralı otoyolda yoğun trafik var.)"
+    ],
+    "notes": "'On' cadde, sokak veya yol isimleriyle kullanılır."
+  },
+  {
+    "word": "at (specific address/point)",
+    "definition": "Used to show a specific place or exact location.",
+    "examples": [
+      "She lives at 25 King Street. (King Caddesi 25 numarada yaşıyor.)",
+      "Meet me at the bus stop. (Otobüs durağında buluşalım.)",
+      "I’m waiting at the entrance. (Girişte bekliyorum.)"
+    ],
+    "notes": "'At' tam adresler, numaralı yerler veya kesin noktalar için kullanılır."
+  },
+  {
+    "word": "in (enclosed area/country)",
+    "definition": "Used to indicate that something is inside an area or country.",
+    "examples": [
+      "There is a hole in my shirt. (Gömleğimin içinde/dokusunda delik var.)",
+      "They arrived in Japan last night. (Dün gece Japonya’ya vardılar.)",
+      "He lives in New York. (New York’ta yaşıyor.)"
+    ],
+    "notes": "'In' kapalı alanlar, şehirler ve ülkeler ile kullanılır."
+  },
+  {
+    "word": "bough",
+    "definition": "A large branch of a tree.",
+    "examples": [
+      "He sat on a thick bough of the oak tree. (Meşe ağacının kalın bir dalına oturdu.)",
+      "The boughs swayed in the wind. (Ağaç dalları rüzgarda sallandı.)",
+      "A bird perched on the highest bough. (Bir kuş en yüksek dala tünemişti.)"
+    ],
+    "notes": "Kalın ağaç dalı. İnce dallar için 'twig' veya 'branch' kullanılır."
+  },
+  {
+    "word": "tin",
+    "definition": "A soft, silvery-white metal; also a container made from thin metal.",
+    "examples": [
+      "The roof was made of corrugated tin. (Çatı oluklu tenekeden yapılmıştı.)",
+      "I bought a tin of biscuits. (Bir kutu bisküvi aldım.)",
+      "Tin is often used to make cans. (Teneke genellikle kutu yapmak için kullanılır.)"
+    ],
+    "notes": "1) Kimyasal element (Sn). 2) Teneke malzeme. 3) Teneke kutu."
+  },
+  {
+    "word": "trough",
+    "definition": "A long, narrow container used to hold food or water for animals; also a low point in a process or graph.",
+    "examples": [
+      "The horses drank from the water trough. (Atlar su yalaktan içti.)",
+      "Economic activity reached a trough before improving. (Ekonomik faaliyet düzelmeden önce en düşük seviyeye indi.)",
+      "A wooden trough was placed next to the barn. (Ahırın yanına bir ahşap yalak kondu.)"
+    ],
+    "notes": "1) Hayvanlar için yalak. 2) Bir süreçteki en düşük nokta. 3) Dalga veya grafikte çukur."
+  },
+  {
+    "word": "Pronunciation of plural -s ending",
+    "definition": "In English, the plural '-s' ending is pronounced differently depending on whether the final sound of the noun is voiced (V) or unvoiced (UV).",
+    "examples": [
+      "rams /ræmz/ → V (m is voiced, so -s is pronounced /z/)",
+      "hills /hɪlz/ → V (l is voiced, so -s is pronounced /z/)",
+      "tins /tɪnz/ → V (n is voiced, so -s is pronounced /z/)",
+      "hops /hɒps/ → UV (p is unvoiced, so -s is pronounced /s/)",
+      "cars /kɑːrz/ → V (r is voiced, so -s is pronounced /z/)",
+      "hats /hæts/ → UV (t is unvoiced, so -s is pronounced /s/)",
+      "lives /laɪvz/ → V (v is voiced, so -s is pronounced /z/)",
+      "cows /kaʊz/ → V (w is voiced, so -s is pronounced /z/)",
+      "pans /pænz/ → V (n is voiced, so -s is pronounced /z/)",
+      "rags /ræɡz/ → V (g is voiced, so -s is pronounced /z/)",
+      "dogs /dɒɡz/ → V (g is voiced, so -s is pronounced /z/)",
+      "boughs /baʊz/ → V (w sound from 'ough' is voiced, so -s is pronounced /z/)",
+      "laughs /læfs/ → UV (f is unvoiced, so -s is pronounced /s/)",
+      "troughs /trɒfs/ → UV (f is unvoiced, so -s is pronounced /s/)"
+    ],
+    "notes": "Kural: Eğer kelimenin son ünsüzü VOICED (gırtlak titreşir) ise, '-s' /z/ şeklinde telaffuz edilir. Eğer son ünsüz UNVOICED (gırtlak titreşmez) ise, '-s' /s/ şeklinde telaffuz edilir. Özel durum: Kelime s, z, ʃ, ʒ, tʃ, dʒ ile bitiyorsa, '-es' eklenir ve /ɪz/ telaffuz edilir."
+  },
+  {
     "word": "commitment",
     "definition": "A dedication or obligation to a cause, activity, or relationship.",
     "examples": [
