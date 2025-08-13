@@ -1,5 +1,105 @@
 [
   {
+    "word": "settle",
+    "definition": "To resolve a problem, come to rest, or establish oneself in a place.",
+    "examples": [
+      "They settled the dispute peacefully. (Anlaşmazlığı barışçıl bir şekilde çözdüler.)",
+      "Dust settled on the shelves. (Rafların üzerine toz çöktü.)",
+      "He settled in a small village. (Küçük bir köye yerleşti.)"
+    ],
+    "notes": "Yerleşmek, çözmek, çökmek."
+  },
+  {
+    "word": "settle in",
+    "definition": "To become comfortable in a new place or situation.",
+    "examples": [
+      "It took me a few weeks to settle in at my new job. (Yeni işime alışmam birkaç hafta sürdü.)",
+      "She settled in quickly after moving to the city. (Şehre taşındıktan sonra hızlıca alıştı.)",
+      "The students settled in before the lecture started. (Ders başlamadan öğrenciler yerlerine alıştılar.)"
+    ],
+    "notes": "Yeni bir yere veya duruma alışmak."
+  },
+  {
+    "word": "semi-terrestrial",
+    "definition": "Partly living or adapted to land and partly to water.",
+    "examples": [
+      "Semi-terrestrial crabs spend time both on land and in shallow water. (Yarı karasal yengeçler hem karada hem de sığ sularda vakit geçirir.)",
+      "Frogs are considered semi-terrestrial animals. (Kurbağalar yarı karasal hayvanlar olarak kabul edilir.)",
+      "The plant has semi-terrestrial roots that grow in damp soil. (Bitkinin nemli toprakta büyüyen yarı karasal kökleri vardır.)"
+    ],
+    "notes": "Yarı karasal."
+  },
+  {
+    "word": "venture",
+    "definition": "To go somewhere or do something that involves risk or uncertainty.",
+    "examples": [
+      "The crabs venture to the water in search of a meal. (Yengeçler, yemek aramak için suya doğru cesurca ilerler.)",
+      "Few people venture into the cave. (Az kişi mağaraya girmeye cesaret eder.)",
+      "They ventured into unknown territory. (Bilinmeyen bir bölgeye girdiler.)"
+    ],
+    "notes": "Tehlikeli veya bilinmeyen bir yere gitmek; risk almak."
+  },
+  {
+    "word": "blend into",
+    "definition": "To look similar to something so as to be difficult to distinguish from it.",
+    "examples": [
+      "The lizard blends into its surroundings. (Kertenkele, çevresine kamufle olur.)",
+      "She chose colors that blend into the background. (Arka planla uyum sağlayan renkler seçti.)",
+      "The soldier blended into the forest. (Asker ormana karıştı.)"
+    ],
+    "notes": "Kamufle olmak, uyum sağlamak."
+  },
+  {
+    "word": "algae",
+    "definition": "Simple, non-flowering plants, often found in water, that contain chlorophyll.",
+    "examples": [
+      "The pond is covered with green algae. (Gölet yeşil alglerle kaplı.)",
+      "Fish feed on algae in the aquarium. (Akvaryumdaki balıklar alglerle beslenir.)",
+      "Algae can be used to produce biofuel. (Algler biyoyakıt üretiminde kullanılabilir.)"
+    ],
+    "notes": "Alg, su yosunu. (Tekil: alga; çoğul: algae)"
+  },
+  {
+    "word": "cannibal",
+    "definition": "An organism that eats others of its own kind.",
+    "examples": [
+      "Some crabs can be cannibals when food is scarce. (Bazı yengeçler yiyecek kıt olduğunda hemcinslerini yer.)",
+      "Cannibal tribes were feared by explorers. (Kâşifler, yamyam kabilelerden korkardı.)",
+      "Cannibal fish ate their own offspring. (Yamyam balıklar kendi yavrularını yedi.)"
+    ],
+    "notes": "Yamyam; kendi türünü yiyen canlı."
+  },
+  {
+    "word": "tongs",
+    "definition": "A tool with two movable arms used for picking up and holding things.",
+    "examples": [
+      "Use the tongs to serve the salad. (Salata servis etmek için maşayı kullan.)",
+      "The chef grabbed the hot meat with tongs. (Aşçı sıcak eti maşa ile aldı.)",
+      "Fireplace tongs are used to adjust burning logs. (Şömine maşası yanan odunları ayarlamak için kullanılır.)"
+    ],
+    "notes": "Maşa."
+  },
+  {
+    "word": "unveil",
+    "definition": "To show or make known something for the first time; to reveal.",
+    "examples": [
+      "The company will unveil its new product next week. (Şirket, yeni ürününü gelecek hafta tanıtacak.)",
+      "The artist unveiled her latest painting at the gallery. (Sanatçı en son resmini galeride sergiledi.)",
+      "The investigation unveiled several hidden facts. (Soruşturma, birkaç gizli gerçeği ortaya çıkardı.)"
+    ],
+    "notes": "Ortaya çıkarmak, tanıtmak."
+  },
+  {
+    "word": "hitch",
+    "definition": "To attach or fasten something; to get a free ride; to become joined to something while moving.",
+    "examples": [
+      "They hitched the trailer to the back of the truck. (Römorku kamyonun arkasına bağladılar.)",
+      "We hitched a ride to the city. (Şehre kadar otostop çektik.)",
+      "Snails hitched along the plants during transportation. (Salyangozlar, nakliye sırasında bitkilere tutunarak taşındı.)"
+    ],
+    "notes": "Bağlamak; otostop çekmek; tutunup gitmek."
+  },
+  {
     "word": "off and on",
     "definition": "Happening occasionally or irregularly, not continuously.",
     "examples": [
