@@ -1,5 +1,115 @@
 [
   {
+    "word": "off and on",
+    "definition": "Happening occasionally or irregularly, not continuously.",
+    "examples": [
+      "It rained off and on all day. (Gün boyu aralıklı olarak yağmur yağdı.)",
+      "We have been dating off and on for years. (Yıllardır ara sıra çıkıyoruz.)",
+      "He studied French off and on since college. (Üniversiteden beri ara sıra Fransızca çalıştı.)"
+    ],
+    "notes": "Ara sıra, aralıklı olarak."
+  },
+  {
+    "word": "buffer",
+    "definition": "To protect something from harm or to reduce the impact of something.",
+    "examples": [
+      "Trees help buffer the noise from the highway. (Ağaçlar otoyoldan gelen gürültüyü azaltmaya yardımcı olur.)",
+      "The shallow seas on the continents probably buffered the temperature. (Kıtaların sığ denizleri muhtemelen sıcaklığı dengelemiştir.)",
+      "The savings acted as a buffer during hard times. (Tasarruflar zor zamanlarda koruma görevi gördü.)"
+    ],
+    "notes": "Dengelemek, korumak, etkisini azaltmak."
+  },
+  {
+    "word": "frigid",
+    "definition": "Extremely cold; lacking warmth.",
+    "examples": [
+      "They ventured into the frigid waters of the Arctic. (Arktik’in dondurucu sularına girdiler.)",
+      "Her hands were frigid after walking outside without gloves. (Eldivensiz dışarıda yürüdükten sonra elleri buz gibiydi.)",
+      "The relationship grew frigid over time. (İlişki zamanla soğudu.)"
+    ],
+    "notes": "Çok soğuk; soğuk (mecazi)."
+  },
+  {
+    "word": "sediment",
+    "definition": "Solid material that settles at the bottom of a liquid, especially in water.",
+    "examples": [
+      "Sediment accumulated at the bottom of the lake. (Gölün dibinde tortu birikti.)",
+      "The wine had some sediment in the bottle. (Şarabın şişesinde biraz tortu vardı.)",
+      "Sediment layers reveal Earth’s geological history. (Tortu tabakaları Dünya’nın jeolojik tarihini ortaya koyar.)"
+    ],
+    "notes": "Tortu, çökelti."
+  },
+  {
+    "word": "basin",
+    "definition": "A natural depression on the Earth's surface, typically containing water; or a container for holding liquid.",
+    "examples": [
+      "The Amazon Basin is rich in biodiversity. (Amazon Havzası biyolojik çeşitlilik açısından zengindir.)",
+      "She washed the vegetables in a basin. (Sebzeleri bir leğende yıkadı.)",
+      "Rainwater collected in the basin. (Yağmur suyu havzada birikti.)"
+    ],
+    "notes": "Havza; leğen, kap."
+  },
+  {
+    "word": "torrid",
+    "definition": "Very hot and dry; passionate or intense.",
+    "examples": [
+      "The desert’s torrid climate made travel difficult. (Çölün kavurucu iklimi seyahati zorlaştırdı.)",
+      "They had a torrid love affair. (Yoğun ve tutkulu bir aşk yaşadılar.)",
+      "He worked under the torrid midday sun. (Kavurucu öğle güneşi altında çalıştı.)"
+    ],
+    "notes": "Kavurucu sıcak; tutkulu."
+  },
+  {
+    "word": "cripple to cope",
+    "definition": "To weaken or damage something so much that it cannot deal with difficulties effectively.",
+    "examples": [
+      "The economic crisis crippled the company’s ability to cope with market changes. (Ekonomik kriz, şirketin piyasa değişiklikleriyle başa çıkma yeteneğini felç etti.)",
+      "Dinosaurs were left too crippled to cope after the disaster. (Felaketten sonra dinozorlar başa çıkamayacak kadar güçsüz kaldı.)",
+      "Her injury crippled her ability to cope with daily tasks. (Sakatlığı, günlük görevlerle başa çıkma yeteneğini ciddi şekilde azalttı.)"
+    ],
+    "notes": "Başa çıkma yeteneğini felce uğratmak, ciddi şekilde zayıflatmak."
+  },
+  {
+    "word": "preferentially",
+    "definition": "In a way that gives advantage or priority to someone or something.",
+    "examples": [
+      "Scholarships are given preferentially to students with financial need. (Burslar öncelikli olarak maddi durumu yetersiz öğrencilere verilir.)",
+      "The system treats certain applications preferentially. (Sistem bazı başvuruları öncelikli olarak işler.)",
+      "Preferentially treated patients receive faster care. (Öncelikli olarak tedavi edilen hastalar daha hızlı bakım alır.)"
+    ],
+    "notes": "Öncelikli olarak, ayrıcalıklı şekilde."
+  },
+  {
+    "word": "could not have taken",
+    "definition": "Used to express certainty that something was impossible in the past.",
+    "examples": [
+      "The task could not have taken more than an hour. (Görev bir saatten fazla sürmüş olamaz.)",
+      "The deposition of the boundary clay could not have taken one million years. (Sınır kilinin bir milyon yıl sürerek çökelmiş olması imkânsızdır.)",
+      "This could not have taken place without proper planning. (Doğru planlama olmadan bu gerçekleşmiş olamazdı.)"
+    ],
+    "notes": "Geçmişte bir şeyin imkânsız olduğunu kesin olarak belirtir."
+  },
+  {
+    "word": "eradicate",
+    "definition": "To completely destroy or remove something.",
+    "examples": [
+      "They are working to eradicate malaria. (Sıtmayı tamamen yok etmek için çalışıyorlar.)",
+      "The new policy aims to eradicate poverty. (Yeni politika yoksulluğu ortadan kaldırmayı hedefliyor.)",
+      "Efforts to eradicate invasive species continue. (İstilacı türleri yok etme çabaları devam ediyor.)"
+    ],
+    "notes": "Kökünden yok etmek, tamamen ortadan kaldırmak."
+  },
+  {
+    "word": "adequacy",
+    "definition": "The state or quality of being good enough for a particular purpose.",
+    "examples": [
+      "We need to evaluate the adequacy of the current safety measures. (Mevcut güvenlik önlemlerinin yeterliliğini değerlendirmemiz gerekiyor.)",
+      "The adequacy of his explanation was questioned. (Açıklamasının yeterliliği sorgulandı.)",
+      "Adequacy in funding is essential for the project’s success. (Projenin başarısı için yeterli finansman şarttır.)"
+    ],
+    "notes": "Yeterlilik, elverişlilik."
+  },
+  {
     "word": "hibernation",
     "definition": "The state in which some animals spend the winter in a dormant or inactive condition to conserve energy.",
     "examples": [
