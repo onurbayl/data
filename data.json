@@ -1,5 +1,195 @@
 [
   {
+    "word": "hibernation",
+    "definition": "The state in which some animals spend the winter in a dormant or inactive condition to conserve energy.",
+    "examples": [
+      "Bears go into hibernation during the winter. (Ayılar kışın kış uykusuna yatar.)",
+      "The frog survived the cold months through hibernation. (Kurbağa soğuk ayları kış uykusuyla atlattı.)",
+      "Hibernation helps animals survive when food is scarce. (Kış uykusu hayvanların yiyeceğin az olduğu zamanlarda hayatta kalmasını sağlar.)"
+    ],
+    "notes": "Kış uykusu."
+  },
+  {
+    "word": "hibernate",
+    "definition": "To spend the winter in a dormant state; to be inactive for a long period.",
+    "examples": [
+      "Some bats hibernate in caves. (Bazı yarasalar mağaralarda kış uykusuna yatar.)",
+      "We hibernated at home during the snowy week. (Karlı hafta boyunca evde adeta kış uykusuna yattık.)",
+      "The reptiles hibernate to survive cold temperatures. (Sürüngenler soğuk havalarda hayatta kalmak için kış uykusuna yatar.)"
+    ],
+    "notes": "Kış uykusuna yatmak; uzun süre hareketsiz kalmak."
+  },
+  {
+    "word": "divert",
+    "definition": "To change the direction or use of something; to entertain or distract.",
+    "examples": [
+      "The river was diverted to supply water to the town. (Nehir kasabaya su sağlamak için yön değiştirildi.)",
+      "Police diverted traffic due to the accident. (Kaza nedeniyle polis trafiği başka yöne çevirdi.)",
+      "He tried to divert her attention from the bad news. (Onun dikkatini kötü haberden başka yöne çekmeye çalıştı.)"
+    ],
+    "notes": "Yönünü değiştirmek; dikkatini başka yöne çekmek."
+  },
+  {
+    "word": "cultivate",
+    "definition": "To prepare and use land for growing crops; to develop or improve something.",
+    "examples": [
+      "Farmers cultivate the land for rice production. (Çiftçiler pirinç üretimi için toprağı işler.)",
+      "She cultivated her communication skills over the years. (Yıllar içinde iletişim becerilerini geliştirdi.)",
+      "We need to cultivate good relationships with our neighbors. (Komşularımızla iyi ilişkiler geliştirmeliyiz.)"
+    ],
+    "notes": "Ekip biçmek; geliştirmek."
+  },
+  {
+    "word": "demise",
+    "definition": "The end or death of something or someone.",
+    "examples": [
+      "The demise of the company was unexpected. (Şirketin sona ermesi beklenmedikti.)",
+      "Many mourned the demise of the famous singer. (Birçok kişi ünlü şarkıcının ölümüne yas tuttu.)",
+      "His sudden demise shocked everyone. (Ani ölümü herkesi şoke etti.)"
+    ],
+    "notes": "Ölüm; son bulma."
+  },
+  {
+    "word": "intermittently",
+    "definition": "Occurring at irregular intervals; not continuously.",
+    "examples": [
+      "It rained intermittently all day. (Gün boyu aralıklı yağmur yağdı.)",
+      "He worked on the project intermittently for months. (Aylarca projede aralıklı olarak çalıştı.)",
+      "The lights flickered intermittently during the storm. (Fırtına sırasında ışıklar aralıklı olarak yanıp söndü.)"
+    ],
+    "notes": "Aralıklı olarak; kesintili şekilde."
+  },
+  {
+    "word": "abruptly",
+    "definition": "Suddenly and unexpectedly.",
+    "examples": [
+      "The meeting ended abruptly. (Toplantı aniden sona erdi.)",
+      "He stood up abruptly and left the room. (Aniden ayağa kalktı ve odadan çıktı.)",
+      "The car stopped abruptly at the signal. (Araç sinyalde aniden durdu.)"
+    ],
+    "notes": "Ani şekilde; aniden."
+  },
+  {
+    "word": "mild",
+    "definition": "Gentle or not severe in nature, force, or degree.",
+    "examples": [
+      "We had a mild winter this year. (Bu yıl hafif bir kış geçirdik.)",
+      "She has a mild headache. (Hafif bir baş ağrısı var.)",
+      "He spoke in a mild tone. (Nazik bir tonda konuştu.)"
+    ],
+    "notes": "Hafif; ılıman; nazik."
+  },
+  {
+    "word": "impending",
+    "definition": "About to happen; usually referring to something unpleasant.",
+    "examples": [
+      "They were unaware of the impending danger. (Yaklaşan tehlikenin farkında değillerdi.)",
+      "The dark clouds signaled an impending storm. (Koyu bulutlar yaklaşan fırtınayı işaret ediyordu.)",
+      "Her face showed impending doom. (Yüzü yaklaşan felaketi gösteriyordu.)"
+    ],
+    "notes": "Olmak üzere olan (genellikle olumsuz durumlar için)."
+  },
+  {
+    "word": "impend",
+    "definition": "To be about to happen.",
+    "examples": [
+      "A crisis is impending. (Bir kriz yaklaşmakta.)",
+      "They could sense trouble impending. (Yaklaşan belayı hissedebiliyorlardı.)",
+      "The war impended over the nation. (Savaş ülkenin üzerinde yaklaşmaktaydı.)"
+    ],
+    "notes": "Olmak üzere olmak; yaklaşmak."
+  },
+  {
+    "word": "imminent",
+    "definition": "Certain to happen very soon.",
+    "examples": [
+      "The arrival of the storm is imminent. (Fırtınanın gelişi an meselesi.)",
+      "An imminent decision is expected. (Yakında kesin bir karar bekleniyor.)",
+      "They faced imminent danger. (An meselesi olan bir tehlikeyle karşı karşıyaydılar.)"
+    ],
+    "notes": "Eli kulağında; çok yakında olacak."
+  },
+  {
+    "word": "supersede",
+    "definition": "To replace something, especially because it is outdated or no longer useful.",
+    "examples": [
+      "This model will supersede the old one. (Bu model eskisinin yerini alacak.)",
+      "Handwritten letters have been superseded by emails. (El yazısı mektupların yerini e-postalar aldı.)",
+      "New regulations will supersede the old laws. (Yeni düzenlemeler eski yasaların yerini alacak.)"
+    ],
+    "notes": "Yerini almak; yerine geçmek."
+  },
+  {
+    "word": "surpass",
+    "definition": "To go beyond or exceed in quality, amount, or performance.",
+    "examples": [
+      "Her performance surpassed expectations. (Performansı beklentilerin ötesindeydi.)",
+      "He surpassed all his competitors. (Tüm rakiplerini geride bıraktı.)",
+      "The view from the mountain surpassed anything I had imagined. (Dağdan manzara hayal ettiğim her şeyin ötesindeydi.)"
+    ],
+    "notes": "Aşmak; geride bırakmak."
+  },
+  {
+    "word": "prosper",
+    "definition": "To succeed, especially financially; to flourish.",
+    "examples": [
+      "The business began to prosper after the new management took over. (Yeni yönetim devraldıktan sonra iş gelişmeye başladı.)",
+      "They prospered in the new city. (Yeni şehirde refah içinde yaşadılar.)",
+      "With good planning, any farm can prosper. (İyi planlamayla herhangi bir çiftlik gelişebilir.)"
+    ],
+    "notes": "Başarılı olmak; refaha ulaşmak."
+  },
+  {
+    "word": "flourish",
+    "definition": "To grow or develop successfully.",
+    "examples": [
+      "The arts began to flourish during that era. (O dönemde sanat gelişmeye başladı.)",
+      "Her garden flourishes in the summer. (Bahçesi yazın coşar.)",
+      "Under his leadership, the company flourished. (Onun liderliğinde şirket gelişti.)"
+    ],
+    "notes": "Gelişmek; çiçek açmak."
+  },
+  {
+    "word": "thrive",
+    "definition": "To grow, develop, or be successful.",
+    "examples": [
+      "Children thrive on love and attention. (Çocuklar sevgi ve ilgi ile gelişir.)",
+      "His business is thriving. (İşi gelişiyor.)",
+      "Plants thrive in this climate. (Bitkiler bu iklimde gelişir.)"
+    ],
+    "notes": "Gelişmek; başarılı olmak."
+  },
+  {
+    "word": "depletion",
+    "definition": "The reduction of the amount of something, especially resources.",
+    "examples": [
+      "The depletion of natural resources is a serious concern. (Doğal kaynakların tükenmesi ciddi bir endişe.)",
+      "Overfishing has led to the depletion of fish stocks. (Aşırı avlanma balık stoklarının tükenmesine yol açtı.)",
+      "Energy depletion is a growing problem. (Enerji tükenmesi artan bir sorun.)"
+    ],
+    "notes": "Tükenme; azal(t)ma."
+  },
+  {
+    "word": "inhibit",
+    "definition": "To prevent or slow down an action or process.",
+    "examples": [
+      "Cold temperatures can inhibit plant growth. (Soğuk hava bitki büyümesini engelleyebilir.)",
+      "Shyness inhibited her from speaking in public. (Utangaçlığı onun halka açık konuşmasını engelledi.)",
+      "This drug inhibits the spread of the virus. (Bu ilaç virüsün yayılmasını engeller.)"
+    ],
+    "notes": "Engellemek; yavaşlatmak."
+  },
+  {
+    "word": "prevent",
+    "definition": "To stop something from happening or someone from doing something.",
+    "examples": [
+      "The police prevented a robbery. (Polis bir soygunu engelledi.)",
+      "Seat belts help prevent injuries in accidents. (Emniyet kemerleri kazalarda yaralanmaları önlemeye yardımcı olur.)",
+      "The fence prevents animals from escaping. (Çit hayvanların kaçmasını engeller.)"
+    ],
+    "notes": "Önlemek; engellemek."
+  },
+  {
     "word": "trim down",
     "definition": "To reduce the size, amount, or number of something; often used for losing weight or cutting unnecessary parts.",
     "examples": [
