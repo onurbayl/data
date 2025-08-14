@@ -1,5 +1,35 @@
 [
   {
+    "word": "mentally draining",
+    "definition": "Causing a lot of mental effort or stress, leaving someone feeling exhausted or fatigued.",
+    "examples": [
+      "Studying for final exams can be mentally draining. (Final sınavlarına çalışmak zihinsel olarak yorucu olabilir.)",
+      "Dealing with difficult clients all day is mentally draining. (Tüm gün zor müşterilerle uğraşmak zihinsel olarak yorucu.)",
+      "Watching a complex movie without breaks was mentally draining. (Ara vermeden karmaşık bir film izlemek zihinsel olarak yorucuydu.)"
+    ],
+    "notes": "Zihinsel olarak yorucu, akıl yoran."
+  },
+  {
+    "word": "second-guess",
+    "definition": "To doubt or question a decision or action after it has been made, often unfairly or unnecessarily.",
+    "examples": [
+      "Don't second-guess your choice; trust your instincts. (Seçimine şüpheyle yaklaşma; içgüdülerine güven.)",
+      "Managers often second-guess their employees' decisions. (Yöneticiler genellikle çalışanlarının kararlarını sorgular.)",
+      "She second-guessed herself after the meeting. (Toplantıdan sonra kendi kararını sorguladı.)"
+    ],
+    "notes": "Sonradan sorgulamak, kararını yeniden değerlendirmek."
+  },
+  {
+    "word": "decision fatigue",
+    "definition": "The deteriorating quality of decisions made by an individual after a long session of decision making.",
+    "examples": [
+      "After hours of shopping, she experienced decision fatigue. (Saatlerce alışveriş yaptıktan sonra karar yorgunluğu yaşadı.)",
+      "Judges often face decision fatigue after reviewing many cases in a day. (Yargıçlar, bir gün içinde birçok davayı inceledikten sonra karar yorgunluğu yaşar.)",
+      "Eating junk food late at night is sometimes a result of decision fatigue. (Gece geç saatlerde abur cubur yemek bazen karar yorgunluğunun sonucudur.)"
+    ],
+    "notes": "Karar yorgunluğu; uzun süreli karar verme sonrası zihinsel tükenme."
+  },
+  {
     "word": "lure into",
     "definition": "To persuade or attract someone to go somewhere or do something, often by offering a reward or using deception.",
     "examples": [
