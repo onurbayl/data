@@ -1,5 +1,111 @@
 [
   {
+    "word": "bough",
+    "definition": "A main branch of a tree.",
+    "examples": [
+      "The bough broke under the weight of the snow. (Dal, karın ağırlığı altında kırıldı.)"
+    ],
+    "notes": "Telaffuz: bauw → beauw; Ana ağaç dalı."
+  },
+  {
+    "word": "ought",
+    "definition": "Used to indicate duty or correctness, typically when criticizing someone’s actions.",
+    "examples": [
+      "You ought to apologize. (Özür dilemelisin.)"
+    ],
+    "notes": "Telaffuz: OT; -meli/-malı anlamı."
+  },
+  {
+    "word": "laugh",
+    "definition": "To make sounds and movements of the face that show you are happy or think something is funny.",
+    "examples": [
+      "They couldn’t stop laughing at the joke. (Şakaya gülmeyi durduramadılar.)"
+    ],
+    "notes": "Telaffuz: leaf; Gülmek."
+  },
+  {
+    "word": "half",
+    "definition": "One of two equal parts of something.",
+    "examples": [
+      "She ate half of the cake. (Pastanın yarısını yedi.)"
+    ],
+    "notes": "Telaffuz: heaf; Yarım."
+  },
+  {
+    "word": "calf",
+    "definition": "A young cow or bull; the back part of the lower leg.",
+    "examples": [
+      "The calf stayed close to its mother. (Buzağı annesinin yakınında kaldı.)",
+      "He injured his calf while running. (Koşarken baldırını incitti.)"
+    ],
+    "notes": "Telaffuz: keaf; Buzağı, baldır."
+  },
+  {
+    "word": "talk",
+    "definition": "To speak in order to give information or express ideas.",
+    "examples": [
+      "We need to talk about your plans. (Planların hakkında konuşmamız gerekiyor.)"
+    ],
+    "notes": "Telaffuz: tok; Konuşmak."
+  },
+  {
+    "word": "caught",
+    "definition": "Past tense of 'catch'.",
+    "examples": [
+      "He caught the ball easily. (Topu kolayca yakaladı.)"
+    ],
+    "notes": "Telaffuz: kaot; Yakalamak fiilinin geçmiş zamanı."
+  },
+  {
+    "word": "walk",
+    "definition": "To move at a regular pace by lifting and setting down each foot in turn.",
+    "examples": [
+      "We walk to school every day. (Her gün okula yürürüz.)"
+    ],
+    "notes": "Telaffuz: woak; Yürümek."
+  },
+  {
+    "word": "desert",
+    "definition": "A dry, barren area of land; or to abandon someone.",
+    "examples": [
+      "The Sahara is the largest hot desert in the world. (Sahra, dünyanın en büyük sıcak çölüdür.)",
+      "He deserted his post. (Görevini terk etti.)"
+    ],
+    "notes": "Telaffuz: dezırt; Çöl; terk etmek."
+  },
+  {
+    "word": "dessert",
+    "definition": "A sweet course eaten at the end of a meal.",
+    "examples": [
+      "We had ice cream for dessert. (Tatlı olarak dondurma yedik.)"
+    ],
+    "notes": "Telaffuz: dizört; Tatlı."
+  },
+  {
+    "word": "ballet",
+    "definition": "An artistic dance form performed to music.",
+    "examples": [
+      "She has been practicing ballet since she was five. (Beş yaşından beri bale yapıyor.)"
+    ],
+    "notes": "Telaffuz: bealey; Bale."
+  },
+  {
+    "word": "bouquet",
+    "definition": "A bunch of flowers arranged attractively.",
+    "examples": [
+      "He gave her a bouquet of roses. (Ona bir demet gül verdi.)"
+    ],
+    "notes": "Telaffuz: boukey; Çiçek demeti."
+  },
+  {
+    "word": "filet",
+    "definition": "A boneless cut of meat or fish.",
+    "examples": [
+      "I ordered a filet of salmon. (Kemiksiz somon sipariş ettim.)"
+    ],
+    "notes": "Telaffuz: filey; Kemiksiz et veya balık filetosu."
+  },
+  {
     "word": "settle",
     "definition": "To resolve a problem, come to rest, or establish oneself in a place.",
     "examples": [
