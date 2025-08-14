@@ -1,5 +1,325 @@
 [
   {
+    "word": "surfeit",
+    "definition": "An excessive amount of something.",
+    "examples": [
+      "We had a surfeit of food after the feast.",
+      "A surfeit of details can overwhelm the reader.",
+      "He felt sick after a surfeit of chocolate."
+    ],
+    "notes": "Aşırı miktar, fazlalık."
+  },
+  {
+    "word": "brusque",
+    "definition": "Abrupt or blunt in speech or manner, often to the point of rudeness.",
+    "examples": [
+      "His brusque reply ended the conversation.",
+      "The manager's brusque tone upset the staff.",
+      "She can be brusque, but she means well."
+    ],
+    "notes": "Kaba, ters."
+  },
+  {
+    "word": "scholarly",
+    "definition": "Involving or relating to serious academic study.",
+    "examples": [
+      "He wrote a scholarly article on medieval history.",
+      "Her scholarly achievements earned her a fellowship.",
+      "The book is scholarly yet easy to read."
+    ],
+    "notes": "Bilimsel, akademik."
+  },
+  {
+    "word": "resplendent",
+    "definition": "Attractive and impressive through being richly colorful or sumptuous.",
+    "examples": [
+      "The bride looked resplendent in her wedding dress.",
+      "The resplendent sunset lit up the sky.",
+      "He entered the hall in resplendent attire."
+    ],
+    "notes": "Göz alıcı, parlak."
+  },
+  {
+    "word": "unconscionable",
+    "definition": "Not right or reasonable; unreasonably excessive.",
+    "examples": [
+      "The company made unconscionable profits during the crisis.",
+      "It’s unconscionable to take advantage of the elderly.",
+      "Such unconscionable behavior will not be tolerated."
+    ],
+    "notes": "Vicdansızca, aşırı."
+  },
+  {
+    "word": "accusatory",
+    "definition": "Suggesting blame or wrongdoing.",
+    "examples": [
+      "She gave him an accusatory glance.",
+      "The letter had an accusatory tone.",
+      "His voice grew accusatory as he listed her faults."
+    ],
+    "notes": "Suçlayıcı."
+  },
+  {
+    "word": "inapt",
+    "definition": "Not suitable or appropriate.",
+    "examples": [
+      "His inapt comment spoiled the mood.",
+      "That’s an inapt comparison for this situation.",
+      "The joke was inapt for a funeral."
+    ],
+    "notes": "Uygunsuz."
+  },
+  {
+    "word": "furtive",
+    "definition": "Attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble.",
+    "examples": [
+      "She cast a furtive glance over her shoulder.",
+      "His furtive movements caught the guard’s attention.",
+      "They exchanged furtive whispers in the hallway."
+    ],
+    "notes": "Sinsi, gizli."
+  },
+  {
+    "word": "inveterate",
+    "definition": "Having a particular habit, activity, or interest that is long-established and unlikely to change.",
+    "examples": [
+      "He’s an inveterate gambler.",
+      "Her inveterate optimism inspires her friends.",
+      "An inveterate smoker, he refused to quit."
+    ],
+    "notes": "Kronik, köklü alışkanlığı olan."
+  },
+  {
+    "word": "ramose",
+    "definition": "Having many branches.",
+    "examples": [
+      "The ramose structure of the coral was beautiful.",
+      "A ramose tree shaded the garden.",
+      "The scientist studied the ramose pattern of the river delta."
+    ],
+    "notes": "Dallanmış."
+  },
+  {
+    "word": "abominable",
+    "definition": "Causing moral revulsion; extremely bad or unpleasant.",
+    "examples": [
+      "The prisoners lived in abominable conditions.",
+      "His abominable behavior shocked everyone at the meeting.",
+      "That soup tastes abominable — what did you put in it?"
+    ],
+    "notes": "İğrenç, tiksindirici."
+  },
+  {
+    "word": "devious",
+    "definition": "Showing a skillful use of underhanded tactics to achieve goals; indirect or circuitous.",
+    "examples": [
+      "He took a devious route to avoid the police.",
+      "Her devious plan eventually fooled the entire board.",
+      "Stop being so devious — just tell me the truth."
+    ],
+    "notes": "Dolambaçlı; hilekâr."
+  },
+  {
+    "word": "prescript",
+    "definition": "A rule or directive that is laid down by an authority.",
+    "examples": [
+      "The prescript for this ritual has been followed for centuries.",
+      "Government prescripts dictate how medicines must be labeled.",
+      "There’s no prescript for how to be a good parent."
+    ],
+    "notes": "Talimat, kural."
+  },
+  {
+    "word": "aboriginal",
+    "definition": "Relating to the original inhabitants of a region.",
+    "examples": [
+      "Aboriginal art is highly valued in Australia.",
+      "The aboriginal tribes have preserved their culture for centuries.",
+      "They visited an aboriginal community during their trip."
+    ],
+    "notes": "Yerel, yerli halkla ilgili."
+  },
+  {
+    "word": "judicial",
+    "definition": "Relating to the administration of justice or the courts.",
+    "examples": [
+      "The judicial system is under review.",
+      "Judicial authority rests with the Supreme Court.",
+      "She’s studying for a career in the judicial field."
+    ],
+    "notes": "Yargısal, adaletle ilgili."
+  },
+  {
+    "word": "promenade",
+    "definition": "A public place for walking, typically along a waterfront; to walk in a leisurely way.",
+    "examples": [
+      "We took a stroll along the promenade.",
+      "The city built a promenade beside the river.",
+      "Couples promenaded in the park on Sunday afternoon."
+    ],
+    "notes": "Gezinti yeri; gezmek."
+  },
+  {
+    "word": "obnoxious",
+    "definition": "Extremely unpleasant, annoying, or offensive.",
+    "examples": [
+      "He’s the most obnoxious person I’ve ever met.",
+      "The obnoxious smell made everyone leave the room.",
+      "Stop being so obnoxious — you’re embarrassing us."
+    ],
+    "notes": "Çok rahatsız edici, iğrenç."
+  },
+  {
+    "word": "migratory",
+    "definition": "Relating to animals, people, or habits that move from one place to another regularly.",
+    "examples": [
+      "Geese are migratory birds.",
+      "The migratory patterns of whales are being studied by scientists.",
+      "Some workers in the fishing industry live a migratory lifestyle."
+    ],
+    "notes": "Göç eden; göçle ilgili."
+  },
+  {
+    "word": "medieval",
+    "definition": "Relating to the Middle Ages; old-fashioned or primitive.",
+    "examples": [
+      "The castle was built in medieval times.",
+      "Medieval scholars contributed greatly to philosophy and science.",
+      "This bathroom looks medieval — time for a renovation."
+    ],
+    "notes": "Orta Çağ’a ait; eski moda."
+  },
+  {
+    "word": "populous",
+    "definition": "Having a large population; densely inhabited.",
+    "examples": [
+      "China is the most populous country in the world.",
+      "The populous city faced challenges with traffic and pollution.",
+      "This neighborhood is more populous than when I grew up here."
+    ],
+    "notes": "Nüfusu kalabalık."
+  },
+  {
+    "word": "lucrative",
+    "definition": "Producing a lot of profit or money.",
+    "examples": [
+      "She has a lucrative job in finance.",
+      "The deal turned out to be highly lucrative for the company.",
+      "Selling vintage clothes online can be quite lucrative."
+    ],
+    "notes": "Kârlı, kazançlı."
+  },
+  {
+    "word": "puissant",
+    "definition": "Having great power, influence, or strength.",
+    "examples": [
+      "He was a puissant leader in the region.",
+      "The nation relied on its puissant military to maintain security.",
+      "With her connections, she’s quite a puissant figure in the industry."
+    ],
+    "notes": "Güçlü, nüfuzlu."
+  },
+  {
+    "word": "adherent",
+    "definition": "A person who supports a particular idea, leader, or party.",
+    "examples": [
+      "He’s a strong adherent of environmental policies.",
+      "Adherents of the philosophy believe in simple living.",
+      "She’s an adherent of the minimalist lifestyle."
+    ],
+    "notes": "Destekçi, taraftar."
+  },
+  {
+    "word": "ulterior",
+    "definition": "Hidden or undisclosed, often referring to motives or purposes.",
+    "examples": [
+      "He had an ulterior motive for helping her.",
+      "The committee questioned whether the proposal was driven by ulterior political aims.",
+      "I feel like you’re being nice to me for some ulterior reason."
+    ],
+    "notes": "Gizli, saklı; genellikle gizli amaç veya niyet."
+  },
+  {
+    "word": "stupendous",
+    "definition": "Extremely impressive or amazing in size, quality, or degree.",
+    "examples": [
+      "The view from the mountain was stupendous.",
+      "The scientist’s stupendous achievements reshaped the field of genetics.",
+      "That pizza was stupendous — best I’ve ever had!"
+    ],
+    "notes": "Olağanüstü, muazzam."
+  },
+  {
+    "word": "inopportune",
+    "definition": "Happening at a bad or unsuitable time.",
+    "examples": [
+      "She called at an inopportune moment.",
+      "The strike began at an inopportune time for the struggling company.",
+      "Your joke came at a really inopportune time, man."
+    ],
+    "notes": "Zamansız, uygunsuz."
+  },
+  {
+    "word": "genteel",
+    "definition": "Polite, refined, or respectable, often in an affected or artificial way.",
+    "examples": [
+      "He spoke in a genteel manner.",
+      "The genteel society of the 19th century upheld strict codes of etiquette.",
+      "She’s too genteel to eat with her hands."
+    ],
+    "notes": "Kibar, zarif (çoğunlukla yapay bir şekilde)."
+  },
+  {
+    "word": "nasal",
+    "definition": "Relating to the nose; having a sound produced through the nose.",
+    "examples": [
+      "He spoke in a nasal voice.",
+      "The patient showed signs of nasal congestion due to the infection.",
+      "My voice sounds nasal when I have a cold."
+    ],
+    "notes": "Burunla ilgili; genizden gelen ses."
+  },
+  {
+    "word": "statuesque",
+    "definition": "Tall, dignified, and attractively proportioned, like a statue.",
+    "examples": [
+      "The model had a statuesque figure.",
+      "Her statuesque presence commanded attention in the grand hall.",
+      "She walked in, statuesque and confident."
+    ],
+    "notes": "Heykelsi, gösterişli."
+  },
+  {
+    "word": "achillean",
+    "definition": "Strong, heroic, like Achilles in Greek mythology.",
+    "examples": [
+      "He displayed achillean bravery in the battle.",
+      "The hero’s achillean valor inspired generations of poets.",
+      "That was some achillean move you pulled in the game."
+    ],
+    "notes": "Achilles'e özgü; kahramanca, güçlü."
+  },
+  {
+    "word": "Achilles’ heel",
+    "definition": "A weakness or vulnerable point despite overall strength.",
+    "examples": [
+      "Her love of sweets was her Achilles’ heel.",
+      "The empire’s overreliance on trade routes proved to be its Achilles’ heel.",
+      "I’m good at running, but long distances are my Achilles’ heel."
+    ],
+    "notes": "Güçlü olunan bir konuda zayıf nokta."
+  },
+  {
+    "word": "malleable",
+    "definition": "Capable of being shaped, influenced, or changed.",
+    "examples": [
+      "Gold is a malleable metal.",
+      "The child’s malleable mind absorbed everything around her.",
+      "Your schedule seems pretty malleable this week."
+    ],
+    "notes": "Şekil verilebilir; kolayca etkilenebilir."
+  },
+  {
     "word": "bough",
     "definition": "A main branch of a tree.",
     "examples": [
