@@ -1,5 +1,75 @@
 [
   {
+    "word": "lure into",
+    "definition": "To persuade or attract someone to go somewhere or do something, often by offering a reward or using deception.",
+    "examples": [
+      "The thief tried to lure the child into his car with candy. (Hırsız, çocuğu şekerle arabasına çekmeye çalıştı.)",
+      "They were lured into investing in a fake company. (Sahte bir şirkete yatırım yapmaya kandırıldılar.)",
+      "She lured him into playing the game by promising a prize. (Ona ödül vaat ederek oyunu oynaması için kandırdı.)"
+    ],
+    "notes": "Cezbetmek, kandırarak çekmek."
+  },
+  {
+    "word": "tempted",
+    "definition": "Feeling a desire to do something, especially something wrong or unwise.",
+    "examples": [
+      "I was tempted to skip class today. (Bugün dersi atlamak istedim.)",
+      "He was tempted by the smell of fresh bread. (Taze ekmek kokusu onu cezbetti.)",
+      "She was tempted to lie, but decided to tell the truth. (Yalan söylemek istedi ama gerçeği söylemeye karar verdi.)"
+    ],
+    "notes": "Cezbedilmiş, yapmaya istekli (çoğu zaman yanlış bir şey)."
+  },
+  {
+    "word": "temptation",
+    "definition": "The desire to do something, especially something wrong or unwise.",
+    "examples": [
+      "Resisting the temptation to eat chocolate was hard. (Çikolata yeme isteğine karşı koymak zordu.)",
+      "The temptation to cheat on the test was strong. (Sınavda kopya çekme isteği güçlüydü.)",
+      "He gave in to the temptation and bought the expensive watch. (Dayanamayarak pahalı saati aldı.)"
+    ],
+    "notes": "Cezbedici istek; ayartma."
+  },
+  {
+    "word": "counterproductive",
+    "definition": "Having the opposite of the desired effect.",
+    "examples": [
+      "Yelling at your team can be counterproductive. (Takımına bağırmak ters etki yaratabilir.)",
+      "Skipping meals to lose weight is often counterproductive. (Kilo vermek için öğün atlamak genellikle ters etki yapar.)",
+      "Overtraining can be counterproductive for athletes. (Aşırı antrenman sporcular için ters etkilidir.)"
+    ],
+    "notes": "Ters etki yapan, verimsiz."
+  },
+  {
+    "word": "immerse",
+    "definition": "To involve oneself deeply in a particular activity or interest; to submerge in a liquid.",
+    "examples": [
+      "She immersed herself in studying for the exam. (Sınava çalışmaya tamamen daldı.)",
+      "Immerse the fabric in cold water for ten minutes. (Kumaşı on dakika soğuk suya daldırın.)",
+      "He was so immersed in the book that he missed the train. (Kitaba o kadar dalmıştı ki treni kaçırdı.)"
+    ],
+    "notes": "Daldırmak; kendini tamamen vermek."
+  },
+  {
+    "word": "immersive",
+    "definition": "Providing a completely engaging or absorbing experience, often making someone feel surrounded by or part of something.",
+    "examples": [
+      "The video game offers an immersive virtual reality experience. (Video oyunu tamamen içine çeken bir sanal gerçeklik deneyimi sunuyor.)",
+      "The museum uses immersive exhibits to educate visitors. (Müze, ziyaretçileri eğitmek için içine çeken sergiler kullanıyor.)",
+      "Watching the movie in 3D was an immersive experience. (Filmi 3D izlemek tamamen içine çeken bir deneyimdi.)"
+    ],
+    "notes": "Tamamen içine alan, kapsayıcı (deneyim)."
+  },
+  {
+    "word": "rigorous",
+    "definition": "Extremely thorough and careful; strict and demanding.",
+    "examples": [
+      "The athlete followed a rigorous training schedule. (Sporcu sıkı bir antrenman programı izledi.)",
+      "The new law went through a rigorous review process. (Yeni yasa titiz bir inceleme sürecinden geçti.)",
+      "Medical school has rigorous academic requirements. (Tıp fakültesinin zorlu akademik gereklilikleri vardır.)"
+    ],
+    "notes": "Titiz, sıkı, zorlu."
+  },
+  {
     "word": "surfeit",
     "definition": "An excessive amount of something.",
     "examples": [
