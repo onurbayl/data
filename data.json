@@ -1,5 +1,25 @@
 [
   {
+    "word": "dissect",
+    "definition": "To cut open something, especially a dead body or plant, to study its internal parts; also to examine something in great detail.",
+    "examples": [
+      "The students dissected a frog in biology class. (Öğrenciler biyoloji dersinde bir kurbağayı incelediler.)",
+      "The detective dissected the suspect's alibi. (Dedektif, şüphelinin mazeretini ayrıntılı bir şekilde inceledi.)",
+      "She enjoys dissecting poems to understand their meaning. (Şiirleri anlamak için ayrıntılı incelemeyi sever.)"
+    ],
+    "notes": "Parçalara ayırarak incelemek; diseksiyon yapmak."
+  },
+  {
+    "word": "wounds",
+    "definition": "Injuries to the body, especially those involving cuts or breaks in the skin.",
+    "examples": [
+      "The soldier had several wounds on his arm. (Askerin kolunda birkaç yara vardı.)",
+      "Wounds need to be cleaned to prevent infection. (Yaraların enfeksiyonu önlemek için temizlenmesi gerekir.)",
+      "Emotional wounds can take longer to heal than physical ones. (Duygusal yaralar fiziksel olanlardan daha uzun sürede iyileşebilir.)"
+    ],
+    "notes": "Yaralar."
+  },
+  {
     "word": "weigh pros and cons",
     "definition": "To consider the advantages and disadvantages of something before making a decision.",
     "examples": [
