@@ -1,5 +1,135 @@
 [
   {
+    "word": "senescence",
+    "definition": "The process of aging or growing old.",
+    "examples": [
+      "Senescence in plants can be delayed by proper care. (Bitkilerde yaşlanma doğru bakım ile geciktirilebilir.)",
+      "Scientists study cellular senescence to understand cancer. (Bilim insanları kanseri anlamak için hücresel yaşlanmayı inceler.)",
+      "Human senescence is influenced by both genetics and lifestyle. (İnsan yaşlanması hem genetik hem de yaşam tarzı tarafından etkilenir.)"
+    ],
+    "notes": "Yaşlanma süreci."
+  },
+  {
+    "word": "degradation",
+    "definition": "The process of something being damaged, reduced in quality, or deteriorated.",
+    "examples": [
+      "Soil degradation affects agricultural productivity. (Toprak bozulması tarımsal verimliliği etkiler.)",
+      "The scandal led to his moral degradation. (Skandal onun ahlaki çöküşüne yol açtı.)",
+      "Plastic waste causes environmental degradation. (Plastik atık çevresel bozulmaya neden olur.)"
+    ],
+    "notes": "Bozulma, yozlaşma, kötüleşme."
+  },
+  {
+    "word": "intrigue",
+    "definition": "1) (noun) Secret plotting or mysterious events. 2) (verb) To arouse curiosity or interest.",
+    "examples": [
+      "The palace was full of political intrigues. (Saray siyasi entrikalarla doluydu.)",
+      "The mystery novel intrigued me. (Gizem romanı beni çok meraklandırdı.)",
+      "She was intrigued by the strange artifact. (Garip eserden etkilendi/meraklandı.)"
+    ],
+    "notes": "Entrika; ilgi uyandırmak."
+  },
+  {
+    "word": "interrogation",
+    "definition": "The act of formally questioning someone, usually by authorities.",
+    "examples": [
+      "The suspect was taken in for interrogation. (Şüpheli sorguya alındı.)",
+      "Police interrogation lasted for hours. (Polis sorgusu saatler sürdü.)",
+      "They interrogated the witness about the crime. (Tanığı suç hakkında sorguladılar.)"
+    ],
+    "notes": "Sorgulama; (verb: interrogate) sorgulamak."
+  },
+  {
+    "word": "testimony",
+    "definition": "A formal statement given in a court of law or as evidence.",
+    "examples": [
+      "His testimony helped convict the criminal. (Onun ifadesi suçlunun mahkûm edilmesine yardımcı oldu.)",
+      "The witness gave an emotional testimony. (Tanık duygusal bir ifade verdi.)",
+      "The book stands as a testimony to her courage. (Kitap onun cesaretine bir tanıklıktır.)"
+    ],
+    "notes": "Tanıklık, ifade."
+  },
+  {
+    "word": "prevailing",
+    "definition": "Existing at a particular time; most common or widespread.",
+    "examples": [
+      "The prevailing opinion is against the new law. (Hakim görüş yeni kanuna karşıdır.)",
+      "They took shelter from the prevailing winds. (Hakim rüzgârlardan korunmak için sığındılar.)",
+      "He adapted quickly to the prevailing conditions. (Geçerli koşullara hızla uyum sağladı.)"
+    ],
+    "notes": "Hakim, geçerli, yaygın."
+  },
+  {
+    "word": "inclination",
+    "definition": "A tendency or preference towards a certain behavior or action.",
+    "examples": [
+      "She has an inclination for arts. (Onun sanata eğilimi var.)",
+      "He showed no inclination to help. (Yardım etmeye hiçbir eğilim göstermedi.)",
+      "My natural inclination is to trust people. (Doğal eğilimim insanlara güvenmektir.)"
+    ],
+    "notes": "Eğilim, meyil."
+  },
+  {
+    "word": "conformities",
+    "definition": "Behaviors or actions that follow accepted rules, standards, or norms.",
+    "examples": [
+      "The building must meet safety conformities. (Bina güvenlik standartlarına uygun olmalıdır.)",
+      "He disliked social conformities. (Toplumsal uyumlardan hoşlanmazdı.)",
+      "Conformities to tradition can limit creativity. (Geleneklere uyum yaratıcılığı sınırlayabilir.)"
+    ],
+    "notes": "Uygunluklar, kurallara uyum."
+  },
+  {
+    "word": "forensic",
+    "definition": "Related to the use of scientific methods in solving crimes.",
+    "examples": [
+      "Forensic evidence proved his innocence. (Adli delil onun masumiyetini kanıtladı.)",
+      "She is a forensic scientist. (O bir adli bilimler uzmanıdır.)",
+      "Forensic analysis identified the suspect. (Adli analiz şüpheliyi belirledi.)"
+    ],
+    "notes": "Adli, hukuk ve suç bilimine dair."
+  },
+  {
+    "word": "competency",
+    "definition": "The ability or skill to do something effectively.",
+    "examples": [
+      "The job requires a high level of competency. (İş yüksek düzeyde yeterlilik gerektirir.)",
+      "He questioned the manager’s competency. (Yöneticiye yeterliliğini sorguladı.)",
+      "Language competency is essential for the role. (Dil yeterliliği bu rol için şarttır.)"
+    ],
+    "notes": "Yeterlilik, yetkinlik."
+  },
+  {
+    "word": "progression",
+    "definition": "The process of developing or moving forward in stages.",
+    "examples": [
+      "The disease shows a slow progression. (Hastalık yavaş bir ilerleme gösteriyor.)",
+      "His career progression was impressive. (Kariyer ilerlemesi etkileyiciydi.)",
+      "Learning is a natural progression. (Öğrenme doğal bir ilerlemedir.)"
+    ],
+    "notes": "İlerleme, gelişme."
+  },
+  {
+    "word": "entail",
+    "definition": "To involve something as a necessary or unavoidable part.",
+    "examples": [
+      "This job entails a lot of responsibility. (Bu iş çok sorumluluk içerir.)",
+      "Such a decision will entail serious risks. (Böyle bir karar ciddi riskleri beraberinde getirir.)",
+      "Success entails hard work. (Başarı çok çalışmayı gerektirir.)"
+    ],
+    "notes": "Gerektirmek, içermek."
+  },
+  {
+    "word": "abate",
+    "definition": "To become less strong, intense, or widespread.",
+    "examples": [
+      "The storm has abated. (Fırtına dindi.)",
+      "His anger slowly abated. (Öfkesi yavaş yavaş azaldı.)",
+      "They waited for the pain to abate. (Ağrının azalmasını beklediler.)"
+    ],
+    "notes": "Azalmak, hafiflemek, dinmek."
+  },
+  {
     "word": "invertebrate fauna",
     "definition": "Animals without backbones living in a particular region or environment.",
     "examples": [
