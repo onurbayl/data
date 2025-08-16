@@ -1,5 +1,35 @@
 [
   {
+    "word": "backed up",
+    "definition": "1) Blocked or congested. 2) Supported by evidence or assistance. 3) (Computing) Saved as a copy for security.",
+    "examples": [
+      "Traffic was backed up for miles after the accident. (Kaza sonrası trafik kilometrelerce tıkandı.)",
+      "Her claims are backed up by scientific research. (Onun iddiaları bilimsel araştırmalarla destekleniyor.)",
+      "I backed up all my files on an external hard drive. (Tüm dosyalarımı harici diske yedekledim.)"
+    ],
+    "notes": "Tıkanmak, desteklenmek, yedeklenmek (bağlama göre değişir)."
+  },
+  {
+    "word": "bear a striking resemblance",
+    "definition": "To look very similar to someone or something.",
+    "examples": [
+      "She bears a striking resemblance to her mother. (Annesine çarpıcı bir benzerlik gösteriyor.)",
+      "The copy bears a striking resemblance to the original. (Kopya, orijinaline çok benziyor.)",
+      "He bears a striking resemblance to the actor in that movie. (O, o filmdeki aktöre çok benziyor.)"
+    ],
+    "notes": "Çarpıcı bir benzerlik taşımak."
+  },
+  {
+    "word": "literary",
+    "definition": "Related to literature, books, or the art of writing.",
+    "examples": [
+      "She is a literary critic. (O bir edebiyat eleştirmenidir.)",
+      "The author won a literary award. (Yazar bir edebiyat ödülü kazandı.)",
+      "He used many literary devices in his novel. (Romanında birçok edebi araç kullandı.)"
+    ],
+    "notes": "Edebi; yazınsal."
+  },
+  {
     "word": "senescence",
     "definition": "The process of aging or growing old.",
     "examples": [
