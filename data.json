@@ -1,5 +1,205 @@
 [
   {
+    "word": "invertebrate fauna",
+    "definition": "Animals without backbones living in a particular region or environment.",
+    "examples": [
+      "The ocean floor is home to a rich invertebrate fauna. (Okyanus tabanı zengin bir omurgasız faunasına ev sahipliği yapar.)",
+      "Invertebrate fauna play a vital role in the ecosystem. (Omurgasız fauna ekosistemde hayati bir rol oynar.)",
+      "Scientists study invertebrate fauna to understand biodiversity. (Bilim insanları biyolojik çeşitliliği anlamak için omurgasız faunayı inceler.)"
+    ],
+    "notes": "Omurgasız hayvan topluluğu."
+  },
+  {
+    "word": "somewhat",
+    "definition": "To a moderate degree; rather, a little.",
+    "examples": [
+      "He felt somewhat tired after the trip. (Yolculuktan sonra biraz yorgun hissetti.)",
+      "The explanation was somewhat confusing. (Açıklama biraz kafa karıştırıcıydı.)",
+      "She is somewhat taller than her sister. (O, kız kardeşinden biraz daha uzun.)"
+    ],
+    "notes": "Biraz, kısmen."
+  },
+  {
+    "word": "migrants vs. immigrants",
+    "definition": "Migrants are people who move from one place to another, often temporarily or seasonally; immigrants are people who move to another country to live permanently.",
+    "examples": [
+      "Migrant workers move from farm to farm. (Göçmen işçiler çiftlikten çiftliğe taşınır.)",
+      "Immigrants must register when they arrive in a new country. (Göçmenler yeni bir ülkeye geldiklerinde kayıt yaptırmalıdır.)",
+      "Birds are migrants, not immigrants. (Kuşlar göçmendir, göçmen değildir.)"
+    ],
+    "notes": "Migrant = göçmen (geçici/çalışma/yer değiştirme). Immigrant = kalıcı yerleşen göçmen."
+  },
+  {
+    "word": "domelike",
+    "definition": "Shaped like a dome; rounded and convex.",
+    "examples": [
+      "The mountain had a domelike summit. (Dağın kubbemsi bir zirvesi vardı.)",
+      "They studied domelike formations under the sea. (Denizin altında kubbemsi oluşumları incelediler.)",
+      "The jellyfish has a domelike body. (Denizanasının kubbemsi bir gövdesi vardır.)"
+    ],
+    "notes": "Kubbe şeklinde."
+  },
+  {
+    "word": "such as are",
+    "definition": "A formal grammatical structure meaning 'such ... as exist/are found' — refers to examples that exist in reality.",
+    "examples": [
+      "There are challenges, such as are faced by every student. (Her öğrencinin karşılaştığı gibi zorluklar vardır.)",
+      "Salt domes, such as are common along the Gulf Coast, were studied. (Körfez kıyısında yaygın olan tuz kubbeleri incelendi.)",
+      "Diseases, such as are spread by insects, can be dangerous. (Böcekler tarafından yayılan gibi hastalıklar tehlikeli olabilir.)"
+    ],
+    "notes": "Resmi dil; 'olan, bulunan' anlamında kullanılır."
+  },
+  {
+    "word": "pebbles",
+    "definition": "Small, rounded stones, often found on beaches or riverbeds.",
+    "examples": [
+      "The child collected pebbles from the shore. (Çocuk sahilden çakıl taşları topladı.)",
+      "The garden path was covered with pebbles. (Bahçe yolu çakıl taşlarıyla kaplanmıştı.)",
+      "She skipped pebbles across the lake. (Gölette çakıl taşlarını sektirdi.)"
+    ],
+    "notes": "Çakıl taşları."
+  },
+  {
+    "word": "peculiarity",
+    "definition": "A unique or unusual feature or quality.",
+    "examples": [
+      "One peculiarity of the region is its climate. (Bölgenin özelliklerinden biri iklimidir.)",
+      "Her speech had a peculiarity that set her apart. (Konuşmasının onu ayıran bir özelliği vardı.)",
+      "Each culture has its own peculiarities. (Her kültürün kendine özgü özellikleri vardır.)"
+    ],
+    "notes": "Özellik, gariplik."
+  },
+  {
+    "word": "core barrel",
+    "definition": "A cylindrical device used to collect samples of rock, soil, or sediment from deep underground.",
+    "examples": [
+      "The scientists lowered a core barrel into the seafloor. (Bilim insanları deniz tabanına bir karot tüpü indirdi.)",
+      "Core barrels help in studying Earth’s history. (Karot tüpleri, Dünya'nın tarihini incelemeye yardımcı olur.)",
+      "They extracted samples using a core barrel. (Karot tüpü kullanarak örnekler çıkardılar.)"
+    ],
+    "notes": "Karot tüpü."
+  },
+  {
+    "word": "interbedded",
+    "definition": "Layered alternately between other layers, especially in geology.",
+    "examples": [
+      "The rocks were interbedded with layers of clay. (Kayalar kil tabakalarıyla birbirine geçmişti.)",
+      "Sandstone is often interbedded with shale. (Kumtaşı genellikle şeyl ile iç içedir.)",
+      "The scientists studied interbedded sediments. (Bilim insanları birbirine geçmiş tortulları inceledi.)"
+    ],
+    "notes": "Katmanlar arasında bulunan."
+  },
+  {
+    "word": "silt",
+    "definition": "Fine sand, clay, or soil carried by water and deposited as sediment.",
+    "examples": [
+      "The river left silt on the banks after flooding. (Nehir taşkından sonra kıyılarda alüvyon bıraktı.)",
+      "Farmers use fertile silt for growing crops. (Çiftçiler ürün yetiştirmek için verimli alüvyon kullanır.)",
+      "The harbor filled with silt over time. (Liman zamanla alüvyonla doldu.)"
+    ],
+    "notes": "Alüvyon, ince tortu."
+  },
+  {
+    "word": "crustal movements",
+    "definition": "Movements or shifts in the Earth’s crust, often leading to earthquakes or mountain formation.",
+    "examples": [
+      "Crustal movements created the mountain ranges. (Yer kabuğu hareketleri dağ sıralarını oluşturdu.)",
+      "Earthquakes are caused by crustal movements. (Depremler yer kabuğu hareketlerinden kaynaklanır.)",
+      "Scientists study crustal movements to predict natural disasters. (Bilim insanları doğal afetleri öngörmek için kabuk hareketlerini inceler.)"
+    ],
+    "notes": "Yer kabuğu hareketleri."
+  },
+  {
+    "word": "salinity",
+    "definition": "The concentration of salt in water or soil.",
+    "examples": [
+      "The salinity of the Dead Sea is extremely high. (Lut Gölü’nün tuzluluğu son derece yüksektir.)",
+      "Scientists measured the salinity of the ocean. (Bilim insanları okyanusun tuzluluğunu ölçtü.)",
+      "High salinity can damage crops. (Yüksek tuzluluk ürünlere zarar verebilir.)"
+    ],
+    "notes": "Tuzluluk derecesi."
+  },
+  {
+    "word": "extermination",
+    "definition": "The complete destruction or killing of a group of living things.",
+    "examples": [
+      "The extermination of pests protected the crops. (Zararlıların yok edilmesi mahsulleri korudu.)",
+      "History remembers the extermination of species. (Tarih, türlerin yok oluşunu hatırlar.)",
+      "The extermination of rats reduced disease. (Farelerin yok edilmesi hastalığı azalttı.)"
+    ],
+    "notes": "Yok etme, imha."
+  },
+  {
+    "word": "brine",
+    "definition": "Water saturated with salt; salty water.",
+    "examples": [
+      "Olives are preserved in brine. (Zeytinler salamura içinde saklanır.)",
+      "The fish was soaked in brine before cooking. (Balık pişirilmeden önce salamuraya yatırıldı.)",
+      "Brine pools exist on the ocean floor. (Okyanus tabanında tuzlu su gölleri bulunur.)"
+    ],
+    "notes": "Salamura, tuzlu su."
+  },
+  {
+    "word": "precipitate",
+    "definition": "To cause a substance to separate from a solution and form as a solid; also to cause something to happen suddenly.",
+    "examples": [
+      "Calcium sulfate precipitated from the solution. (Çözelti içinden kalsiyum sülfat çöktü.)",
+      "The argument precipitated a crisis. (Tartışma bir krize yol açtı.)",
+      "Salt can precipitate under certain conditions. (Tuz belirli koşullarda çöker.)"
+    ],
+    "notes": "Çökelmek; ani olarak meydana getirmek."
+  },
+  {
+    "word": "plastically",
+    "definition": "In a way that allows something to be deformed or reshaped without breaking.",
+    "examples": [
+      "The salt flowed plastically under pressure. (Tuz basınç altında plastik gibi aktı.)",
+      "Metals can deform plastically before breaking. (Metaller kırılmadan önce plastik şekilde şekil değiştirebilir.)",
+      "The glacier moved plastically over time. (Buzul zamanla plastik gibi hareket etti.)"
+    ],
+    "notes": "Plastik gibi; şekil alabilir şekilde."
+  },
+  {
+    "word": "deluge",
+    "definition": "A severe flood; also a large amount of something overwhelming.",
+    "examples": [
+      "The storm caused a deluge in the city. (Fırtına şehirde büyük bir sel felaketine yol açtı.)",
+      "She received a deluge of emails. (Bir sel gibi e-posta aldı.)",
+      "The film was met with a deluge of criticism. (Film, sel gibi eleştirilerle karşılandı.)"
+    ],
+    "notes": "Tufan, sel; aşırı bolluk."
+  },
+  {
+    "word": "faulting",
+    "definition": "The process by which rocks fracture and move due to tectonic forces.",
+    "examples": [
+      "Faulting caused the valley to form. (Faylanma vadinin oluşmasına neden oldu.)",
+      "The geologist studied the faulting in the region. (Jeolog bölgedeki faylanmayı inceledi.)",
+      "Earthquakes are often the result of faulting. (Depremler genellikle faylanmanın sonucudur.)"
+    ],
+    "notes": "Faylanma."
+  },
+  {
+    "word": "tear into - tore into",
+    "definition": "Past tense of 'tear into' – to attack violently, to damage forcefully, or to rush into something.",
+    "examples": [
+      "The turbulent waters tore into the salt flats. (Çalkantılı sular tuz düzlüklerine şiddetle saldırdı.)",
+      "The dog tore into the meat. (Köpek ete saldırdı.)",
+      "He tore into his opponent’s argument. (Rakibinin argümanına şiddetle karşı çıktı.)"
+    ],
+    "notes": "Şiddetle saldırmak, içine girmek, parçalamak."
+  },
+  {
+    "word": "tear (tear–tore–torn)",
+    "definition": "To pull something apart or damage it by pulling; irregular verb.",
+    "examples": [
+      "Be careful not to tear your shirt. (Gömleğini yırtmamaya dikkat et.)",
+      "She tore the letter into pieces. (Mektubu parçalara ayırdı.)",
+      "The flag was torn by the strong wind. (Bayrak güçlü rüzgârla yırtıldı.)"
+    ],
+    "notes": "Yırtmak; düzensiz fiil (tear–tore–torn)."
+  },
+  {
     "word": "dissect",
     "definition": "To cut open something, especially a dead body or plant, to study its internal parts; also to examine something in great detail.",
     "examples": [
