@@ -1,5 +1,195 @@
 [
   {
+    "word": "commotion",
+    "definition": "A state of confused and noisy disturbance.",
+    "examples": [
+      "There was a commotion in the street when the parade started. (Geçit töreni başlayınca sokakta bir kargaşa oldu.)",
+      "The sudden fire alarm caused a commotion in the office. (Aniden çalan yangın alarmı ofiste bir karışıklığa yol açtı.)",
+      "She tried to avoid the commotion outside the stadium. (Stadyumun dışındaki kargaşadan kaçınmaya çalıştı.)"
+    ],
+    "notes": "Kargaşa, hengame, gürültü."
+  },
+  {
+    "word": "high foot traffic",
+    "definition": "A large number of people passing through an area.",
+    "examples": [
+      "The shop is located in an area with high foot traffic. (Mağaza yüksek yaya trafiği olan bir bölgede bulunuyor.)",
+      "High foot traffic makes this location ideal for a café. (Yüksek yaya trafiği bu konumu kafe için ideal yapıyor.)",
+      "Stores in high foot traffic zones tend to sell more products. (Yüksek yaya trafiği olan bölgelerdeki mağazalar genellikle daha fazla ürün satar.)"
+    ],
+    "notes": "Yoğun yaya trafiği."
+  },
+  {
+    "word": "appreciate",
+    "definition": "To recognize the value, quality, or significance of something; değerlendirmek.",
+    "examples": [
+      "I truly appreciate fine art. (Güzel sanatı gerçekten değerlendiriyorum.)",
+      "She appreciates the complexity of the project. (Projeyi değerlendiriyor ve karmaşıklığını anlıyor.)",
+      "We should appreciate the efforts people make to protect the environment. (İnsanların çevreyi korumak için yaptığı çabaları değerlendirmeliyiz.)"
+    ],
+    "notes": "Burada 'appreciate' sadece teşekkür etmek değil, bir şeyin değerini veya önemini anlamak/ değerlendirmek anlamında kullanılıyor."
+  },
+  {
+    "word": "entrepreneur",
+    "definition": "A person who starts and runs a business, taking on financial risks.",
+    "examples": [
+      "He became a successful entrepreneur at a young age. (Genç yaşta başarılı bir girişimci oldu.)",
+      "Entrepreneurs often face many challenges. (Girişimciler sıklıkla birçok zorlukla karşılaşır.)",
+      "She is an innovative entrepreneur in the tech industry. (O, teknoloji sektöründe yenilikçi bir girişimcidir.)"
+    ],
+    "notes": "Girişimci."
+  },
+  {
+    "word": "entrepreneurial",
+    "definition": "Related to the qualities or activities of an entrepreneur.",
+    "examples": [
+      "She has an entrepreneurial mindset. (Girişimci bir zihniyete sahip.)",
+      "Entrepreneurial skills are important for starting a business. (Girişimcilik becerileri bir iş kurmak için önemlidir.)",
+      "He took an entrepreneurial approach to solve the problem. (Sorunu çözmek için girişimci bir yaklaşım benimsedi.)"
+    ],
+    "notes": "Girişimcilikle ilgili."
+  },
+  {
+    "word": "Nevertheless",
+    "definition": "In spite of that; however.",
+    "examples": [
+      "It was raining; nevertheless, they went for a walk. (Yağmur yağıyordu; yine de yürüyüşe çıktılar.)",
+      "The task was difficult; nevertheless, she completed it. (Görev zordu; buna rağmen tamamladı.)",
+      "He failed the test; nevertheless, he remained optimistic. (Sınavı geçemedi; buna rağmen iyimser kaldı.)"
+    ],
+    "notes": "Buna rağmen, yine de."
+  },
+  {
+    "word": "elaborate on sth",
+    "definition": "To give more details or information about something.",
+    "examples": [
+      "Could you elaborate on your plan? (Planını daha detaylı anlatabilir misin?)",
+      "The teacher asked him to elaborate on his answer. (Öğretmen ondan cevabını detaylandırmasını istedi.)",
+      "She elaborated on the results of the study. (Araştırmanın sonuçlarını detaylandırdı.)"
+    ],
+    "notes": "Bir şey üzerinde ayrıntıya girmek."
+  },
+  {
+    "word": "inevitably",
+    "definition": "As is certain to happen; unavoidably.",
+    "examples": [
+      "Mistakes will inevitably happen. (Hatalar kaçınılmaz olarak olacaktır.)",
+      "The decision inevitably led to conflict. (Karar kaçınılmaz olarak çatışmaya yol açtı.)",
+      "Inevitably, some challenges arise in any project. (Her projede kaçınılmaz olarak bazı zorluklar ortaya çıkar.)"
+    ],
+    "notes": "Kaçınılmaz olarak."
+  },
+  {
+    "word": "worthwhile",
+    "definition": "Worth the time, effort, or cost.",
+    "examples": [
+      "Volunteering is a worthwhile activity. (Gönüllülük değerli bir faaliyettir.)",
+      "It’s worthwhile to study hard. (Çok çalışmak değerli bir iştir.)",
+      "The journey was long but worthwhile. (Yolculuk uzun sürdü ama değerdi.)"
+    ],
+    "notes": "Değerli, zahmete değer."
+  },
+  {
+    "word": "fiction",
+    "definition": "Literature in the form of imagined stories.",
+    "examples": [
+      "She loves reading fiction. (Kurgu kitapları okumayı sever.)",
+      "The novel is a work of fiction. (Roman bir kurgu eseridir.)",
+      "Fiction often explores human emotions. (Kurgu sıklıkla insan duygularını keşfeder.)"
+    ],
+    "notes": "Kurgu, hayal ürünü hikaye."
+  },
+  {
+    "word": "omniscient",
+    "definition": "Knowing everything; having unlimited knowledge.",
+    "examples": [
+      "The narrator in the story is omniscient. (Hikayedeki anlatıcı her şeyi bilen biridir.)",
+      "He seemed omniscient about the subject. (Konu hakkında her şeyi biliyor gibiydi.)",
+      "In myths, gods are often omniscient. (Mitlerde tanrılar sıklıkla her şeyi bilir.)"
+    ],
+    "notes": "Her şeyi bilen, sonsuz bilgiye sahip."
+  },
+  {
+    "word": "recount",
+    "definition": "To describe or tell in detail; also to count again.",
+    "examples": [
+      "She recounts characters’ visible actions in her novel. (Romanında karakterlerin görünür eylemlerini anlatır.)",
+      "He recounted the events of the trip. (Gezinin olaylarını anlattı.)",
+      "The committee will recount the votes. (Komite oyları tekrar sayacak.)"
+    ],
+    "notes": "Anlatmak, ayrıntılı şekilde aktarmak; tekrar saymak."
+  },
+  {
+    "word": "to underscore",
+    "definition": "To emphasize or highlight.",
+    "examples": [
+      "The report underscores the importance of education. (Rapor eğitimin önemini vurguluyor.)",
+      "Her speech underscored the need for change. (Konuşması değişim gerekliliğini vurguladı.)",
+      "This finding underscores the relevance of the study. (Bu bulgu çalışmanın önemini vurguluyor.)"
+    ],
+    "notes": "Vurgulamak, altını çizmek."
+  },
+  {
+    "word": "approve of him",
+    "definition": "To have a positive opinion about someone or something.",
+    "examples": [
+      "I don’t approve of him smoking. (Onun sigara içmesini onaylamıyorum.)",
+      "Do your parents approve of him? (Ailen onun hakkında olumlu düşünüyor mu?)",
+      "She doesn’t approve of his decisions. (Onun kararlarını onaylamıyor.)"
+    ],
+    "notes": "Onaylamak, olumlu görüşe sahip olmak."
+  },
+  {
+    "word": "hassle",
+    "definition": "A situation causing difficulty or inconvenience.",
+    "examples": [
+      "I don’t want the hassle of flipping through pages. (Sayfaları karıştırmanın zahmetini istemiyorum.)",
+      "Returning the product was such a hassle. (Ürünü iade etmek büyük bir zahmetti.)",
+      "Dealing with traffic every morning is a real hassle. (Her sabah trafikle uğraşmak gerçekten zahmetli.)"
+    ],
+    "notes": "Zahmet, sıkıntı, uğraştırıcı durum."
+  },
+  {
+    "word": "on top of that",
+    "definition": "In addition to what has already been mentioned.",
+    "examples": [
+      "It rained all day, and on top of that, the car broke down. (Bütün gün yağmur yağdı, bir de üstüne araba bozuldu.)",
+      "She’s late, and on top of that, she forgot her notes. (Geç kaldı, bir de üstüne notlarını unuttu.)",
+      "I’m tired, and on top of that, I have more work to do. (Yorgunum, bir de üstüne daha çok işim var.)"
+    ],
+    "notes": "Üstelik, bir de bunun üzerine."
+  },
+  {
+    "word": "tactile",
+    "definition": "Related to the sense of touch; perceivable by touch.",
+    "examples": [
+      "Children learn best through tactile experiences. (Çocuklar en iyi dokunsal deneyimlerle öğrenir.)",
+      "The book has a tactile cover that feels soft. (Kitabın yumuşak bir dokunsal kapağı var.)",
+      "Artists often focus on tactile details in sculptures. (Sanatçılar heykellerde dokunsal detaylara odaklanır.)"
+    ],
+    "notes": "Dokunsal; temas yoluyla algılanabilen."
+  },
+  {
+    "word": "strain",
+    "definition": "1) Pressure or tension. 2) To exert oneself. 3) A type or variety (biology).",
+    "examples": [
+      "She felt a strain in her back after lifting the box. (Kutuyu kaldırdıktan sonra sırtında bir gerginlik hissetti.)",
+      "Don’t strain your eyes by staring at the screen too long. (Gözlerini fazla ekrana bakarak zorlamayın.)",
+      "This strain of bacteria is resistant to antibiotics. (Bu bakteri türü antibiyotiklere dirençli.)"
+    ],
+    "notes": "Gerginlik, zorlanma, tür (bağlama göre değişir)."
+  },
+  {
+    "word": "akin to",
+    "definition": "Similar or related to something.",
+    "examples": [
+      "His reaction was akin to panic. (Tepkisi paniğe benziyordu.)",
+      "This new technology is akin to a revolution in communication. (Bu yeni teknoloji iletişimde bir devrim niteliğinde.)",
+      "The flavor is akin to that of fresh almonds. (Lezzeti taze bademe benzer.)"
+    ],
+    "notes": "Benzer, ilişkili."
+  },
+  {
     "word": "multifaceted",
     "definition": "Having many different aspects, features, or sides.",
     "examples": [
