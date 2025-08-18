@@ -1,5 +1,146 @@
 [
   {
+    "word": "discrepancy",
+    "definition": "A lack of compatibility or similarity between two or more facts; tutarsızlık, uyumsuzluk.",
+    "examples": [
+      "There is a discrepancy between his story and the evidence. (Onun hikâyesi ile kanıt arasında bir tutarsızlık var.)",
+      "The accountant found a discrepancy in the financial report. (Muhasebeci finansal raporda bir uyumsuzluk buldu.)",
+      "Such discrepancies must be resolved quickly. (Böyle tutarsızlıklar hızlıca çözülmeli.)"
+    ],
+    "notes": "Gerçekler veya sayılar arasında uyuşmazlık olduğunda kullanılır."
+  },
+  {
+    "word": "asylum",
+    "definition": "Protection or safety given to someone who has left their country or is escaping danger; sığınma, iltica.",
+    "examples": [
+      "He applied for political asylum. (Siyasi sığınma talebinde bulundu.)",
+      "Many refugees sought asylum in Europe. (Pek çok mülteci Avrupa’da sığınma aradı.)",
+      "The country offered asylum to war victims. (Ülke savaş mağdurlarına sığınma sundu.)"
+    ],
+    "notes": "⚠️ 'Sought', 'seek' fiilinin geçmiş zaman (past tense) ve geçmiş zaman ortacı (past participle) halidir. Hem 'iltica' hem de 'akıl hastanesi' anlamında kullanılabilir, bağlama göre değişir."
+  },
+  {
+    "word": "fitness",
+    "definition": "The ability of an organism to survive and reproduce in its environment; uyum gücü, yaşam ve üreme başarısı.",
+    "examples": [
+      "In evolutionary biology, fitness is about reproductive success. (Evrimsel biyolojide fitness üreme başarısıyla ilgilidir.)",
+      "Behaviors that reduce personal fitness may still benefit the group. (Kişisel uyumu azaltan davranışlar yine de gruba fayda sağlayabilir.)",
+      "Natural selection favors individuals with higher fitness. (Doğal seçilim, daha yüksek uyum gücüne sahip bireyleri seçer.)"
+    ],
+    "notes": "Günlük dilde 'formda olmak' anlamına da gelir, biyolojide ise 'hayatta kalma ve üreme başarısı' demektir."
+  },
+  {
+    "word": "altruistic",
+    "definition": "Showing selfless concern for the well-being of others; fedakâr, özgecil.",
+    "examples": [
+      "Altruistic behavior is common in some animal species. (Bazı hayvan türlerinde fedakâr davranış yaygındır.)",
+      "She made an altruistic decision to help strangers. (Yabancılara yardım etmek için fedakâr bir karar verdi.)",
+      "In biology, altruistic acts may reduce individual fitness but help relatives. (Biyolojide özgecil davranışlar bireyin uyumunu azaltabilir ama akrabalarına yardımcı olur.)"
+    ],
+    "notes": "Kendi çıkarlarını gözetmeden başkalarına yardım eden davranışlar için kullanılır."
+  },
+  {
+    "word": "populate",
+    "definition": "1) To live in or inhabit an area; yerleşmek, doldurmak. 2) To increase the population of a place; nüfusu artırmak.",
+    "examples": [
+      "Early humans populated many parts of the Earth. (İlk insanlar dünyanın birçok yerine yerleşti.)",
+	  "The queen can populate the hive with her offspring. (Kraliçe, yavrularıyla kovanı doldurabilir.)",
+      "The island is populated mainly by birds. (Ada çoğunlukla kuşlar tarafından doldurulmuştur.)",
+      "Government policies helped populate rural areas. (Hükümet politikaları kırsal bölgelerin nüfusunu artırmaya yardımcı oldu.)"
+    ],
+    "notes": "Bir yerin canlılar tarafından doldurulması veya nüfusun artırılması için kullanılır."
+  },
+  {
+    "word": "mammal",
+    "definition": "A warm-blooded animal with hair or fur that feeds its young with milk; memeli.",
+    "examples": [
+      "Humans are mammals. (İnsanlar memelidir.)",
+      "Whales are the largest mammals on Earth. (Balinalar dünyadaki en büyük memelilerdir.)",
+      "Dogs, cats, and lions are all mammals. (Köpekler, kediler ve aslanlar memelidir.)"
+    ],
+    "notes": "Memelilerin en önemli özelliği yavrularını sütle beslemeleridir."
+  },
+  {
+    "word": "sterile workers",
+    "definition": "Members of a colony (e.g., ants, bees) that cannot reproduce but work to support the colony; kısır işçiler.",
+    "examples": [
+      "Ant colonies have sterile workers that gather food. (Karınca kolonilerinde yiyecek toplayan kısır işçiler vardır.)",
+      "Sterile workers defend the hive from predators. (Kısır işçiler kovana yırtıcılardan karşı korur.)",
+      "In bees, the sterile workers care for the queen and larvae. (Arılarda kısır işçiler kraliçeye ve larvalara bakar.)"
+    ],
+    "notes": "Özellikle sosyal böceklerde görülen bir durumdur."
+  },
+  {
+    "word": "superficially",
+    "definition": "In a way that is only on the surface or not deep; yüzeysel olarak.",
+    "examples": [
+      "He only studied the topic superficially. (Konuyu sadece yüzeysel olarak inceledi.)",
+      "Superficially, the twins look alike, but they are very different. (Yüzeysel olarak ikizler benziyor, ama çok farklılar.)",
+      "The damage seemed minor superficially. (Hasar yüzeysel olarak küçük görünüyordu.)"
+    ],
+    "notes": "Derinlemesine olmayan, sadece yüzeyden bakılan anlamı taşır."
+  },
+  {
+    "word": "inclusive",
+    "definition": "Containing all parts or groups; kapsayıcı.",
+    "examples": [
+      "The price is inclusive of all taxes. (Fiyat tüm vergileri kapsar.)",
+      "They promote an inclusive environment. (Onlar kapsayıcı bir ortamı teşvik ediyorlar.)",
+      "An inclusive policy welcomes everyone. (Kapsayıcı bir politika herkesi kabul eder.)"
+    ],
+    "notes": "Bütün grupları veya şeyleri içine alır."
+  },
+  {
+    "word": "including",
+    "definition": "Used to show that something is part of a group; dahil olmak üzere.",
+    "examples": [
+      "Several people were there, including my teacher. (Orada öğretmenim dahil birkaç kişi vardı.)",
+      "The meal includes dessert, including ice cream. (Yemek tatlıyı içerir, dondurma dahil.)",
+      "She visited many countries, including Japan. (Japonya dahil birçok ülke ziyaret etti.)"
+    ],
+    "notes": "‘Inclusive’den daha dar; örnek veya bir alt grup belirtmek için kullanılır."
+  },
+  {
+    "word": "defy",
+    "definition": "To resist, challenge, or refuse to obey; karşı gelmek, meydan okumak.",
+    "examples": [
+      "She defied her parents and traveled alone. (Ailesine karşı geldi ve yalnız seyahat etti.)",
+      "Some plants can defy harsh weather. (Bazı bitkiler sert hava koşullarına karşı koyabilir.)",
+      "The protestors defied the new law. (Protestocular yeni kanuna karşı geldiler.)"
+    ],
+    "notes": "Hem kurallara uymamak hem de meydan okumak anlamında kullanılır."
+  },
+  {
+    "word": "monkey grooms",
+    "definition": "The act of monkeys cleaning each other's fur; maymunların birbirini temizlemesi.",
+    "examples": [
+      "A monkey grooms its friend to strengthen bonds. (Bir maymun bağları güçlendirmek için arkadaşını temizler.)",
+      "Monkey grooms often serve social purposes. (Maymunların birbirini temizlemesi genellikle sosyal amaçlara hizmet eder.)",
+      "In the troop, the lower-ranking monkey grooms the higher one. (Sürünün içinde düşük rütbeli maymun yüksek rütbeli olanı temizler.)"
+    ],
+    "notes": "Primatlarda hem temizlik hem de sosyal bağları pekiştirme işlevi vardır."
+  },
+  {
+    "word": "reciprocity",
+    "definition": "The practice of exchanging things for mutual benefit; karşılıklılık.",
+    "examples": [
+      "Reciprocity is essential in healthy friendships. (Karşılıklılık sağlıklı dostluklarda önemlidir.)",
+      "Many social animals rely on reciprocity. (Pek çok sosyal hayvan karşılıklılığa dayanır.)",
+      "The two countries agreed on reciprocity in trade. (İki ülke ticarette karşılıklılık konusunda anlaştı.)"
+    ],
+    "notes": "‘Sen bana, ben sana’ mantığıyla karşılıklı faydayı anlatır."
+  },
+  {
+    "word": "reciprocal",
+    "definition": "Mutual; done in return; karşılıklı.",
+    "examples": [
+      "They have a reciprocal respect for each other. (Birbirlerine karşılıklı saygıları var.)",
+      "The agreement is based on reciprocal benefits. (Anlaşma karşılıklı faydalar üzerine kuruludur.)",
+      "Reciprocal relationships are common in animal societies. (Karşılıklı ilişkiler hayvan topluluklarında yaygındır.)"
+    ],
+    "notes": "Sıfat formu; ‘reciprocity’ kavramının niteleyici hali."
+  },
+  {
     "word": "mediocrity",
     "definition": "The state of being average or not very good; sıradanlık, vasatlık.",
     "examples": [
