@@ -1,5 +1,35 @@
 [
   {
+    "word": "astounding",
+    "definition": "Surprisingly impressive or amazing; şaşırtıcı, hayret verici.",
+    "examples": [
+      "The magician’s trick was simply astounding. (Sihirbazın numarası gerçekten şaşırtıcıydı.)",
+      "They made astounding progress in a short time. (Kısa sürede inanılmaz ilerleme kaydettiler.)",
+      "The view from the mountain top was astounding. (Dağın zirvesinden manzara hayret vericiydi.)"
+    ],
+    "notes": "Genellikle olumlu anlamda 'büyüleyici, hayret verici' durumlar için kullanılır."
+  },
+  {
+    "word": "penned by",
+    "definition": "Written by (used for books, articles, letters, etc.); yazarı … olan.",
+    "examples": [
+      "This novel was penned by a famous author. (Bu roman ünlü bir yazar tarafından yazıldı.)",
+      "The letter was penned by the president himself. (Mektup bizzat başkan tarafından yazıldı.)",
+      "The article, penned by a leading journalist, gained wide attention. (Önde gelen bir gazeteci tarafından yazılan makale büyük ilgi gördü.)"
+    ],
+    "notes": "Resmî ve edebî metinlerde sıkça kullanılır, 'written by' ifadesine göre daha edebîdir."
+  },
+  {
+    "word": "collect in",
+    "definition": "To gather or accumulate in a particular place; bir yerde birikmek, toplanmak.",
+    "examples": [
+      "Rainwater collects in the reservoir. (Yağmur suları barajda birikir.)",
+      "Dust collected in the corners of the room. (Odanın köşelerinde toz birikti.)",
+      "The interaction of sunlight with oxygen can produce ozone which collects in the Earth's atmosphere. (Güneş ışığının oksijenle etkileşimi, Dünya atmosferinde biriken ozonu oluşturabilir.)"
+    ],
+    "notes": "Genellikle sıvı, gaz ya da küçük parçaların bir yerde yığılması için kullanılır."
+  },
+  {
     "word": "flock to",
     "definition": "To go to a place in large numbers; akın etmek.",
     "examples": [
