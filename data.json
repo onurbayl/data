@@ -1,5 +1,125 @@
 [
   {
+    "word": "flock to",
+    "definition": "To go to a place in large numbers; akın etmek.",
+    "examples": [
+      "Tourists flock to Paris every summer. (Turistler her yaz Paris’e akın eder.)",
+      "People flocked to the stadium to watch the final match. (Final maçını izlemek için insanlar stadyuma akın etti.)",
+      "Shoppers flock to the mall during sales. (İndirim zamanında alışveriş merkezine akın ederler.)"
+    ],
+    "notes": "Genellikle kalabalıkların bir yere yoğun ilgisi için kullanılır."
+  },
+  {
+    "word": "conquest",
+    "definition": "The act of taking control of a country or territory by force; fetih.",
+    "examples": [
+      "The conquest of new lands expanded the empire. (Yeni toprakların fethi imparatorluğu genişletti.)",
+      "His greatest conquest was defeating the rival king. (Onun en büyük fethi rakip kralı yenmekti.)",
+      "The Spanish conquest of the Americas changed history. (İspanyolların Amerika’yı fethi tarihi değiştirdi.)"
+    ],
+    "notes": "Hem askerî fetih hem de mecazî anlamda başarı için kullanılabilir."
+  },
+  {
+    "word": "petition",
+    "definition": "A formal written request, typically signed by many people, to an authority; dilekçe, talep. (Fiil olarak: to make a formal request, especially to an authority).",
+    "examples": [
+      "They signed a petition against the new law. (Yeni yasa aleyhine dilekçe imzaladılar.)",
+      "The workers started a petition for better wages. (İşçiler daha iyi ücret için dilekçe başlattılar.)",
+      "They petitioned the government for better healthcare services. (Daha iyi sağlık hizmetleri için hükümete dilekçe verdiler.)"
+    ],
+    "notes": "Hem isim hem fiil olarak kullanılabilir."
+  },
+  {
+    "word": "rebuff",
+    "definition": "To reject someone or something in an abrupt or ungracious way; tersleme, geri çevirme.",
+    "examples": [
+      "She rebuffed his invitation to dinner. (Onun akşam yemeği davetini geri çevirdi.)",
+      "The company rebuffed the offer. (Şirket teklifi reddetti.)",
+      "His attempt to help was met with a sharp rebuff. (Yardım etme girişimi sert bir şekilde reddedildi.)"
+    ],
+    "notes": "Genellikle kaba veya sert bir reddi ifade eder."
+  },
+  {
+    "word": "nautical",
+    "definition": "Related to sailors, ships, or navigation on water; denizcilikle ilgili.",
+    "examples": [
+      "He has extensive nautical experience. (Geniş denizcilik deneyimine sahiptir.)",
+      "The museum displayed nautical maps. (Müze denizcilik haritalarını sergiledi.)",
+      "Nautical experts guided the expedition. (Denizcilik uzmanları keşif seferine rehberlik etti.)"
+    ],
+    "notes": "Sıklıkla denizcilik terimleri ve uzmanlık alanlarında kullanılır."
+  },
+  {
+    "word": "concur",
+    "definition": "To agree or have the same opinion; aynı fikirde olmak.",
+    "examples": [
+      "Experts concur that the new policy will help. (Uzmanlar yeni politikanın yardımcı olacağı konusunda hemfikir.)",
+      "I concur with your assessment. (Değerlendirmenize katılıyorum.)",
+      "They concurred on the need for reform. (Reform gerekliliği konusunda hemfikir oldular.)"
+    ],
+    "notes": "Resmî ve akademik bağlamlarda sık kullanılır."
+  },
+  {
+    "word": "expedition",
+    "definition": "A journey with a specific purpose, often for exploration; keşif seferi.",
+    "examples": [
+      "They went on an expedition to the Arctic. (Kuzey Kutbu’na keşif seferine çıktılar.)",
+      "The expedition discovered ancient ruins. (Keşif seferi eski harabeler buldu.)",
+      "He joined an expedition across the desert. (Çölde bir keşif seferine katıldı.)"
+    ],
+    "notes": "Hem bilimsel hem de macera amaçlı yolculuklar için kullanılır."
+  },
+  {
+    "word": "erroneous",
+    "definition": "Wrong; based on incorrect information; hatalı, yanlış.",
+    "examples": [
+      "The report was based on erroneous data. (Rapor hatalı verilere dayanıyordu.)",
+      "His assumption proved erroneous. (Onun varsayımı hatalı çıktı.)",
+      "They corrected the erroneous statement. (Yanlış ifadeyi düzelttiler.)"
+    ],
+    "notes": "Akademik ve resmî yazılarda yaygındır."
+  },
+  {
+    "word": "make landfall",
+    "definition": "When a storm or traveler reaches land after being at sea; karaya ulaşmak.",
+    "examples": [
+      "The hurricane made landfall on the island. (Kasırga adada karaya ulaştı.)",
+      "They made landfall after three weeks at sea. (Üç haftalık deniz yolculuğundan sonra karaya ulaştılar.)",
+      "The explorers finally made landfall on the remote coast. (Kâşifler sonunda uzak sahile karaya ulaştı.)"
+    ],
+    "notes": "Özellikle fırtınalar ve uzun deniz yolculukları için kullanılır."
+  },
+  {
+    "word": "bestow",
+    "definition": "To give something formally, usually as an honor; bahşetmek, vermek.",
+    "examples": [
+      "The university bestowed an honorary degree upon her. (Üniversite ona fahri doktora verdi.)",
+      "The king bestowed knighthood upon the warrior. (Kral savaşçıya şövalyelik bahşetti.)",
+      "He bestowed his blessings on the couple. (Çifte dualarını/bereketini verdi.)"
+    ],
+    "notes": "Genellikle resmî veya onursal ödül/armağanlar için kullanılır. **On** ve **upon** ile kullanılabilir; 'upon' daha resmîdir."
+  },
+  {
+    "word": "mounting",
+    "definition": "Gradually increasing in amount or intensity; artan, giderek çoğalan.",
+    "examples": [
+      "There is mounting pressure on the government. (Hükümet üzerinde artan baskı var.)",
+      "She faced mounting difficulties. (Artan zorluklarla karşılaştı.)",
+      "The mounting amount of debt worried them. (Artan borç miktarı onları endişelendirdi.)"
+    ],
+    "notes": "Sıklıkla sorunlar, baskılar, maliyetler için kullanılır."
+  },
+  {
+    "word": "speculation",
+    "definition": "Ideas or guesses without firm evidence; tahmin, spekülasyon.",
+    "examples": [
+      "There was speculation about his resignation. (Onun istifası hakkında söylentiler vardı.)",
+      "Financial speculation can be risky. (Finansal spekülasyon riskli olabilir.)",
+      "The cause of the fire is still a matter of speculation. (Yangının sebebi hâlâ bir tahmin konusudur.)"
+    ],
+    "notes": "Hem gündelik hem de akademik bağlamda kullanılır."
+  },
+  {
     "word": "discrepancy",
     "definition": "A lack of compatibility or similarity between two or more facts; tutarsızlık, uyumsuzluk.",
     "examples": [
