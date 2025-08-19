@@ -1,5 +1,165 @@
 [
   {
+    "word": "harmonization",
+    "definition": "The process of making things compatible or consistent, especially systems, rules, or practices.",
+    "examples": [
+      "The harmonization of international trade regulations helps reduce conflicts.",
+      "Harmonization of tax laws across states simplifies business operations.",
+      "The committee worked on the harmonization of safety standards."
+    ],
+    "notes": "Uyumlaştırma, standartlaştırma; farklı sistemlerin veya kuralların birbirine uygun hâle getirilmesi."
+  },
+  {
+    "word": "lug around",
+    "definition": "To carry or drag something heavy or cumbersome; taşımak, sürüklemek.",
+    "examples": [
+      "It’s got to be better than lugging around all these heavy books. (Bütün bu ağır kitapları taşımaktan çok daha iyi olmalı.)",
+      "She had to lug around her luggage all day at the airport. (Tüm gün bagajını taşımak zorunda kaldı.)",
+      "He lugged around his guitar everywhere he went. (Gittiği her yere gitarını taşıdı.)"
+    ],
+    "notes": "Genellikle olumsuz bir yük hissi verir."
+  },
+  {
+    "word": "to contrast",
+    "definition": "To show differences when compared with something else; karşılaştırmak, zıtlık oluşturmak.",
+    "examples": [
+      "The dark clouds contrast with the bright sun. (Koyu bulutlar parlak güneşle zıtlık oluşturuyor.)",
+      "Her calm demeanor contrasts with his fiery temper. (Onun sakin tavrı, onun ateşli huyuyla zıtlık oluşturuyor.)",
+      "The study aims to contrast urban and rural lifestyles. (Çalışma, kentsel ve kırsal yaşam biçimlerini karşılaştırmayı amaçlıyor.)"
+    ],
+    "notes": "Sanat, yazı ve bilimsel karşılaştırmalarda sık kullanılır."
+  },
+  {
+    "word": "pride oneself on",
+    "definition": "To feel proud of a particular quality or achievement of oneself.",
+    "examples": [
+      "I pride myself on my punctuality.",
+      "She prides herself on her students’ achievements.",
+      "He prides himself on being honest and reliable."
+    ],
+    "notes": "‘Pride’ başkası hakkında doğrudan kullanılamaz; daima ‘pride oneself on sth’ şeklinde kullanılır."
+  },
+  {
+    "word": "live-in",
+    "definition": "Living at the place where one works, often referring to domestic staff; evde kalan.",
+    "examples": [
+      "They hired a live-in nanny for their children. (Çocukları için evde kalan bir dadı tuttular.)",
+      "A live-in assistant can help elderly people manage their homes. (Evde kalan bir asistan, yaşlıların ev işlerini yönetmesine yardımcı olabilir.)",
+      "He is a live-in caretaker at the estate. (Malikanede evde kalan bir bakıcıdır.)"
+    ],
+    "notes": "Genellikle yardımcı personel veya bakıcılar için kullanılır."
+  },
+  {
+    "word": "tie the knot",
+    "definition": "To get married; evlenmek.",
+    "examples": [
+      "They decided to tie the knot after five years of dating. (Beş yıl sonra evlenmeye karar verdiler.)",
+      "After a long engagement, they finally tied the knot. (Uzun bir nişandan sonra sonunda evlendiler.)",
+      "They are planning to tie the knot in a small ceremony. (Küçük bir törenle evlenmeyi planlıyorlar.)"
+    ],
+    "notes": "Gayri resmi ve günlük konuşma dilinde sıkça kullanılır."
+  },
+  {
+    "word": "rationale",
+    "definition": "The underlying reason or explanation for something; gerekçe, mantık.",
+    "examples": [
+      "The rationale behind the policy is to reduce waste. (Politikanın arkasındaki gerekçe atıkları azaltmaktır.)",
+      "She explained the rationale for her decision. (Kararının gerekçesini açıkladı.)",
+      "Understanding the rationale helps in solving the problem efficiently. (Gerekçeyi anlamak, sorunu verimli çözmeye yardımcı olur.)"
+    ],
+    "notes": "Resmî yazışmalarda ve akademik metinlerde sık kullanılır."
+  },
+  {
+    "word": "sublime",
+    "definition": "Of great excellence or beauty; yüce, mükemmel.",
+    "examples": [
+      "The view from the mountain was absolutely sublime. (Dağın zirvesinden manzara gerçekten muhteşemdi.)",
+      "She delivered a sublime performance on stage. (Sahnedeki performansı mükemmeldi.)",
+      "The book’s writing style is sublime. (Kitabın yazım tarzı yüce ve etkileyici.)"
+    ],
+    "notes": "Estetik ve duygusal hayranlık uyandıran durumlar için kullanılır."
+  },
+  {
+    "word": "stuffed eagle",
+    "definition": "An eagle preserved through taxidermy; doldurulmuş kartal.",
+    "examples": [
+      "The museum displayed a stuffed eagle in the main hall. (Müze, ana salonda bir doldurulmuş kartal sergiledi.)",
+      "He keeps a stuffed eagle on his bookshelf. (Kitaplığında bir doldurulmuş kartal bulunduruyor.)",
+      "The stuffed eagle looked lifelike. (Doldurulmuş kartal canlıymış gibi görünüyordu.)"
+    ],
+    "notes": "Doğal tarih müzelerinde sıkça rastlanır."
+  },
+  {
+    "word": "deforestation",
+    "definition": "The clearing or removal of forests; ormansızlaşma.",
+    "examples": [
+      "Deforestation is a major environmental concern. (Ormansızlaşma büyük bir çevre sorunudur.)",
+      "Illegal logging contributes to deforestation. (Kaçak ağaç kesimi ormansızlaşmaya katkıda bulunur.)",
+      "Efforts are being made to prevent deforestation. (Ormansızlaşmayı önlemek için çabalar gösteriliyor.)"
+    ],
+    "notes": "Çevresel ve iklim değişikliği tartışmalarında sık kullanılan bir terim."
+  },
+  {
+    "word": "lucrative",
+    "definition": "Producing a great deal of profit; karlı, kazançlı.",
+    "examples": [
+      "She started a lucrative business in renewable energy. (Yenilenebilir enerji alanında karlı bir iş kurdu.)",
+      "Investing in real estate can be lucrative. (Gayrimenkule yatırım yapmak karlı olabilir.)",
+      "He found a lucrative opportunity in online marketing. (Çevrimiçi pazarlamada karlı bir fırsat buldu.)"
+    ],
+    "notes": "Finansal veya ticari anlamda kazanç sağlayan işler için kullanılır."
+  },
+  {
+    "word": "displace",
+    "definition": "To force someone or something to leave its usual place; yerinden etmek, yer değiştirmek.",
+    "examples": [
+      "Floods displaced thousands of people. (Seller binlerce kişiyi yerinden etti.)",
+      "The new highway displaced several businesses. (Yeni otoyol birkaç işletmeyi yerinden etti.)",
+      "Animals are often displaced by habitat destruction. (Hayvanlar sıklıkla yaşam alanı tahribatı nedeniyle yerinden edilir.)"
+    ],
+    "notes": "Hem insanlar hem de nesneler için kullanılabilir."
+  },
+  {
+    "word": "irresponsible",
+    "definition": "Not showing a proper sense of responsibility; sorumsuz.",
+    "examples": [
+      "It was irresponsible to leave the children alone. (Çocukları yalnız bırakmak sorumsuzcaydı.)",
+      "He acted irresponsibly in handling the finances. (Mali işleri yönetmede sorumsuz davrandı.)",
+      "Driving without a license is irresponsible behavior. (Ehliyetsiz araç kullanmak sorumsuz bir davranıştır.)"
+    ],
+    "notes": "Olumsuz bir karakter veya davranışı tanımlamak için kullanılır."
+  },
+  {
+    "word": "beneficiary",
+    "definition": "A person who receives benefits, profits, or advantages; lehtar, faydalanan kişi.",
+    "examples": [
+      "She was the main beneficiary of her father’s will. (Babası vasiyetinde başlıca lehtardı.)",
+      "The program aims to help beneficiaries improve their skills. (Program, lehtarların becerilerini geliştirmelerine yardımcı olmayı amaçlar.)",
+      "The beneficiaries of the charity received essential supplies. (Hayır kurumunun faydalanıcıları temel ihtiyaç malzemeleri aldı.)"
+    ],
+    "notes": "Hukuki, sosyal ve finansal bağlamlarda kullanılır."
+  },
+  {
+    "word": "concise",
+    "definition": "Giving a lot of information clearly and in few words; özlü, kısa ve anlaşılır.",
+    "examples": [
+      "She gave a concise summary of the report. (Raporun özlü bir özetini verdi.)",
+      "Keep your answers concise during the interview. (Mülakatta cevaplarınızı özlü tutun.)",
+      "A concise explanation is easier to understand. (Özlü bir açıklama anlaşılması daha kolaydır.)"
+    ],
+    "notes": "Genellikle yazılı ve sözlü iletişimde netlik ve sadelik vurgusu için kullanılır."
+  },
+  {
+    "word": "prejudice",
+    "definition": "A preconceived opinion not based on reason or experience; önyargı.",
+    "examples": [
+      "Racial prejudice is a serious issue. (Irksal önyargı ciddi bir sorundur.)",
+      "He showed prejudice against new ideas. (Yeni fikirlere karşı önyargı gösterdi.)",
+      "Laws aim to eliminate prejudice in the workplace. (Yasalar, iş yerinde önyargıyı ortadan kaldırmayı amaçlar.)"
+    ],
+    "notes": "Sosyal adalet ve eşitlik bağlamlarında sıkça kullanılır
+  },
+  {
     "word": "astounding",
     "definition": "Surprisingly impressive or amazing; şaşırtıcı, hayret verici.",
     "examples": [
