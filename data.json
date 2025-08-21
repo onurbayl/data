@@ -1,5 +1,65 @@
 [
   {
+    "word": "profoundly",
+    "definition": "In a deep, intense, or very great way.",
+    "examples": [
+      "She was profoundly affected by the news.",
+      "The book profoundly changed his perspective on life.",
+      "He apologized profoundly for his mistake."
+    ],
+    "notes": "Derinden, derin bir şekilde."
+  },
+  {
+    "word": "profound",
+    "definition": "Having deep meaning, intensity, or significance.",
+    "examples": [
+      "The professor gave a profound lecture on philosophy.",
+      "He has a profound understanding of human emotions.",
+      "The loss had a profound impact on her life."
+    ],
+    "notes": "Derin, çok büyük, anlamlı."
+  },
+  {
+    "word": "mutter",
+    "definition": "To say something in a low, barely audible voice, often in dissatisfaction or complaint.",
+    "examples": [
+      "He muttered something under his breath.",
+      "She muttered angrily as she left the room.",
+      "The students muttered about the difficult exam."
+    ],
+    "notes": "Mırıldanmak, homurdanmak."
+  },
+  {
+    "word": "tune into",
+    "definition": "To pay attention to or become aware of something; to connect with or understand.",
+    "examples": [
+      "It’s important to tune into your body’s needs.",
+      "She easily tuned into the mood of the conversation.",
+      "I try to tune into the latest news every morning."
+    ],
+    "notes": "Kendini vermek, dikkat kesilmek, odaklanmak."
+  },
+  {
+    "word": "sympathetic",
+    "definition": "Showing understanding, compassion, or concern for someone else's situation.",
+    "examples": [
+      "She was very sympathetic when I told her about my problem.",
+      "The teacher gave a sympathetic smile to the nervous student.",
+      "He is always sympathetic towards his friends’ difficulties."
+    ],
+    "notes": "Anlayışlı, şefkatli, empatik."
+  },
+  {
+    "word": "confound",
+    "definition": "To confuse or surprise someone, often by acting in an unexpected way.",
+    "examples": [
+      "The results of the experiment confounded the scientists.",
+      "She was confounded by his sudden decision.",
+      "The magician’s tricks confounded the audience."
+    ],
+    "notes": "Şaşırtmak, kafasını karıştırmak."
+  },
+  {
     "word": "hustle and bustle",
     "definition": "Busy, noisy, and energetic activity, especially in a city or crowded place.",
     "examples": [
