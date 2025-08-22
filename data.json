@@ -1,5 +1,155 @@
 [
   {
+    "word": "extinct species",
+    "definition": "A type of animal or plant that no longer exists anywhere on Earth; soyu tükenmiş tür.",
+    "examples": [
+      "Dinosaurs are a famous example of extinct species. (Dinozorlar, soyu tükenmiş türlerin ünlü bir örneğidir.)",
+      "Conservation efforts aim to prevent more species from becoming extinct. (Koruma çabaları, daha fazla türün yok olmasını önlemeyi amaçlar.)",
+      "The dodo is an extinct species that lived on Mauritius. (Dodo, Mauritius’ta yaşamış bir soyu tükenmiş türdür.)"
+    ],
+    "notes": "Tamamen yok olmuş canlıları ifade eder."
+  },
+  {
+    "word": "stick out",
+    "definition": "To extend beyond the surface or line; göze çarpmak, çıkıntı yapmak.",
+    "examples": [
+      "Her bright hat made her stick out in the crowd. (Parlak şapkası onu kalabalığın içinde göze çarptırdı.)",
+      "A branch stuck out from the tree. (Bir dal ağaçtan çıkıntı yapıyordu.)",
+      "His ears stick out slightly. (Kulakları biraz dışarı çıkık.)"
+    ],
+    "notes": "Hem fiziksel çıkıntılar hem de dikkat çeken özellikler için kullanılabilir."
+  },
+  {
+    "word": "protrude",
+    "definition": "To extend beyond or above a surface; çıkıntı yapmak, dışarı taşmak.",
+    "examples": [
+      "The rock protruded from the water. (Kaya sudan dışarı çıkıntı yapıyordu.)",
+      "His teeth slightly protrude. (Dişleri hafifçe dışarı çıkık.)",
+      "A pipe protruded from the wall. (Bir boru duvardan dışarı çıkıntı yapıyordu.)"
+    ],
+    "notes": "Resmî veya teknik bir ifade olarak 'stick out' yerine kullanılır."
+  },
+  {
+    "word": "owl",
+    "definition": "A nocturnal bird of prey with large eyes and a flat face; gececi yırtıcı kuş, baykuş.",
+    "examples": [
+      "Owls are known for their silent flight. (Baykuşlar sessiz uçuşlarıyla bilinir.)",
+      "The barn owl nested in the old barn. (Ahır baykuşu eski ahırda yuva yaptı.)",
+      "He saw an owl perched on a tree at night. (Gece bir ağaca konmuş bir baykuş gördü.)"
+    ],
+    "notes": "Gece avlanan, keskin gözlü ve sessiz uçabilen bir kuş türü."
+  },
+  {
+    "word": "speculate",
+    "definition": "To form opinions or guesses without firm evidence; tahmin etmek, spekülasyon yapmak.",
+    "examples": [
+      "We can only speculate about what happened. (Ne olduğunu sadece tahmin edebiliriz.)",
+      "The media speculated about the reasons for his resignation. (Medya, istifasının nedenleri hakkında spekülasyon yaptı.)",
+      "Investors speculated on the stock market. (Yatırımcılar borsada spekülasyon yaptı.)"
+    ],
+    "notes": "Belirli kanıt olmadan fikir yürütme veya tahminde bulunma anlamında kullanılır."
+  },
+  {
+    "word": "precursor",
+    "definition": "Something that comes before and indicates the approach of something else; öncü, habercisi.",
+    "examples": [
+      "The steam engine was a precursor to modern locomotives. (Buhar makinesi, modern lokomotiflerin öncüsüydü.)",
+      "This painting is a precursor to his later style. (Bu tablo onun sonraki tarzının habercisidir.)",
+      "Fever can be a precursor of infection. (Ateş, enfeksiyonun habercisi olabilir.)"
+    ],
+    "notes": "Bir şeyden önce gelen ve sonrakine işaret eden nesne veya olaylar için kullanılır."
+  },
+  {
+    "word": "camera obscura",
+    "definition": "A device in which an image of a scene is projected through a small hole onto a surface inside a dark box; karanlık kutu, erken fotoğraf ve perspektif aracı.",
+    "examples": [
+      "Artists used camera obscura to study perspective. (Sanatçılar perspektifi incelemek için karanlık kutu kullandı.)",
+      "The camera obscura helped painters trace scenes accurately. (Karanlık kutu, ressamlara sahneleri doğru çizmede yardımcı oldu.)",
+      "Hockney thinks camera obscura points to the use of optical devices in Vermeer’s painting. (Hockney’e göre karanlık kutu, Vermeer’in resimlerinde optik cihaz kullanımına işaret ediyor.)"
+    ],
+    "notes": "Sanatta perspektif ve erken fotoğraf çalışmalarında kullanılır. Örnek cümlede fiiller: thinks, points."
+  },
+  {
+    "word": "roof beams",
+    "definition": "Structural supports that hold up a roof; çatı kirişleri.",
+    "examples": [
+      "The old house had exposed wooden roof beams. (Eski evde açıkta ahşap çatı kirişleri vardı.)",
+      "They repaired the roof beams before painting. (Boyamadan önce çatı kirişlerini onardılar.)",
+      "Heavy snow can damage roof beams if they are weak. (Yoğun kar, çatı kirişleri zayıfsa zarar verebilir.)"
+    ],
+    "notes": "Bina ve inşaat bağlamında kullanılır."
+  },
+  {
+    "word": "tracery",
+    "definition": "Decorative ornamental design, often in windows or architecture; süsleme desenleri, taş işçiliği.",
+    "examples": [
+      "The cathedral's windows were adorned with intricate tracery. (Katedralin pencereleri karmaşık süsleme desenleriyle süslenmişti.)",
+      "Tracery patterns add elegance to Gothic architecture. (Süsleme desenleri gotik mimariye zarafet katar.)",
+      "The map reproduced in Vermeer’s painting shows tracery in fine detail. (Vermeer’in resminde çoğaltılan harita ince detaylarda süsleme desenleri gösteriyor.)"
+    ],
+    "notes": "Gotik mimari ve sanat eserlerinde dekoratif çizgiler veya desenler."
+  },
+  {
+    "word": "preliminary",
+    "definition": "Coming before the main part; hazırlayıcı, ön.",
+    "examples": [
+      "They held a preliminary meeting before the conference. (Konferanstan önce ön toplantı yaptılar.)",
+      "Preliminary results show a positive trend. (Ön sonuçlar olumlu bir eğilim gösteriyor.)",
+      "The artist made preliminary sketches before painting. (Sanatçı resim yapmadan önce ön taslaklar çizdi.)"
+    ],
+    "notes": "Ana etkinlikten önce yapılan hazırlık veya taslak anlamında."
+  },
+  {
+    "word": "foreshortening",
+    "definition": "A technique in art that makes objects appear shorter or recede in space; perspektif kısaltma.",
+    "examples": [
+      "The painter used foreshortening to show depth in the scene. (Ressam sahnedeki derinliği göstermek için perspektif kısaltma kullandı.)",
+      "Foreshortening can make limbs appear shorter in perspective. (Perspektifte uzuvlar daha kısa görünmesini sağlar.)",
+      "Artists must master foreshortening to depict realistic figures. (Ressamlar gerçekçi figürler çizmek için perspektif kısaltmayı öğrenmelidir.)"
+    ],
+    "notes": "Objelerin uzaklık ve derinlik etkisi vermek için kullanılan teknik."
+  },
+  {
+    "word": "recede",
+    "definition": "To move back or away from a point; geri gitmek, uzaklaşmak.",
+    "examples": [
+      "The shoreline receded after the tide went out. (Gelgitten sonra kıyı geri çekildi.)",
+      "In art, foreshortening makes the image appear to recede into space. (Sanatta perspektif kısaltma, objeyi uzakta gibi gösterir.)",
+      "His hairline is slowly receding. (Saç çizgisi yavaş yavaş geri çekiliyor.)"
+    ],
+    "notes": "Hem fiziksel hem de görsel perspektif için kullanılır."
+  },
+  {
+    "word": "garments",
+    "definition": "Items of clothing; giysiler, kıyafetler.",
+    "examples": [
+      "The store sells a variety of garments. (Mağaza çeşitli giysiler satıyor.)",
+      "Traditional garments vary from region to region. (Geleneksel kıyafetler bölgeden bölgeye değişir.)",
+      "He folded his garments neatly in the drawer. (Giysilerini çekmecede düzgünce katladı.)"
+    ],
+    "notes": "Genel ve resmî kullanımda kıyafetleri ifade eder."
+  },
+  {
+    "word": "stature",
+    "definition": "1) A person's natural height. 2) Importance or reputation gained by ability or achievement; boy, itibar.",
+    "examples": [
+      "He is of average stature. (Boy olarak ortalama.)",
+      "Her stature in the scientific community is impressive. (Bilim camiasındaki itibarı etkileyici.)",
+      "The artist achieved international stature. (Sanatçı uluslararası ün kazandı.)"
+    ],
+    "notes": "Hem fiziksel boy hem de sosyal/mesleki önem için kullanılır."
+  },
+  {
+    "word": "think point to sth",
+    "definition": "A construction where 'think' is the main verb and 'point to' indicates what the evidence suggests; ...’a işaret ettiğini düşünüyorum.",
+    "examples": [
+      "Hockney thinks the map points to the use of the camera obscura. (Hockney, haritanın karanlık kutu kullanımına işaret ettiğini düşünüyor.)",
+      "Experts think the data points to climate change. (Uzmanlar, verilerin iklim değişikliğine işaret ettiğini düşünüyor.)",
+      "The clues think point to a hidden message. (İpuçlarının gizli bir mesaja işaret ettiğini düşünüyorum.)"
+    ],
+    "notes": "Burada iki fiil vardır: 'thinks' ve 'points'. 'Think of point' yanlış olur; sabit ifade 'point to sth' şeklindedir."
+  },
+  {
     "word": "articulate",
     "definition": "1) (adj.) Able to express ideas clearly and effectively. 2) (verb) To express something fluently and clearly.",
     "examples": [
