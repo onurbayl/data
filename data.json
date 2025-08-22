@@ -1,5 +1,89 @@
 [
   {
+    "word": "laid sight on",
+    "definition": "Bir şeyi görmek, gözüne ilişmek. Genelde 'lay sight on' şeklinde kullanılır ve 'ilk kez görmek' anlamı taşır.",
+    "examples": [
+      "I laid sight on the mountains as we approached the town. (Kasabaya yaklaşırken dağları gördüm.)",
+      "She gasped when she first laid sight on the painting. (Tabloyu ilk gördüğünde nefesi kesildi.)",
+      "I have never laid sight on such beauty before. (Daha önce böyle bir güzellik görmedim.)"
+    ],
+    "notes": "Günlük İngilizcede daha yaygın hali 'lay eyes on' ifadesidir."
+  },
+  {
+    "word": "fill to the brim",
+    "definition": "Bir kabı ağzına kadar doldurmak. 'Brim' = kenar, ağız kısmı.",
+    "examples": [
+      "He filled the glass to the brim with water. (Bardağı suyla ağzına kadar doldurdu.)",
+      "Her eyes were filled to the brim with tears. (Gözleri yaşla dolup taştı.)",
+      "The basket was filled to the brim with fresh fruits. (Sepet taptaze meyvelerle doluydu.)"
+    ]
+  },
+  {
+    "word": "fraud",
+    "definition": "Wrongful or criminal deception intended to result in financial or personal gain; dolandırıcılık, sahtekârlık.",
+    "examples": [
+      "He was arrested for credit card fraud. (Kredi kartı dolandırıcılığından tutuklandı.)",
+      "The company was accused of accounting fraud. (Şirket muhasebe dolandırıcılığıyla suçlandı.)",
+      "Fraud undermines trust in financial institutions. (Dolandırıcılık, finansal kurumlara olan güveni zedeler.)"
+    ]
+  },
+  {
+    "word": "defraud",
+    "definition": "To illegally obtain money from someone by deception; dolandırmak.",
+    "examples": [
+      "They tried to defraud investors of millions of dollars. (Yatırımcıları milyonlarca dolar dolandırmaya çalıştılar.)",
+      "He was found guilty of defrauding the government. (Devleti dolandırmaktan suçlu bulundu.)",
+      "Scammers often defraud elderly people. (Dolandırıcılar sık sık yaşlı insanları dolandırır.)"
+    ]
+  },
+  {
+    "word": "aspire",
+    "definition": "To have a strong desire to achieve something; çok istemek, arzulamak.",
+    "examples": [
+      "She aspires to become a doctor. (Doktor olmayı arzuluyor.)",
+      "Many young people aspire to fame and success. (Birçok genç şöhret ve başarıyı arzuluyor.)",
+      "He aspires to leadership in the company. (Şirkette liderlik pozisyonunu arzuluyor.)"
+    ],
+    "notes": "Genellikle 'aspire to do sth' yapısı ile kullanılır."
+  },
+  {
+    "word": "bilateral",
+    "definition": "Involving two sides, usually in politics or agreements; iki taraflı.",
+    "examples": [
+      "The two countries signed a bilateral trade agreement. (İki ülke ikili ticaret anlaşması imzaladı.)",
+      "Bilateral talks were held to resolve the issue. (Sorunu çözmek için ikili görüşmeler yapıldı.)",
+      "A bilateral relationship benefits both parties. (İkili ilişki her iki tarafın da yararınadır.)"
+    ]
+  },
+  {
+    "word": "candor",
+    "definition": "The quality of being open, honest, and straightforward; dürüstlük, içtenlik.",
+    "examples": [
+      "She spoke with candor about her mistakes. (Hataları hakkında içtenlikle konuştu.)",
+      "I appreciate your candor in this matter. (Bu konudaki dürüstlüğünü takdir ediyorum.)",
+      "His candor surprised everyone. (Onun içtenliği herkesi şaşırttı.)"
+    ]
+  },
+  {
+    "word": "candid",
+    "definition": "Truthful and straightforward; açık sözlü, içten.",
+    "examples": [
+      "He was candid about the difficulties he faced. (Karşılaştığı zorluklar konusunda açık sözlüydü.)",
+      "Her candid remarks offended some people. (Onun açık sözlü yorumları bazı insanları kırdı.)",
+      "The interview was refreshingly candid. (Röportaj şaşırtıcı derecede içtendi.)"
+    ],
+    "notes": "Sıfat hali, 'candor' ise isim hali."
+  },
+  {
+    "word": "deity",
+    "definition": "A god or goddess in a religion; tanrı, ilah.",
+    "examples": [
+      "Zeus was the chief deity in Greek mythology. (Zeus, Yunan mitolojisinde baş tanrıydı.)",
+      "The temple was dedicated to a local deity. (Tapınak yerel bir tanrıya adanmıştı.)",
+      "Many ancient cultures worshipped multiple deities. (Pek çok antik kültür birden fazla tanrıya tapıyordu.)"
+    ]
+  },
+  {
     "word": "extinct species",
     "definition": "A type of animal or plant that no longer exists anywhere on Earth; soyu tükenmiş tür.",
     "examples": [
