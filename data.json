@@ -1,5 +1,185 @@
 [
   {
+    "word": "as of",
+    "definition": "Belirli bir tarihten itibaren, -den beri.",
+    "examples": [
+      "As of six months ago, she has been living in New York. (Altı ay öncesinden beri New York’ta yaşıyor.)",
+      "As of today, the rule is no longer valid. (Bugünden itibaren kural artık geçerli değil.)",
+      "As of next year, we will expand our business. (Gelecek yıldan itibaren işimizi genişleteceğiz.)"
+    ]
+  },
+  {
+    "word": "stop in",
+    "definition": "Kısa süreliğine uğramak.",
+    "examples": [
+      "I’ll stop in at the store on my way home. (Eve giderken dükkâna uğrayacağım.)",
+      "We stopped in to say hello. (Selam vermek için uğradık.)",
+      "She stopped in for a quick coffee. (Kısa bir kahve için uğradı.)"
+    ]
+  },
+  {
+    "word": "make it a point to",
+    "definition": "Özen göstermek, özellikle dikkat etmek.",
+    "examples": [
+      "I make it a point to call my parents every Sunday. (Her pazar ailemi aramaya özen gösteririm.)",
+      "She made it a point to arrive early. (Özellikle erken gelmeye dikkat etti.)",
+      "He makes it a point to treat everyone with respect. (Herkese saygıyla davranmaya özen gösterir.)"
+    ]
+  },
+  {
+    "word": "rite",
+    "definition": "Tören, ritüel (özellikle dini ya da kültürel).",
+    "examples": [
+      "Graduation is seen as a rite of passage. (Mezuniyet bir geçiş ritüeli olarak görülür.)",
+      "The funeral rite was solemn. (Cenaze töreni ciddi bir şekildeydi.)",
+      "Ancient tribes performed religious rites. (Eski kabileler dini ritüeller icra ederdi.)"
+    ]
+  },
+  {
+    "word": "stink",
+    "definition": "Kötü kokmak; kötü bir durum.",
+    "examples": [
+      "The garbage stinks. (Çöp kötü kokuyor.)",
+      "This deal stinks of corruption. (Bu anlaşma yolsuzluk kokuyor.)",
+      "The room stank of smoke. (Oda duman kokuyordu.)"
+    ]
+  },
+  {
+    "word": "paid under the table",
+    "definition": "Kayıt dışı, gizlice ödeme yapmak.",
+    "examples": [
+      "He was paid under the table to avoid taxes. (Vergiden kaçmak için gizlice ödeme aldı.)",
+      "Many workers in the area are paid under the table. (Bölgedeki birçok işçi kayıt dışı maaş alıyor.)",
+      "She received money under the table for her help. (Yardımı için gizlice para aldı.)"
+    ]
+  },
+  {
+    "word": "daunting",
+    "definition": "Korkutucu, göz korkutucu.",
+    "examples": [
+      "Climbing the mountain was a daunting challenge. (Dağa tırmanmak göz korkutucu bir mücadeleydi.)",
+      "The exam seemed daunting at first. (Sınav başta göz korkutucu görünüyordu.)",
+      "Starting a new job can be daunting. (Yeni bir işe başlamak göz korkutucu olabilir.)"
+    ]
+  },
+  {
+    "word": "stumble",
+    "definition": "Tökezlemek; hata yapmak.",
+    "examples": [
+      "She stumbled on the stairs. (Merdivende tökezledi.)",
+      "He stumbled during his speech. (Konuşması sırasında dili sürçtü.)",
+      "I stumbled upon an old book in the attic. (Tavan arasında eski bir kitaba rastladım.)"
+    ]
+  },
+  {
+    "word": "sharpshooter",
+    "definition": "Keskin nişancı.",
+    "examples": [
+      "The army trained him as a sharpshooter. (Ordu onu keskin nişancı olarak yetiştirdi.)",
+      "He is a skilled sharpshooter. (O, yetenekli bir keskin nişancı.)",
+      "Sharpshooters were placed on the rooftops. (Keskin nişancılar çatılara yerleştirildi.)"
+    ]
+  },
+  {
+    "word": "good riddance",
+    "definition": "Kurtulmak iyi oldu (istemediğin biri/şey için).",
+    "examples": [
+      "He finally left—good riddance! (Sonunda gitti—iyi oldu!)",
+      "If they quit, good riddance. (Eğer bırakırlarsa, iyi olur.)",
+      "She said good riddance when the noisy neighbors moved out. (Gürültücü komşular taşınınca 'iyi oldu' dedi.)"
+    ]
+  },
+  {
+    "word": "intimidating",
+    "definition": "Korkutucu, yıldırıcı.",
+    "examples": [
+      "Speaking in front of a crowd can be intimidating. (Kalabalığın önünde konuşmak korkutucu olabilir.)",
+      "The teacher had an intimidating presence. (Öğretmenin yıldırıcı bir havası vardı.)",
+      "The exam was less intimidating than I expected. (Sınav beklediğim kadar korkutucu değildi.)"
+    ]
+  },
+  {
+    "word": "sprawling",
+    "definition": "Geniş alanlara yayılan; dağınık.",
+    "examples": [
+      "They live in a sprawling city. (Geniş alanlara yayılmış bir şehirde yaşıyorlar.)",
+      "A sprawling mansion stood on the hill. (Tepede büyük bir malikâne yayılıyordu.)",
+      "The kids were sprawling on the grass. (Çocuklar çimlere dağılmış yatıyordu.)"
+    ]
+  },
+  {
+    "word": "rugged",
+    "definition": "Engebeli, sert; dayanıklı.",
+    "examples": [
+      "The region is known for its rugged mountains. (Bölge, engebeli dağlarıyla bilinir.)",
+      "He had a rugged appearance. (Onun sert bir görünüşü vardı.)",
+      "The phone case is rugged and durable. (Telefon kılıfı sağlam ve dayanıklı.)"
+    ]
+  },
+  {
+    "word": "unnerving",
+    "definition": "Rahatsız edici, huzur bozucu.",
+    "examples": [
+      "His silence was unnerving. (Sessizliği huzur bozucuydu.)",
+      "The horror movie had an unnerving atmosphere. (Korku filmi rahatsız edici bir atmosfere sahipti.)",
+      "It was unnerving to hear footsteps behind me. (Arkamdan ayak sesleri duymak rahatsız ediciydi.)"
+    ]
+  },
+  {
+    "word": "cross paths",
+    "definition": "Karşılaşmak, yollarının kesişmesi.",
+    "examples": [
+      "I never thought we would cross paths again. (Bir daha karşılaşacağımızı düşünmemiştim.)",
+      "They crossed paths at the airport. (Havalimanında yolları kesişti.)",
+      "We might cross paths someday. (Bir gün yollarımız kesişebilir.)"
+    ]
+  },
+  {
+    "word": "entrees",
+    "definition": "Ana yemekler (özellikle Amerikan İngilizcesinde).",
+    "examples": [
+      "The restaurant offers a wide variety of entrees. (Restoran geniş bir ana yemek seçeneği sunuyor.)",
+      "We ordered two entrees and a dessert. (İki ana yemek ve bir tatlı sipariş ettik.)",
+      "Fish is one of their most popular entrees. (Balık en popüler ana yemeklerinden biri.)"
+    ]
+  },
+  {
+    "word": "fabulous",
+    "definition": "Harika, inanılmaz.",
+    "examples": [
+      "The view from the hotel was fabulous. (Otelin manzarası harikaydı.)",
+      "She looked fabulous in that dress. (O elbiseyle muhteşem görünüyordu.)",
+      "We had a fabulous time at the party. (Partide harika vakit geçirdik.)"
+    ]
+  },
+  {
+    "word": "culinary school",
+    "definition": "Aşçılık okulu.",
+    "examples": [
+      "He enrolled in a culinary school in Paris. (Paris’te bir aşçılık okuluna kaydoldu.)",
+      "Culinary schools train professional chefs. (Aşçılık okulları profesyonel şefler yetiştirir.)",
+      "She graduated from culinary school last year. (Geçen yıl aşçılık okulundan mezun oldu.)"
+    ]
+  },
+  {
+    "word": "articulate",
+    "definition": "Kendini açık ve net ifade edebilen; açıkça ifade etmek.",
+    "examples": [
+      "She is very articulate when discussing her ideas. (Fikirlerini tartışırken çok açık ve net konuşur.)",
+      "He articulated his concerns clearly. (Endişelerini net bir şekilde ifade etti.)",
+      "Teachers should articulate instructions to students. (Öğretmenler talimatları öğrencilere net şekilde aktarmalıdır.)"
+    ]
+  },
+  {
+    "word": "chores",
+    "definition": "Ev işleri, günlük görevler.",
+    "examples": [
+      "She helps with household chores. (Ev işlerine yardım ediyor.)",
+      "Doing chores is part of growing up. (Ev işleri yapmak büyümenin bir parçasıdır.)",
+      "He spent the morning doing chores. (Sabahı ev işleri yaparak geçirdi.)"
+    ]
+  },
+  {
     "word": "laid sight on",
     "definition": "Bir şeyi görmek, gözüne ilişmek. Genelde 'lay sight on' şeklinde kullanılır ve 'ilk kez görmek' anlamı taşır.",
     "examples": [
