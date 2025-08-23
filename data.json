@@ -1,5 +1,77 @@
 [
   {
+    "phrase": "live off (someone/something)",
+    "definition": "Başkalarının kaynaklarıyla yaşamak, onların sağladıklarıyla geçinmek. Hem biyolojik hem de günlük kullanımda var.",
+    "examples": [
+      "Some plants live off others as parasites. (Bazı bitkiler parazit olarak başkalarından beslenir.)",
+      "He still lives off his parents even though he is 30. (30 yaşında olmasına rağmen hâlâ ailesinden geçiniyor.)",
+      "Certain animals live off the waste of bigger creatures. (Bazı hayvanlar daha büyük canlıların atıklarından beslenir.)"
+    ]
+  },
+  {
+    "word": "scent",
+    "definition": "Koku; özellikle hoş koku veya iz bırakma anlamında.",
+    "examples": [
+      "The flowers gave off a sweet scent. (Çiçekler tatlı bir koku yaydı.)",
+      "The dog followed the scent of the rabbit. (Köpek tavşanın kokusunu takip etti.)",
+      "Perfume companies create new scents every year. (Parfüm şirketleri her yıl yeni kokular üretir.)"
+    ]
+  },
+  {
+    "word": "scoop",
+    "definition": "Kürekle veya bir şeyle toplamak, almak; kepçe gibi almak.",
+    "examples": [
+      "She scooped ice cream into the bowl. (Dondurmayı kaseye koydu/aldı.)",
+      "The child scooped sand with his hands. (Çocuk elleriyle kum topladı.)",
+      "The beekeeper scooped bees into the entrance of the hive. (Arıcı, arıları kovana kepçe gibi doldurdu.)"
+    ]
+  },
+  {
+    "word": "fanning wings",
+    "definition": "Kanat çırparak hava akımı oluşturmak.",
+    "examples": [
+      "The bees were fanning their wings to cool the hive. (Arılar kovana serinlik vermek için kanatlarını çırpıyordu.)",
+      "The bird sat in the nest, fanning its wings. (Kuş yuvasında oturuyor, kanatlarını çırpıyordu.)",
+      "They observed bees fanning wings near the entrance. (Kovana girişte arıların kanatlarını çırptığını gözlemlediler.)"
+    ]
+  },
+  {
+    "word": "pheromones",
+    "definition": "Canlıların birbirleriyle kimyasal yolla iletişim kurmak için salgıladığı kimyasal maddeler.",
+    "examples": [
+      "Ants use pheromones to mark their trails. (Karıncalar yollarını işaretlemek için feromon kullanır.)",
+      "Pheromones play an important role in bee communication. (Feromonlar, arı iletişiminde önemli rol oynar.)",
+      "Some insects release pheromones to attract mates. (Bazı böcekler eşlerini çekmek için feromon salgılar.)"
+    ]
+  },
+  {
+    "word": "parasite",
+    "definition": "Parazit; başka bir canlı üzerinde yaşayarak beslenen organizma.",
+    "examples": [
+      "Ticks are common parasites on dogs. (Keneler köpeklerde yaygın parazitlerdir.)",
+      "The parasite feeds on the host’s blood. (Parazit, konağın kanıyla beslenir.)",
+      "Some plants are parasites, living off others. (Bazı bitkiler parazittir, diğerlerinden beslenirler.)"
+    ]
+  },
+  {
+    "word": "honeycomb",
+    "definition": "Bal peteği.",
+    "examples": [
+      "The beekeeper collected honeycomb from the hive. (Arıcı kovandan bal peteği topladı.)",
+      "Honeycomb is made of beeswax. (Bal peteği balmumundan yapılır.)",
+      "They admired the perfect hexagons of the honeycomb. (Bal peteğinin mükemmel altıgenlerine hayran kaldılar.)"
+    ]
+  },
+  {
+    "word": "very",
+    "definition": "Tam da; özellikle vurgulamak için kullanılır.",
+    "examples": [
+      "This is the very book I was looking for. (Tam da aradığım kitap bu.)",
+      "He is the very person who helped me. (Bana yardım eden kişi tam da o.)",
+      "That moment was the very beginning of our friendship. (O an, dostluğumuzun tam da başlangıcıydı.)"
+    ]
+  },
+  {
     "word": "as of",
     "definition": "Belirli bir tarihten itibaren, -den beri.",
     "examples": [
