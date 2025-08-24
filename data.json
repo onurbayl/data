@@ -1,5 +1,75 @@
 [
   {
+    "word": "implicate",
+    "definition": "To show or suggest that someone or something is involved in a crime or a negative situation.",
+    "examples": [
+      "The evidence implicated him in the robbery. (Deliller onu soyguna karıştırdı.)",
+      "This last factor is at least circumstantially implicated in Teotihuacán’s rise. (Bu son faktör en azından dolaylı yoldan Teotihuacán’ın yükselişine karışmış durumda.)",
+      "Several officials were implicated in the corruption scandal. (Birkaç yetkili yolsuzluk skandalına karıştırıldı.)"
+    ],
+    "notes": "Karıştırmak, bulaştırmak, suçla ilişkilendirmek."
+  },
+  {
+    "word": "set off",
+    "definition": "To begin a journey or to cause something (such as an event or reaction) to start.",
+    "examples": [
+      "They set off early in the morning for Paris. (Paris’e sabah erken yola çıktılar.)",
+      "The loud noise set off the car alarm. (Yüksek ses araba alarmını çalıştırdı.)",
+      "Her speech set off a heated debate. (Konuşması hararetli bir tartışmayı başlattı.)"
+    ],
+    "notes": "1) Yola çıkmak, 2) başlatmak, tetiklemek."
+  },
+  {
+    "word": "playwright",
+    "definition": "A person who writes plays for the theater.",
+    "examples": [
+      "Shakespeare is perhaps the most famous playwright in history. (Shakespeare belki de tarihin en ünlü oyun yazarıdır.)",
+      "The festival featured works by new playwrights. (Festival yeni oyun yazarlarının eserlerini sundu.)",
+      "The playwright received an award for his contribution to modern drama. (Oyun yazarı modern drama için yaptığı katkılardan dolayı ödül aldı.)"
+    ],
+    "notes": "Oyun yazarı."
+  },
+  {
+    "word": "inciting incident",
+    "definition": "The event in a story that sets the main plot in motion.",
+    "examples": [
+      "The murder of the king is the inciting incident of the play. (Kralın öldürülmesi oyunun tetikleyici olayıdır.)",
+      "Every story needs an inciting incident to grab the audience’s attention. (Her hikâyenin izleyicinin dikkatini çekecek bir tetikleyici olaya ihtiyacı vardır.)",
+      "The arrival of the stranger serves as the inciting incident. (Yabancının gelişi tetikleyici olay görevi görür.)"
+    ],
+    "notes": "Kışkırtıcı/başlatıcı olay, dramatik yapıdaki dönüm noktası."
+  },
+  {
+    "word": "friction",
+    "definition": "1) The force that resists motion between two surfaces. 2) Disagreement or tension between people or groups.",
+    "examples": [
+      "There was a lot of friction between the two countries. (İki ülke arasında büyük gerginlik vardı.)",
+      "Friction between the wheels and the road slows the car down. (Tekerlekler ve yol arasındaki sürtünme arabayı yavaşlatır.)",
+      "The plan created friction within the team. (Plan ekip içinde gerginlik yarattı.)"
+    ],
+    "notes": "1) Sürtünme, 2) gerginlik, anlaşmazlık."
+  },
+  {
+    "word": "fissure",
+    "definition": "A long narrow opening or crack, especially in rock or the ground.",
+    "examples": [
+      "A deep fissure opened in the earth after the earthquake. (Depremden sonra yerde derin bir çatlak açıldı.)",
+      "There are many fissures in the volcanic rock. (Volkanik kayada birçok çatlak var.)",
+      "Political fissures divided the country. (Siyasi çatlaklar ülkeyi böldü.)"
+    ],
+    "notes": "Çatlak, yarık (hem fiziksel hem mecaz)."
+  },
+  {
+    "word": "subtle",
+    "definition": "Not obvious; delicate or hard to notice but important.",
+    "examples": [
+      "She wore subtle makeup. (Hafif/mütevazı makyaj yaptı.)",
+      "There are subtle differences between the two paintings. (İki tablo arasında ince farklar var.)",
+      "His subtle hints went unnoticed. (Onun ince ima ve işaretleri fark edilmedi.)"
+    ],
+    "notes": "İnce, hemen fark edilmeyen, ustaca."
+  },
+  {
     "phrase": "live off (someone/something)",
     "definition": "Başkalarının kaynaklarıyla yaşamak, onların sağladıklarıyla geçinmek. Hem biyolojik hem de günlük kullanımda var.",
     "examples": [
