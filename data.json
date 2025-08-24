@@ -1,5 +1,95 @@
 [
   {
+    "word": "feuding families",
+    "definition": "Families that are in continuous conflict or long-lasting quarrels.",
+    "examples": [
+      "The play is about two feuding families. (Oyun, iki düşman aile hakkındadır.)",
+      "The feuding families refused to speak to each other. (Kavgalı aileler birbirleriyle konuşmayı reddetti.)",
+      "Romeo and Juliet tells the story of love between members of feuding families. (Romeo ve Juliet, düşman ailelerin üyeleri arasındaki aşkı anlatır.)"
+    ],
+    "notes": "Feud = kan davası, uzun süreli düşmanlık. 'Feuding families' = kan davalı aileler."
+  },
+  {
+    "word": "exposition",
+    "definition": "A clear explanation of an idea or theory; in literature, the beginning of a story that introduces characters and setting.",
+    "examples": [
+      "The professor’s exposition of the theory was very clear. (Profesörün teoriyi açıklaması çok netti.)",
+      "The exposition of the play takes place in the first act. (Oyunun giriş bölümü ilk perdede gerçekleşir.)",
+      "The novel’s exposition describes the city and its people. (Romanın giriş kısmı şehri ve halkını tanımlar.)"
+    ],
+    "notes": "Hem 'açıklama' hem de 'hikâyenin giriş kısmı' anlamında kullanılır."
+  },
+  {
+    "word": "just as soon",
+    "definition": "Would prefer or be just as willing to do one thing as another.",
+    "examples": [
+      "I’d just as soon stay home tonight. (Bu gece evde kalmayı tercih ederim.)",
+      "She said she’d just as soon walk as take the bus. (Otobüse binmek yerine yürümeyi tercih eder.)",
+      "He’d just as soon not talk about it. (Bunun hakkında konuşmamayı tercih eder.)"
+    ],
+    "notes": "Kibarca 'daha çok tercih ederim' anlamı verir."
+  },
+  {
+    "word": "lubricant",
+    "definition": "A substance (like oil or grease) used to reduce friction between moving surfaces.",
+    "examples": [
+      "Engine lubricant is necessary for smooth operation. (Motor yağı, düzgün çalışma için gereklidir.)",
+      "The mechanic applied lubricant to the gears. (Tamirci dişlilere yağ sürdü.)",
+      "Lubricants prevent wear and overheating. (Yağlayıcılar aşınmayı ve aşırı ısınmayı önler.)"
+    ],
+    "notes": "Türkçesi 'yağlayıcı'."
+  },
+  {
+    "word": "ooze",
+    "definition": "To slowly flow or leak out of something, usually a thick liquid.",
+    "examples": [
+      "Blood oozed from the wound. (Yaradan kan sızdı.)",
+      "Sap oozed from the tree bark. (Ağaç kabuğundan reçine sızdı.)",
+      "Confidence oozed from his words. (Sözlerinden güven akıyordu.)"
+    ],
+    "notes": "Hem fiziksel sıvılar için hem de mecazî anlamda (özgüven, cazibe) kullanılabilir."
+  },
+  {
+    "word": "crevasses",
+    "definition": "Deep open cracks, especially in a glacier or ice sheet.",
+    "examples": [
+      "The climbers carefully crossed the crevasses. (Dağcılar dikkatle buzul çatlaklarını geçti.)",
+      "Crevasses can be hidden under thin snow. (Buzul çatlakları ince karın altında gizlenebilir.)",
+      "Falling into a crevasse can be fatal. (Bir buzul çatlağına düşmek ölümcül olabilir.)"
+    ],
+    "notes": "Türkçesi 'buzul çatlağı'. Crack’ten daha derin ve tehlikelidir."
+  },
+  {
+    "word": "constrict",
+    "definition": "To tighten, squeeze, or make something narrower.",
+    "examples": [
+      "The snake constricted its prey. (Yılan avını sıktı/boğdu.)",
+      "Tight shoes constrict blood flow. (Dar ayakkabılar kan akışını kısıtlar.)",
+      "Fear can constrict your breathing. (Korku nefesini daraltabilir.)"
+    ],
+    "notes": "Daraltmak, sıkıştırmak."
+  },
+  {
+    "word": "surges",
+    "definition": "Strong, sudden increases or movements.",
+    "examples": [
+      "A surge of anger swept over him. (Bir öfke dalgası onu sardı.)",
+      "The power surges damaged the computer. (Ani elektrik dalgalanmaları bilgisayarı bozdu.)",
+      "Crowds surged forward at the concert. (Kalabalık konserde ileriye doğru akın etti.)"
+    ],
+    "notes": "Hem duygular hem de fiziksel hareket/enerji artışları için kullanılabilir."
+  },
+  {
+    "phrasalVerb": "hook (something) up",
+    "definition": "To connect a machine, device, or piece of equipment to a power source, network, or another device.",
+    "examples": [
+      "Can you hook the computer up to the projector? (Bilgisayarı projektöre bağlar mısın?)",
+      "He hooked up his computer to the internet. (Bilgisayarını internete bağladı.)",
+      "I need to hook up the printer before I can use it. (Yazıcıyı kullanmadan önce bağlamam gerekiyor.)"
+    ],
+    "notes": "Genellikle teknolojik cihazlar bağlanırken kullanılır. \"Hook up to\" şeklinde nesne + bağlantı noktası belirtilir."
+  }
+  {
     "word": "implicate",
     "definition": "To show or suggest that someone or something is involved in a crime or a negative situation.",
     "examples": [
