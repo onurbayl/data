@@ -1,5 +1,15 @@
 [
   {
+    "word": "annihilate",
+    "definition": "To completely destroy or wipe out something so that nothing is left. (Tamamen yok etmek, ortadan kaldırmak)",
+    "examples": [
+      "The bomb could annihilate the entire city. (Bomba tüm şehri tamamen yok edebilir.)",
+      "His argument was so strong that it annihilated the opposition’s claims. (Onun argümanı o kadar güçlüydü ki muhalefetin iddialarını tamamen çürüttü.)",
+      "Some scientists fear that climate change could annihilate certain species. (Bazı bilim insanları iklim değişikliğinin bazı türleri tamamen yok edebileceğinden korkuyor.)"
+    ],
+    "notes": "Çok güçlü bir kelimedir; genellikle hem fiziksel (şehir, ordu) hem de mecazî (argüman, fikir) anlamda kullanılır. 'Destroy'dan daha kapsamlıdır; geriye hiçbir şey bırakmamayı ifade eder."
+  },
+  {
     "word": "canny",
     "definition": "Shrewd, clever, and careful, especially in business or practical matters. (Kurnaz, dikkatli, tedbirli)",
     "examples": [
@@ -108,7 +118,7 @@
       "I need to hook up the printer before I can use it. (Yazıcıyı kullanmadan önce bağlamam gerekiyor.)"
     ],
     "notes": "Genellikle teknolojik cihazlar bağlanırken kullanılır. \"Hook up to\" şeklinde nesne + bağlantı noktası belirtilir."
-  }
+  },
   {
     "word": "implicate",
     "definition": "To show or suggest that someone or something is involved in a crime or a negative situation.",
