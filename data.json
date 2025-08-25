@@ -1,5 +1,86 @@
 [
   {
+    "word": "delicate",
+    "definition": "Easily broken, damaged, or requiring careful handling; also sensitive or subtle. (Hassas, narin, kırılgan)",
+    "examples": [
+      "Be careful with that vase; it's very delicate. (O vazoya dikkat et, çok hassas.)",
+      "He handled the delicate negotiations with care. (Hassas müzakereleri dikkatle yönetti.)",
+      "Her skin is too delicate for strong sunlight. (Onun cildi güçlü güneş ışığına karşı çok hassas.)"
+    ]
+  },
+  {
+    "word": "flora",
+    "definition": "Plants of a particular region, habitat, or period. (Bitki örtüsü)",
+    "examples": [
+      "The flora of the Amazon is incredibly diverse. (Amazon’un bitki örtüsü inanılmaz çeşitlidir.)",
+      "Tourists come to see the unique flora of the island. (Turistler adanın eşsiz bitki örtüsünü görmek için gelir.)",
+      "Climate change threatens the native flora of many regions. (İklim değişikliği birçok bölgenin doğal bitki örtüsünü tehdit ediyor.)"
+    ]
+  },
+  {
+    "word": "rodents",
+    "definition": "Small mammals like rats, mice, and squirrels that gnaw. (Kemirgenler)",
+    "examples": [
+      "Rodents can spread diseases to humans. (Kemirgenler insanlara hastalık bulaştırabilir.)",
+      "The barn was infested with rodents. (Ahır kemirgenlerle dolmuştu.)",
+      "Some rodents, like beavers, play a big role in ecosystems. (Kunduz gibi bazı kemirgenler ekosistemlerde büyük rol oynar.)"
+    ]
+  },
+  {
+    "word": "plummet",
+    "definition": "To fall suddenly and steeply. (Aniden ve hızla düşmek)",
+    "examples": [
+      "Temperatures plummeted last night. (Dün gece sıcaklıklar aniden düştü.)",
+      "The stock market plummeted after the news. (Haberin ardından borsa çöktü.)",
+      "Her confidence plummeted after the rejection. (Reddedilince özgüveni hızla düştü.)"
+    ]
+  },
+  {
+    "word": "soar",
+    "definition": "To fly or rise high in the air; also to increase rapidly. (Yükselmek, uçmak, fırlamak)",
+    "examples": [
+      "The eagle soared above the mountains. (Kartal dağların üzerinde süzüldü.)",
+      "Prices soared during the crisis. (Kriz sırasında fiyatlar fırladı.)",
+      "Her spirits soared after hearing the good news. (İyi haberi duyunca morali yükseldi.)"
+    ]
+  },
+  {
+    "word": "viable",
+    "definition": "Capable of working successfully or living; feasible. (Uygulanabilir, yaşayabilir, mümkün)",
+    "examples": [
+      "We need a viable solution to this problem. (Bu probleme uygulanabilir bir çözüm bulmamız lazım.)",
+      "The plan is economically viable. (Plan ekonomik açıdan uygulanabilir.)",
+      "No viable seeds were found in the soil. (Toprakta yaşayabilir tohum bulunamadı.)"
+    ]
+  },
+  {
+    "word": "embolden",
+    "definition": "To give someone the courage or confidence to act. (Cesaretlendirmek, yüreklendirmek)",
+    "examples": [
+      "Her success emboldened her to start her own company. (Başarısı onu kendi şirketini kurmaya cesaretlendirdi.)",
+      "The coach’s words emboldened the team. (Koçun sözleri takımı cesaretlendirdi.)",
+      "Seeing others protest emboldened more people to join. (Diğerlerini protesto ederken görmek daha fazla kişiyi katılmaya yüreklendirdi.)"
+    ]
+  },
+  {
+    "word": "repercussion",
+    "definition": "An unintended consequence of an event or action. (Sonuç, etki, yankı - genelde olumsuz)",
+    "examples": [
+      "The decision had serious repercussions on the economy. (Kararın ekonomi üzerinde ciddi sonuçları oldu.)",
+      "He didn’t realize the repercussions of his actions. (Eylemlerinin sonuçlarını fark etmedi.)",
+      "The scandal caused political repercussions. (Skandal siyasi yankılara yol açtı.)"
+    ]
+  },
+  {
+    "word": "devastate",
+    "definition": "To destroy or ruin something; also to shock emotionally. (Mahvetmek, yıkmak, harap etmek; şoka sokmak)",
+    "examples": [
+      "The earthquake devastated the city. (Deprem şehri harap etti.)",
+      "She was devastated by the loss of her friend. (Arkadaşını kaybetmesi onu çok sarstı.)",
+      "The hurricane devastated coastal towns. (Kasırga sahil kasabalarını yıktı.)"
+    ]
+  },
+  {
     "word": "annihilate",
     "definition": "To completely destroy or wipe out something so that nothing is left. (Tamamen yok etmek, ortadan kaldırmak)",
     "examples": [
