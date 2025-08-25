@@ -1,5 +1,25 @@
 [
   {
+    "word": "counteract",
+    "definition": "To reduce, prevent, or neutralize the effect of something. (Etkisini azaltmak, karşı koymak, etkisiz hale getirmek)",
+    "examples": [
+      "Drinking water helps counteract the dehydrating effects of coffee. (Su içmek, kahvenin susuzlaştırıcı etkisini azaltır.)",
+      "They used special medicine to counteract the poison. (Zehire karşı koymak için özel ilaç kullandılar.)",
+      "The new policies are meant to counteract inflation. (Yeni politikalar, enflasyona karşı koymak için tasarlanmıştır.)"
+    ],
+    "note": "‘Offset’ ile benzerlik gösterir ama ‘counteract’ daha çok aktif bir şekilde **zararlı/istenmeyen bir etkiyi engellemek** veya nötralize etmek için kullanılır. Genellikle poison, effect, problem, threat gibi sözcüklerle birlikte görülür."
+  },
+  {
+    "word": "offset",
+    "definition": "To balance, counteract, or reduce the effect of something. (Dengelemek, olumsuz etkinin etkisini azaltmak, telafi etmek)",
+    "examples": [
+      "The benefits of the plan offset the risks. (Planın faydaları riskleri dengeledi.)",
+      "Extra income offset the cost of the trip. (Ek gelir, seyahat masrafını dengeledi.)",
+      "Carbon taxes are designed to offset pollution. (Karbon vergileri, kirliliği dengelemek için tasarlanmıştır.)"
+    ],
+    "note": "Genellikle olumsuz bir etkinin etkisini azaltmak için kullanılır. ‘Compensate’ ile benzerdir ama ‘offset’ daha çok soyut/ekonomik/çevresel dengeler için kullanılır. Örn: cost, risk, loss, damage gibi kelimelerle sık geçer."
+  },
+  {
     "word": "deficiency",
     "definition": "A lack of something essential. (Eksiklik, yetersizlik)",
     "examples": [
