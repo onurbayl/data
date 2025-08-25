@@ -9,6 +9,36 @@
     ],
     "notes": "Çok güçlü bir kelimedir; genellikle hem fiziksel (şehir, ordu) hem de mecazî (argüman, fikir) anlamda kullanılır. 'Destroy'dan daha kapsamlıdır; geriye hiçbir şey bırakmamayı ifade eder."
   },
+{
+    "word": "formidable",
+    "definition": "Inspiring fear, respect, or awe because of size, strength, skill, or difficulty. (Korku, saygı veya hayranlık uyandıran; göz korkutucu, zorlu)",
+    "examples": [
+      "She is a formidable chess player who rarely loses. (O, nadiren kaybeden göz korkutucu bir satranç oyuncusudur.)",
+      "The army faced a formidable enemy. (Ordu, zorlu bir düşmanla karşı karşıya geldi.)",
+      "Climbing Mount Everest is a formidable challenge. (Everest Dağı’na tırmanmak çok zorlu bir mücadeledir.)"
+    ],
+    "notes": "Olumsuz (korkutucu, zorlayıcı) veya olumlu (saygı uyandırıcı) anlamlarda kullanılabilir."
+  },
+  {
+    "word": "casualty",
+    "definition": "A person killed or injured in an accident, war, or disaster. (Kaza, savaş veya felakette ölen ya da yaralanan kişi)",
+    "examples": [
+      "There were many casualties in the earthquake. (Depremde birçok ölü ve yaralı vardı.)",
+      "The first casualty of the war was communication. (Savaşın ilk kaybı iletişim oldu.)",
+      "She was taken to the hospital as a casualty of the car crash. (O, araba kazasında yaralı olarak hastaneye kaldırıldı.)"
+    ],
+    "notes": "Tekil bir kişiyi ifade eder."
+  },
+  {
+    "word": "casualties",
+    "definition": "Plural form of 'casualty'; refers to multiple people killed or injured. (Birden fazla ölü/yaralı)",
+    "examples": [
+      "The battle resulted in heavy casualties. (Savaşta çok sayıda ölü ve yaralı oldu.)",
+      "There were no casualties reported in the accident. (Kazadan ölü ya da yaralı bildirilmedi.)",
+      "Natural disasters often cause civilian casualties. (Doğal afetler genellikle sivil ölümlerine yol açar.)"
+    ],
+    "notes": "Çoğul hali; hem ölüleri hem yaralıları kapsar. Tekil 'casualty' bir kişi için kullanılır."
+  },
   {
     "word": "canny",
     "definition": "Shrewd, clever, and careful, especially in business or practical matters. (Kurnaz, dikkatli, tedbirli)",
