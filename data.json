@@ -1,5 +1,78 @@
 [
   {
+    "word": "deficiency",
+    "definition": "A lack of something essential. (Eksiklik, yetersizlik)",
+    "examples": [
+      "Iron deficiency can cause anemia. (Demir eksikliği kansızlığa neden olabilir.)",
+      "There was a deficiency in the company’s safety measures. (Şirketin güvenlik önlemlerinde eksiklik vardı.)",
+      "Vitamin D deficiency is common in winter. (Kışın D vitamini eksikliği yaygındır.)"
+    ]
+  },
+  {
+    "word": "hereditary",
+    "definition": "Passed from parents to their children through genes. (Kalıtsal, ırsî)",
+    "examples": [
+      "Diabetes can be hereditary. (Diyabet kalıtsal olabilir.)",
+      "She has a hereditary blood disorder. (Onun kalıtsal bir kan hastalığı var.)",
+      "Baldness is often hereditary. (Kellik çoğu zaman kalıtsaldır.)"
+    ]
+  },
+  {
+    "word": "indulge in",
+    "definition": "To allow oneself to enjoy something, often excessively. (Kendini kaptırmak, kendine izin vermek, düşkün olmak)",
+    "examples": [
+      "She indulges in chocolate every night. (Her gece çikolata yemeye kendini kaptırır.)",
+      "On weekends, I indulge in watching movies all day. (Hafta sonları bütün gün film izlemeye kendimi kaptırırım.)",
+      "He indulged in reckless spending. (O, düşüncesizce harcama yapmaya daldı.)"
+    ]
+  },
+  {
+    "word": "compensate",
+    "definition": "To make up for something lost or damaged; to pay for work. (Telafi etmek, tazmin etmek, karşılığını ödemek)",
+    "examples": [
+      "Nothing can compensate for the loss of a loved one. (Sevilen birinin kaybını hiçbir şey telafi edemez.)",
+      "The company compensated the workers for their overtime. (Şirket, işçilere fazla mesai için ödeme yaptı.)",
+      "He tried to compensate for his lateness by working extra hours. (Geç kalmasını fazladan çalışarak telafi etmeye çalıştı.)"
+    ]
+  },
+  {
+    "word": "shed light on (shed - shed - shed)",
+    "definition": "To make something clearer; to explain. (Açıklığa kavuşturmak, ışık tutmak)",
+    "examples": [
+      "The report sheds light on the causes of the accident. (Rapor, kazanın nedenlerine ışık tutuyor.)",
+      "New evidence may shed light on the case. (Yeni kanıt dava hakkında açıklık getirebilir.)",
+      "Her explanation shed light on the misunderstanding. (Onun açıklaması yanlış anlamayı aydınlattı.)"
+    ]
+  },
+  {
+    "word": "offender",
+    "definition": "A person who commits a crime or breaks a rule. (Suçlu, kural ihlali yapan kişi)",
+    "examples": [
+      "First-time offenders may receive lighter sentences. (İlk kez suç işleyenler daha hafif cezalar alabilir.)",
+      "The police are searching for the offender. (Polis suçluyu arıyor.)",
+      "Parking offenders will be fined. (Park kurallarını ihlal edenler cezalandırılacak.)"
+    ]
+  },
+  {
+    "word": "inclined to",
+    "definition": "Likely to do something; having a tendency. (Eğilimli olmak, meyilli olmak)",
+    "examples": [
+      "She is inclined to trust people too easily. (İnsanlara çok kolay güvenmeye eğilimlidir.)",
+	  "They are inclined to violent actions.",
+      "I’m inclined to believe his story. (Onun hikâyesine inanma eğilimindeyim.)",
+      "He was inclined to accept the offer. (Teklifi kabul etmeye meyilliydi.)"
+    ]
+  },
+  {
+    "word": "come down to",
+    "definition": "To be explained by or reduced to something basic. (Özünde şuna dayanmak, gelip şuna bağlanmak)",
+    "examples": [
+      "It all comes down to money. (Her şey sonunda paraya dayanıyor.)",
+      "The decision comes down to whether we can afford it. (Karar, bunu karşılayıp karşılayamayacağımıza bağlı.)",
+      "Success often comes down to hard work. (Başarı genellikle sıkı çalışmaya dayanır.)"
+    ]
+  },
+  {
     "word": "gnaw",
     "definition": "To bite or chew something persistently; also used figuratively for something that causes persistent worry. (Kemirmek, sürekli ısırmak; mecazen içini yemek, rahatsız etmek)",
     "examples": [
