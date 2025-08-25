@@ -1,5 +1,105 @@
 [
   {
+    "word": "regard",
+    "definition": "To consider or think of someone or something in a particular way. (Birini/bir şeyi belirli bir şekilde değerlendirmek, saymak)",
+    "examples": [
+      "She is widely regarded as a talented artist. (O, yetenekli bir sanatçı olarak geniş çapta kabul edilir.)",
+      "He regarded the offer with suspicion. (Teklifi şüpheyle değerlendirdi.)",
+      "They regard honesty as the most important trait. (Dürüstlüğü en önemli özellik olarak sayarlar.)"
+    ],
+    "note": "'Regard' hem düşünmek hem de saygı göstermek anlamına gelebilir."
+  },
+  {
+    "word": "pursue",
+    "definition": "To follow or chase someone or something; to strive to achieve. (Peşinden gitmek, takip etmek; bir şeyi başarmaya çalışmak)",
+    "examples": [
+      "She decided to pursue a career in medicine. (Tıp kariyerinin peşinden gitmeye karar verdi.)",
+      "The police pursued the suspect for miles. (Polis, şüphelinin peşinden kilometrelerce gitti.)",
+      "He pursues his dreams relentlessly. (Hayallerinin peşinden durmadan gidiyor.)"
+    ],
+    "note": "Hem fiziksel takip hem de hedefe ulaşma anlamında kullanılabilir."
+  },
+  {
+    "word": "perceive",
+    "definition": "To become aware of or understand something; to interpret. (Algılamak, fark etmek, anlamak)",
+    "examples": [
+      "She perceived a change in his attitude. (Onun tutumunda bir değişiklik fark etti.)",
+      "People perceive colors differently. (İnsanlar renkleri farklı algılar.)",
+      "He is perceived as a strong leader. (O, güçlü bir lider olarak görülür.)"
+    ],
+    "note": "Duyular veya düşünce yoluyla fark etme anlamı taşır."
+  },
+  {
+    "word": "purse",
+    "definition": "A small bag used for carrying money and personal items. (Çanta, cüzdan)",
+    "examples": [
+      "She carried her purse over her shoulder. (Çantasını omzunun üzerinden taşıdı.)",
+      "He found a purse on the street. (Sokakta bir cüzdan buldu.)",
+      "Her purse was full of receipts. (Çantası fişlerle doluydu.)"
+    ],
+    "note": "İngiliz İngilizcesinde kadın çantası, Amerikan İngilizcesinde hem cüzdan hem çanta anlamında kullanılır."
+  },
+  {
+    "word": "revulsion",
+    "definition": "A strong feeling of disgust or repulsion. (Tiksinti, nefret, güçlü antipati)",
+    "examples": [
+      "He felt revulsion at the sight of the rotten food. (Çürük yiyeceği görünce tiksindi.)",
+      "The idea of cheating filled her with revulsion. (Aldatma fikri onu tiksintiye boğdu.)",
+      "There was widespread revulsion at the cruel act. (Zalim eyleme karşı geniş çapta tiksinti vardı.)"
+    ],
+    "note": "Çoğunlukla çok güçlü, ani bir olumsuz duygu ifade eder."
+  },
+  {
+    "word": "set out",
+    "definition": "To begin a journey or an action with a purpose. (Yola çıkmak, bir şeye niyet ederek başlamak)",
+    "examples": [
+      "They set out early to reach the summit. (Zirveye ulaşmak için erkenden yola çıktılar.)",
+      "She set out to write a novel. (Roman yazmaya niyet etti.)",
+      "The explorers set out on an ambitious expedition. (Kaşifler iddialı bir keşfe yola çıktılar.)"
+    ],
+    "note": "Hem fiziksel bir yolculuk hem de hedeflenen bir eylem için kullanılabilir."
+  },
+  {
+    "word": "apprehensive",
+    "definition": "Anxious or fearful about the future; uneasy. (Endişeli, kaygılı, tedirgin)",
+    "examples": [
+      "She felt apprehensive about the exam. (Sınav hakkında endişeliydi.)",
+      "He was apprehensive before the job interview. (İş görüşmesi öncesi tedirgindi.)",
+      "Parents are often apprehensive when their children start school. (Çocukları okula başladığında ebeveynler genellikle kaygılı olur.)"
+    ],
+    "note": "Genellikle gelecekten kaynaklanan kaygı ve korku duygusunu ifade eder."
+  },
+  {
+    "word": "apprehend",
+    "definition": "To arrest someone for a crime; to understand or grasp. (Tutuklamak; anlamak, kavramak)",
+    "examples": [
+      "The police apprehended the suspect. (Polis şüpheliyi tutukladı.)",
+      "He could not apprehend the full meaning of the poem. (Şiirin tam anlamını kavrayamadı.)",
+      "Authorities quickly apprehended the thief. (Yetkililer hırsızı hızlıca tutukladı.)"
+    ],
+    "note": "Fiil olarak hem hukuki anlamda tutuklamak hem de düşünsel anlamda kavramak anlamına gelir."
+  },
+  {
+    "word": "infants",
+    "definition": "Very young children or babies. (Bebekler, yeni doğmuş çocuklar)",
+    "examples": [
+      "The hospital has a special ward for infants. (Hastanede bebekler için özel bir servis var.)",
+      "Infants need constant care. (Bebeklerin sürekli bakıma ihtiyacı vardır.)",
+      "The program focuses on the development of infants. (Program bebeklerin gelişimine odaklanır.)"
+    ],
+    "note": "Genellikle 1 yaşına kadar olan çocuklar için kullanılır."
+  },
+  {
+    "word": "incidentally",
+    "definition": "By the way; as a minor or secondary matter. (Bu arada, tesadüfen, yan not olarak)",
+    "examples": [
+      "Incidentally, I met your brother yesterday. (Bu arada, dün kardeşinle karşılaştım.)",
+      "He mentioned, incidentally, that he is moving to New York. (Yan not olarak, New York’a taşınacağını söyledi.)",
+      "Incidentally, this fact has little relevance to our discussion. (Bu arada, bu bilgi tartışmamızla pek ilgili değil.)"
+    ],
+    "note": "Genellikle ek bilgi veya yan not verirken kullanılır; cümlenin ana akışını değiştirmez."
+  },
+  {
     "word": "counteract",
     "definition": "To reduce, prevent, or neutralize the effect of something. (Etkisini azaltmak, karşı koymak, etkisiz hale getirmek)",
     "examples": [
