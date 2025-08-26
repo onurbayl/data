@@ -1,5 +1,45 @@
 [
   {
+    "word": "consult",
+    "definition": "To seek advice or information from someone. (Danışmak, fikir almak)",
+    "examples": [
+      "You should consult a doctor before taking these pills. (Bu hapları almadan önce bir doktora danışmalısın.)",
+      "He consulted his lawyer about the contract. (Sözleşme hakkında avukatına danıştı.)",
+      "The manager consulted the team before making a decision. (Müdür karar vermeden önce ekibe danıştı.)"
+    ],
+    "note": "Genelde 'consult with sb' veya 'consult sb' şeklinde kullanılır."
+  },
+  {
+    "word": "autocratic",
+    "definition": "Relating to a ruler who has absolute power; domineering. (Otokrat, tek adam yönetimi, baskıcı)",
+    "examples": [
+      "The country suffered under autocratic rule. (Ülke otokratik yönetim altında acı çekti.)",
+      "He has an autocratic management style. (Onun otokratik bir yönetim tarzı var.)",
+      "Autocratic leaders rarely listen to their citizens. (Otokrat liderler nadiren vatandaşlarını dinler.)"
+    ],
+    "note": "Otoriter, baskıcı yönetim veya kişi için kullanılır."
+  },
+  {
+    "word": "autonomy",
+    "definition": "The right or condition of self-government. (Özerklik, bağımsızlık, kendi kendini yönetme)",
+    "examples": [
+      "The region is demanding greater autonomy. (Bölge daha fazla özerklik talep ediyor.)",
+      "Personal autonomy is important in adulthood. (Kişisel özerklik yetişkinlikte önemlidir.)",
+      "Universities often seek autonomy from political influence. (Üniversiteler sıklıkla politik etkiden özerklik ister.)"
+    ],
+    "note": "Hem siyasi özerklik hem de kişisel bağımsızlık anlamında kullanılır."
+  },
+  {
+    "word": "unilaterally",
+    "definition": "Done by one person, group, or country without the agreement of others. (Tek taraflı olarak)",
+    "examples": [
+      "The company unilaterally changed the contract terms. (Şirket sözleşme şartlarını tek taraflı değiştirdi.)",
+      "The country acted unilaterally without consulting allies. (Ülke müttefiklere danışmadan tek taraflı hareket etti.)",
+      "He unilaterally decided to end the partnership. (Ortaklığı tek taraflı olarak bitirmeye karar verdi.)"
+    ],
+    "note": "Genellikle uluslararası ilişkilerde veya anlaşmalarda 'tek taraflı karar/eylem' anlamında geçer."
+  },
+  {
     "word": "obsolete",
     "definition": "No longer produced or used; out of date. (Artık kullanılmayan, modası geçmiş, eskimiş)",
     "examples": [
