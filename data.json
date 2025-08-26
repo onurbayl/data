@@ -1,5 +1,35 @@
 [
   {
+    "word": "obsolete",
+    "definition": "No longer produced or used; out of date. (Artık kullanılmayan, modası geçmiş, eskimiş)",
+    "examples": [
+      "Many old technologies have become obsolete. (Birçok eski teknoloji artık kullanılmaz hale geldi.)",
+      "Typewriters are now considered obsolete. (Daktilolar artık modası geçmiş sayılıyor.)",
+      "Some laws are obsolete and no longer relevant. (Bazı yasalar eskimiş ve artık geçerli değil.)"
+    ],
+    "note": "Genellikle teknoloji, moda veya fikirler için kullanılır."
+  },
+  {
+    "word": "relativism",
+    "definition": "The belief that truth, morality, or knowledge is not absolute but depends on culture or context. (Görecelik; hakikat, ahlak veya bilginin mutlak olmadığı, bağlama göre değiştiği inancı)",
+    "examples": [
+      "Moral relativism argues that right and wrong vary between cultures. (Ahlaki görecelik, doğru ve yanlışın kültürlere göre değiştiğini savunur.)",
+      "Relativism is often contrasted with absolutism. (Görecelik genellikle mutlakçılıkla karşılaştırılır.)",
+      "Philosophers debate whether relativism undermines universal values. (Filozoflar, göreceliğin evrensel değerleri zayıflatıp zayıflatmadığını tartışır.)"
+    ],
+    "note": "Felsefi bir terimdir; 'moral relativism' (ahlaki görecelik) en yaygın kullanımlardan biridir."
+  },
+  {
+    "word": "continuity",
+    "definition": "The unbroken and consistent existence or operation of something over time. (Süreklilik, devamlılık)",
+    "examples": [
+      "The continuity of traditions is important for cultural identity. (Geleneklerin sürekliliği kültürel kimlik için önemlidir.)",
+      "The movie had some continuity errors between scenes. (Filmde sahneler arasında bazı süreklilik hataları vardı.)",
+      "She ensured continuity in the project during the manager’s absence. (Yöneticinin yokluğunda projede sürekliliği sağladı.)"
+    ],
+    "note": "Hem soyut kavramlarda (tarih, kültür, iş) hem de film/dizi sahnelerindeki uyum anlamında kullanılır."
+  },
+  {
     "word": "intrinsic",
     "definition": "Belonging naturally; essential, inherent. (Doğasında olan, içsel, özünde var olan)",
     "examples": [
