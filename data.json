@@ -1,5 +1,25 @@
 [
   {
+    "word": "intrinsic",
+    "definition": "Belonging naturally; essential, inherent. (Doğasında olan, içsel, özünde var olan)",
+    "examples": [
+      "Honesty is an intrinsic part of her character. (Dürüstlük onun kişiliğinin özünde olan bir parçasıdır.)",
+      "The intrinsic value of the diamond is very high. (Elmasın içsel değeri çok yüksektir.)",
+      "Art has an intrinsic ability to inspire people. (Sanatın insanları ilhamlandırma konusunda özünde bir yeteneği vardır.)"
+    ],
+    "note": "Genellikle 'intrinsic value, intrinsic motivation' gibi kalıplarda kullanılır."
+  },
+  {
+    "word": "penalized",
+    "definition": "Punished or given a disadvantage for breaking a rule or law. (Cezalandırılmış, kuralları ihlal ettiği için dezavantaj verilmiş)",
+    "examples": [
+      "The player was penalized for touching the ball with his hand. (Oyuncu topa eliyle dokunduğu için cezalandırıldı.)",
+      "Drivers are penalized for speeding. (Sürücüler hız yaptıkları için cezalandırılır.)",
+      "The company was heavily penalized for breaking environmental regulations. (Şirket çevre kurallarını ihlal ettiği için ağır şekilde cezalandırıldı.)"
+    ],
+    "note": "Fiil hali 'to penalize' (cezalandırmak), geçmiş zaman hali 'penalized' (cezalandırıldı)."
+  },
+  {
     "word": "nurture",
     "definition": "To care for and encourage the growth or development of someone or something. (Beslemek, büyütmek, geliştirmek, teşvik etmek)",
     "examples": [
