@@ -1,5 +1,115 @@
 [
   {
+    "word": "intricate",
+    "definition": "Very complicated or detailed. (Çok karmaşık, detaylı)",
+    "examples": [
+      "She wore an intricate lace dress. (O, çok detaylı dantel bir elbise giyiyordu.)",
+      "The plot of the novel is intricate. (Romanın konusu karmaşık.)",
+      "He solved the intricate puzzle quickly. (O, karmaşık bulmacayı çabucak çözdü.)"
+    ],
+    "note": "'Intricate' genellikle tasarım, plan veya sorunlar için kullanılır."
+  },
+  {
+    "word": "merits",
+    "definition": "The positive qualities or advantages of something. (Özellikler, erdemler, avantajlar)",
+    "examples": [
+      "The merits of the proposal were carefully considered. (Teklifin avantajları dikkatlice değerlendirildi.)",
+      "She was recognized for her merits in science. (Bilimdeki başarıları için takdir edildi.)",
+      "We need to judge the idea on its merits. (Fikri kendi değerleri üzerinden değerlendirmeliyiz.)",
+    ],
+    "note": "Genellikle bir fikir, teklif veya kişinin olumlu yönlerini ifade etmek için kullanılır."
+  },
+  {
+    "word": "spindly",
+    "definition": "Long, thin, and weak-looking. (İnce, uzun ve zayıf görünümlü)",
+    "examples": [
+      "The plant grew spindly in the dark corner. (Bitki karanlık köşede ince ve zayıf büyüdü.)",
+      "He has spindly legs. (Onun ince ve zayıf bacakları var.)",
+      "The spindly tower looked unstable. (İnce kule dengesiz görünüyordu.)"
+    ],
+    "note": "Genellikle boyca uzun ama güçsüz veya kırılgan nesneler için kullanılır."
+  },
+  {
+    "word": "shimmer",
+    "definition": "To shine with a flickering or wavering light. (Titrek veya dalgalı şekilde parlamak)",
+    "examples": [
+      "The lake shimmered in the sunlight. (Göl güneş ışığında parladı.)",
+      "Her dress shimmered under the stage lights. (Elbisesi sahne ışıkları altında parlıyordu.)",
+      "The stars shimmered in the night sky. (Yıldızlar gece gökyüzünde parladı.)"
+    ],
+    "note": "'Shimmer' genellikle su, ışık veya parlayan nesneler için kullanılır."
+  },
+  {
+    "word": "subtle",
+    "definition": "Not obvious; delicate or precise. (Hassas, ince, fark edilmesi zor)",
+    "examples": [
+      "She gave a subtle hint about the surprise. (Sürpriz hakkında ince bir ipucu verdi.)",
+      "The painting has subtle colors. (Tabloda ince renkler var.)",
+      "He showed a subtle change in his expression. (İfadesinde fark edilmesi zor bir değişiklik gösterdi.)"
+    ],
+    "note": "Genellikle ince farklar, detaylar veya hafif etkiler için kullanılır."
+  },
+  {
+    "word": "ball game",
+    "definition": "A situation or activity involving competition or strategy. (Rekabet veya strateji içeren durum/oyun)",
+    "examples": [
+      "This project is a completely different ball game. (Bu proje tamamen başka bir durum.)",
+      "Negotiating with them is a tricky ball game. (Onlarla pazarlık yapmak karmaşık bir iş.)",
+      "Managing a team is a whole new ball game. (Bir takımı yönetmek bambaşka bir iş.)"
+    ],
+    "note": "Mecazi anlamda kullanılır, gerçek spor oyununu ifade etmek zorunda değildir."
+  },
+  {
+    "word": "less literal",
+    "definition": "Not taken exactly as stated; figurative. (Daha mecazi, tam anlamıyla alınmayan)",
+    "examples": [
+      "His story was less literal and more metaphorical. (Hikayesi daha mecazi ve metaforikti.)",
+      "Interpret the poem in a less literal way. (Şiiri daha mecazi bir şekilde yorumlayın.)",
+      "The term is used in a less literal sense here. (Terim burada tam anlamıyla değil, mecazi olarak kullanılmıştır.)"
+    ],
+    "note": "Metaforik veya mecazi kullanımlar için geçerlidir."
+  },
+  {
+    "word": "skyline",
+    "definition": "The outline of buildings or mountains against the sky. (Gökyüzüne karşı görünen şehir silueti veya dağ silueti)",
+    "examples": [
+      "The city skyline was breathtaking at sunset. (Şehir silueti gün batımında muhteşemdi.)",
+      "New skyscrapers changed the skyline of the city. (Yeni gökdelenler şehrin siluetini değiştirdi.)",
+      "The mountain skyline was covered in snow. (Dağ silueti karla kaplıydı.)"
+    ],
+    "note": "Genellikle şehir veya doğal çevre siluetleri için kullanılır."
+  },
+  {
+    "word": "intrigue",
+    "definition": "To arouse curiosity or interest; secret plotting. (Merak uyandırmak; entrika çevirmek)",
+    "examples": [
+      "The mysterious book intrigued him. (Gizemli kitap onun ilgisini çekti.)",
+      "The political intrigue in the court was intense. (Mahkemedeki siyasi entrikalar yoğundu.)",
+      "Her story intrigued everyone at the table. (Hikayesi masadakilerin hepsinin ilgisini çekti.)"
+    ],
+    "note": "'Intrigue' hem merak uyandırmak hem de gizli planlar, entrikalar anlamına gelir."
+  },
+  {
+    "word": "intriguing",
+    "definition": "Arousing curiosity or interest; fascinating. (İlgi çekici, merak uyandıran)",
+    "examples": [
+      "She told an intriguing story. (O, ilgi çekici bir hikaye anlattı.)",
+      "The experiment has intriguing results. (Deneyin ilgi çekici sonuçları var.)",
+      "His ideas are intriguing but hard to implement. (Onun fikirleri ilgi çekici ama uygulanması zor.)"
+    ],
+    "note": "'Intriguing', genellikle bir şeyin dikkat çekici, merak uyandırıcı veya etkileyici olduğunu belirtir."
+  },
+  {
+    "word": "carved stone",
+    "definition": "Stone that has been shaped or decorated by cutting. (Oyulmuş taş, şekillendirilmiş veya süslenmiş taş)",
+    "examples": [
+      "The ancient temple featured carved stone walls. (Antik tapınak oyulmuş taş duvarlara sahipti.)",
+      "She admired the intricate carved stone sculptures. (İnce işlenmiş taş heykelleri hayranlıkla izledi.)",
+      "Carved stone is often used in historical architecture. (Oyulmuş taş genellikle tarihi mimaride kullanılır.)"
+    ],
+    "note": "Hem tarih hem de sanat bağlamında taş oymacılığı anlamında kullanılır."
+  },
+  {
     "word": "consult",
     "definition": "To seek advice or information from someone. (Danışmak, fikir almak)",
     "examples": [
