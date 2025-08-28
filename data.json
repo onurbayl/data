@@ -1,5 +1,45 @@
 [
   {
+    "word": "to hint at sth",
+    "definition": "To suggest something indirectly without saying it openly. (Bir şeyi dolaylı olarak ima etmek, üstü kapalı söylemek)",
+    "examples": [
+      "The teacher hinted at a surprise test next week. (Öğretmen önümüzdeki hafta sürpriz bir sınav olabileceğini ima etti.)",
+      "She hinted at her dissatisfaction with the project. (Projeden memnuniyetsizliğini üstü kapalı belirtti.)",
+      "His smile hinted at a hidden plan. (Gülümsemesi gizli bir plana işaret ediyordu.)"
+    ],
+    "note": "Genellikle 'suggest' gibi doğrudan söylemek yerine, daha ince ve dolaylı bir ifade kullanılır."
+  },
+  {
+    "word": "suspense",
+    "definition": "A state of excitement or anxious uncertainty about what will happen. (Merak, heyecan, belirsizlikten doğan gerginlik)",
+    "examples": [
+      "The movie kept us in suspense until the very end. (Film sonuna kadar bizi merakta bıraktı.)",
+      "She waited in suspense for the exam results. (Sınav sonuçlarını merakla bekledi.)",
+      "The suspense in the story made it hard to put the book down. (Hikâyedeki merak duygusu kitabı bırakmayı zorlaştırdı.)"
+    ],
+    "note": "Özellikle edebiyat ve filmlerde, okuyucuda/izleyicide merak ve gerilim duygusu yaratmak için kullanılır."
+  },
+  {
+    "word": "proximity",
+    "definition": "Nearness in space, time, or relationship. (Yakınlık, yakın olma durumu)",
+    "examples": [
+      "The hotel is in close proximity to the beach. (Otel sahile çok yakın.)",
+      "The proximity of the two events caused confusion. (İki olayın yakınlığı karışıklığa yol açtı.)",
+      "Living in close proximity can create a sense of community. (Yakın yaşam, topluluk hissi yaratabilir.)"
+    ],
+    "note": "Çoğunlukla 'close proximity' kalıbıyla kullanılır."
+  },
+  {
+    "word": "alliteration",
+    "definition": "The repetition of the same initial consonant sound in nearby words. (Aliterasyon, aynı ünsüz sesin tekrarı)",
+    "examples": [
+      "‘Peter Piper picked a peck of pickled peppers’ is an example of alliteration. (‘Peter Piper picked a peck of pickled peppers’ aliterasyona örnektir.)",
+      "Poets often use alliteration to create rhythm. (Şairler ritim yaratmak için sıkça aliterasyon kullanır.)",
+      "The phrase ‘sweet smell of success’ shows alliteration. (‘Sweet smell of success’ ifadesi aliterasyona örnektir.)"
+    ],
+    "note": "Aliterasyon, ses oyunları ve edebi etkiler için şiir ve nesirde sıkça kullanılır."
+  },
+  {
     "word": "remnant",
     "definition": "A small remaining part of something that once existed or was larger. (Arta kalan, kalıntı, parça)",
     "examples": [
