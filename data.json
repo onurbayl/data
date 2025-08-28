@@ -1,5 +1,95 @@
 [
   {
+    "word": "endurance",
+    "definition": "The ability to withstand hardship or continue despite fatigue, stress, or difficulty. (Dayanıklılık, tahammül gücü)",
+    "examples": [
+      "The marathon tested his physical endurance. (Maraton onun fiziksel dayanıklılığını sınadı.)",
+      "She showed great endurance during the long negotiations. (Uzun müzakereler sırasında büyük bir dayanıklılık gösterdi.)",
+      "Endurance is essential for mountain climbing. (Dağcılık için dayanıklılık şarttır.)"
+    ],
+    "note": "Hem fiziksel hem de duygusal/zihinsel anlamda kullanılabilir."
+  },
+  {
+    "word": "regimen",
+    "definition": "A prescribed plan, especially for health, diet, or exercise. (Rejim, düzenli uygulanan sağlık/diyet/egzersiz programı)",
+    "examples": [
+      "The doctor put him on a strict exercise regimen. (Doktor onu sıkı bir egzersiz programına aldı.)",
+      "Her beauty regimen includes daily skincare. (Güzellik rutini günlük cilt bakımını içeriyor.)",
+      "He follows a regimen of meditation and yoga. (Meditasyon ve yoga rutini uyguluyor.)"
+    ],
+    "note": "Bireysel yaşam tarzı ve sağlık bağlamında kullanılır."
+  },
+  {
+    "word": "regime",
+    "definition": "A system of government or authority; also can mean a system or planned way of doing things. (Yönetim, rejim, düzen)",
+    "examples": [
+      "The country was ruled by a military regime. (Ülke askeri bir rejim tarafından yönetiliyordu.)",
+      "The regime introduced new economic policies. (Rejim yeni ekonomik politikalar getirdi.)",
+      "Some athletes follow a strict training regime. (Bazı sporcular sıkı bir antrenman düzeni uygular.)"
+    ],
+    "note": "Genellikle siyasi/yönetimsel bağlamda kullanılır; ancak bazen 'düzen' anlamında 'regimen' ile karışabilir."
+  },
+  {
+    "word": "undergo",
+    "definition": "To experience or endure something, especially a change or process. (Maruz kalmak, geçirmek, başından geçmek)",
+    "examples": [
+      "He had to undergo surgery after the accident. (Kaza sonrası ameliyat olmak zorunda kaldı.)",
+      "The country is undergoing rapid economic change. (Ülke hızlı bir ekonomik değişimden geçiyor.)",
+      "The plan will undergo several revisions before approval. (Plan onaydan önce birkaç revizyondan geçecek.)"
+    ],
+    "note": "Genellikle olumsuz ya da zorlu süreçler için kullanılır ama nötr de olabilir."
+  },
+  {
+    "word": "use up",
+    "definition": "To consume completely, leaving none left. (Tüketmek, tamamen harcamak)",
+    "examples": [
+      "We’ve used up all the sugar. (Tüm şekeri tükettik.)",
+      "Don’t use up all your energy before the race. (Yarıştan önce tüm enerjini tüketme.)",
+      "He used up his savings to start the business. (İş kurmak için birikimlerini tüketti.)"
+    ],
+    "note": "Tamamen bitirmek anlamına gelir; 'use' tek başına böyle güçlü bir anlam taşımaz."
+  },
+  {
+    "word": "condense",
+    "definition": "1) To make something shorter or more compact. 2) To change from gas to liquid. (Kısaltmak, yoğunlaştırmak, sıvı hale geçmek)",
+    "examples": [
+      "The author condensed his novel into a short story. (Yazar romanını kısa bir hikâyeye dönüştürdü.)",
+      "Steam condenses into water when it cools. (Buhar soğuduğunda suya dönüşür.)",
+      "She gave a condensed summary of the report. (Raporun yoğunlaştırılmış bir özetini verdi.)"
+    ],
+    "note": "Hem mecazi (özetlemek) hem de fiziksel (gazdan sıvıya geçmek) anlamı vardır."
+  },
+  {
+    "word": "in turn",
+    "definition": "As a result of something; one after another. (Buna karşılık, sırayla, sonuç olarak)",
+    "examples": [
+      "He helped me, and I, in turn, helped him. (O bana yardım etti, ben de karşılığında ona yardım ettim.)",
+      "Each student will speak in turn. (Her öğrenci sırayla konuşacak.)",
+      "Stress can weaken the body, which in turn affects health. (Stres vücudu zayıflatabilir, bu da sonuç olarak sağlığı etkiler.)"
+    ],
+    "note": "Hem sebep-sonuç bağlamında hem de sırayla yapılan eylemler için kullanılır."
+  },
+  {
+    "word": "consonant sound",
+    "definition": "A speech sound made by obstructing airflow in some way, as opposed to a vowel sound. (Ünsüz ses)",
+    "examples": [
+      "‘B’ and ‘D’ are consonant sounds. (‘B’ ve ‘D’ ünsüz seslerdir.)",
+      "The word ‘cat’ begins with a consonant sound. (‘Cat’ kelimesi ünsüz bir sesle başlar.)",
+      "English words cannot start with certain consonant clusters. (İngilizce kelimeler bazı ünsüz kümeleriyle başlayamaz.)"
+    ],
+    "note": "Vowel sound (ünlü ses) ile zıtlık içinde kullanılır."
+  },
+  {
+    "word": "metaphor",
+    "definition": "A figure of speech in which one thing is described in terms of another, suggesting similarity. (Mecaz, istiare)",
+    "examples": [
+      "‘Time is a thief’ is a common metaphor. (‘Zaman bir hırsızdır’ yaygın bir mecazdır.)",
+      "The poet used a metaphor to describe love. (Şair sevgiyi anlatmak için mecaz kullandı.)",
+      "In the metaphor ‘the classroom was a zoo,’ the class is compared to chaos. (‘Sınıf bir hayvanat bahçesiydi’ mecazında sınıf kaosa benzetiliyor.)"
+    ],
+    "note": "Metaphor ≠ simile. Simile (benzetme) ‘like’ veya ‘as’ kullanır, metaphor doğrudan benzetir."
+  },
+  {
     "word": "to hint at sth",
     "definition": "To suggest something indirectly without saying it openly. (Bir şeyi dolaylı olarak ima etmek, üstü kapalı söylemek)",
     "examples": [
