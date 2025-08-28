@@ -1,5 +1,35 @@
 [
   {
+    "word": "impermeable to water",
+    "definition": "Not allowing water to pass through. (Su geçirmez, suya karşı geçirimsiz)",
+    "examples": [
+      "This jacket is impermeable to water. (Bu ceket su geçirmez.)",
+      "The roof must be impermeable to water to protect the house. (Evi korumak için çatının su geçirmez olması gerekir.)",
+      "Plastic is impermeable to water, unlike paper. (Plastik, kağıdın aksine su geçirmezdir.)"
+    ],
+    "note": "Genellikle mühendislik, inşaat, giysi ve malzeme özelliklerini tanımlarken kullanılır."
+  },
+  {
+    "word": "high tides",
+    "definition": "The state of the tide when the water is at its highest level. (Gelgitte deniz seviyesinin en yüksek olduğu an, med-cezirde yükselme)",
+    "examples": [
+      "The fishermen returned during high tides. (Balıkçılar yüksek gelgit sırasında döndü.)",
+      "The bridge floods easily at high tides. (Köprü yüksek gelgitte kolayca su altında kalıyor.)",
+      "High tides are influenced by the moon’s gravity. (Yüksek gelgitler Ay’ın çekim gücünden etkilenir.)"
+    ],
+    "note": "‘Low tides’ karşıtıdır. Deniz, okyanus ve kıyı olaylarında sık kullanılır."
+  },
+  {
+    "word": "merchandise",
+    "definition": "Goods that are bought and sold. (Ticari mal, ürün, eşya)",
+    "examples": [
+      "The store sells a wide variety of merchandise. (Mağaza çok çeşitli ürünler satıyor.)",
+      "The band released new merchandise for their fans. (Grup, hayranları için yeni ürünler çıkardı.)",
+      "All defective merchandise will be replaced. (Tüm kusurlu ürünler değiştirilecektir.)"
+    ],
+    "note": "Genellikle ticaret ve satış bağlamında kullanılır; hem tekil hem çoğul anlamda kullanılabilir."
+  },
+  {
     "word": "endurance",
     "definition": "The ability to withstand hardship or continue despite fatigue, stress, or difficulty. (Dayanıklılık, tahammül gücü)",
     "examples": [
