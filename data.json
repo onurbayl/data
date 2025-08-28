@@ -1,5 +1,75 @@
 [
   {
+    "word": "porous",
+    "definition": "Having small holes or spaces that allow liquid or air to pass through. (Gözenekli, geçirgen)",
+    "examples": [
+      "The rock is porous and absorbs water easily. (Taş gözeneklidir ve suyu kolayca emer.)",
+      "Porous materials are used in filters. (Gözenekli malzemeler filtrelerde kullanılır.)",
+      "Her skin was so porous that it absorbed the lotion quickly. (Cildi öyle gözenekliydi ki losyonu hızla emdi.)"
+    ],
+    "note": "Genellikle taş, kumaş, deri gibi malzemelerin özelliklerini tanımlar."
+  },
+  {
+    "word": "pore",
+    "definition": "1) A tiny opening in the skin or a surface. (Gözenek)  2) To study something carefully (pore over).",
+    "examples": [
+      "Sweat comes out through the pores of the skin. (Ter, cildin gözeneklerinden çıkar.)",
+      "She has clogged pores from makeup. (Makyajdan gözenekleri tıkandı.)",
+      "He spent hours poring over the old manuscripts. (Eski el yazmalarını saatlerce dikkatle inceledi.)"
+    ],
+    "note": "İki kullanımı vardır: isim (gözenek) ve fiil (dikkatle incelemek, genelde 'pore over')."
+  },
+  {
+    "word": "petrified",
+    "definition": "1) Extremely frightened. (Korkudan donup kalmış)  2) Turned into stone over time. (Taşlaşmış, fosilleşmiş)",
+    "examples": [
+      "She was petrified when she saw the snake. (Yılanı görünce korkudan donup kaldı.)",
+      "The tree became petrified over millions of years. (Ağaç milyonlarca yıl içinde taşlaştı.)",
+      "He stood petrified with fear. (Korkudan taş kesilmiş gibi durdu.)"
+    ],
+    "note": "Hem mecaz hem de jeoloji bağlamında kullanılabilir."
+  },
+  {
+    "word": "molding and casting",
+    "definition": "A manufacturing process where material is shaped (molding) and then reproduced by pouring material into a mold (casting). (Kalıplama ve döküm)",
+    "examples": [
+      "Molding and casting techniques are used in sculpture. (Heykelcilikte kalıplama ve döküm teknikleri kullanılır.)",
+      "The company specializes in plastic molding and casting. (Şirket plastik kalıplama ve dökümde uzmanlaşmıştır.)",
+      "Artifacts were reproduced by molding and casting methods. (Eserler kalıplama ve döküm yöntemleriyle çoğaltıldı.)"
+    ],
+    "note": "Sanat, mühendislik ve üretim süreçlerinde kullanılan teknik bir terimdir."
+  },
+  {
+    "word": "clam",
+    "definition": "A type of shellfish with a hinged shell. (Midye türü, deniz tarağı gibi çift kabuklu yumuşakça)",
+    "examples": [
+      "We collected clams on the beach. (Kumsalda midye topladık.)",
+      "Clam chowder is a popular dish in New England. (Midye çorbası New England’da popülerdir.)",
+      "The clam closed its shell tightly. (Midye kabuğunu sıkıca kapattı.)"
+    ],
+    "note": "Deniz ürünleri bağlamında yaygın olarak kullanılır."
+  },
+  {
+    "word": "octopi (singular: octopus)",
+    "definition": "A plural form of octopus, meaning sea creatures with eight arms. (Ahtapotlar; tekili 'octopus')",
+    "examples": [
+      "Octopi can change color to camouflage. (Ahtapotlar kamufle olmak için renk değiştirebilir.)",
+      "Divers spotted several octopi near the reef. (Dalgıçlar resifin yakınında birkaç ahtapot gördü.)",
+      "An octopus escaped from the aquarium. (Bir ahtapot akvaryumdan kaçtı.)"
+    ],
+    "note": "Aslında en yaygın doğru çoğul **octopuses**’tır; 'octopi' de kullanılır ama daha az doğru kabul edilir."
+  },
+  {
+    "word": "squid",
+    "definition": "A sea creature with a long soft body, ten arms, and an ink sac. (Kalamar)",
+    "examples": [
+      "Fishermen caught a giant squid. (Balıkçılar dev bir kalamar yakaladı.)",
+      "Squid ink is used in cooking. (Kalamar mürekkebi yemeklerde kullanılır.)",
+      "Squids are related to octopuses. (Kalamarlar ahtapotlarla akrabadır.)"
+    ],
+    "note": "Kalamar, yemek kültüründe ve deniz biyolojisinde sık geçen bir terimdir."
+  },
+  {
     "word": "impermeable to water",
     "definition": "Not allowing water to pass through. (Su geçirmez, suya karşı geçirimsiz)",
     "examples": [
