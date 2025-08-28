@@ -1,5 +1,55 @@
 [
   {
+    "word": "remnant",
+    "definition": "A small remaining part of something that once existed or was larger. (Arta kalan, kalıntı, parça)",
+    "examples": [
+      "The remnants of the ancient civilization can still be seen. (Antik uygarlığın kalıntıları hâlâ görülebilir.)",
+      "He used a remnant of cloth to patch his jeans. (Kotunu yamamak için kumaşın bir parçasını kullandı.)",
+      "Only a remnant of the army survived the battle. (Ordunun sadece küçük bir kısmı savaştan sağ çıktı.)"
+    ],
+    "note": "Genellikle çoğul kullanımıyla (remnants) 'kalıntılar' anlamında karşımıza çıkar."
+  },
+  {
+    "word": "stellar",
+    "definition": "Relating to stars or outstanding, excellent. (Yıldızlarla ilgili, olağanüstü, mükemmel)",
+    "examples": [
+      "The telescope revealed a stellar explosion. (Teleskop bir yıldız patlamasını ortaya çıkardı.)",
+      "She gave a stellar performance in the play. (Oyunda olağanüstü bir performans sergiledi.)",
+      "He has a stellar reputation in his field. (Kendi alanında mükemmel bir itibara sahip.)"
+    ],
+    "note": "Hem astronomi terimi olarak hem de mecazi anlamda 'çok iyi, olağanüstü' olarak kullanılır."
+  },
+  {
+    "word": "nebula",
+    "definition": "A cloud of gas and dust in space, often forming stars. (Uzaydaki gaz ve toz bulutu, bulutsu)",
+    "examples": [
+      "The Orion Nebula is visible with the naked eye. (Orion Bulutsusu çıplak gözle görülebilir.)",
+      "New stars are forming inside the nebula. (Bulutsunun içinde yeni yıldızlar oluşuyor.)",
+      "Astronomers discovered a nebula in a distant galaxy. (Astronomlar uzak bir galakside bir bulutsu keşfetti.)"
+    ],
+    "note": "Nebula’nın çoğulu 'nebulae' veya 'nebulas' olabilir."
+  },
+  {
+    "word": "dwarf",
+    "definition": "1) An unusually small person or thing. 2) In astronomy, a star of relatively small size and low luminosity. (Cüce, küçük; astronomide 'cüce yıldız')",
+    "examples": [
+      "The fairy tale was about seven dwarfs. (Masal yedi cüce hakkındaydı.)",
+      "The Sun is classified as a yellow dwarf star. (Güneş, sarı cüce yıldız olarak sınıflandırılır.)",
+      "The skyscraper dwarfs all the surrounding buildings. (Gökdelen çevredeki tüm binaları küçücük gösteriyor.)"
+    ],
+    "note": "Fiil olarak 'dwarf' = 'gölgesinde bırakmak, küçültmek' anlamına da gelir."
+  },
+  {
+    "word": "pulsars",
+    "definition": "Highly magnetized, rotating neutron stars that emit beams of radiation. (Dönen ve ışınım yayan nötron yıldızları, pulsarlar)",
+    "examples": [
+      "Pulsars were first discovered in 1967. (Pulsarlar ilk kez 1967’de keşfedildi.)",
+      "The astronomer studied the signals from a distant pulsar. (Astronom uzak bir pulsardan gelen sinyalleri inceledi.)",
+      "Pulsars rotate very rapidly, emitting regular radio waves. (Pulsarlar çok hızlı döner ve düzenli radyo dalgaları yayar.)"
+    ],
+    "note": "Kelime tekil hali 'pulsar' olup çoğulu 'pulsars'tır."
+  },
+  {
     "word": "stay up late",
     "definition": "To remain awake later than usual at night. (Gece geç saatlere kadar uyanık kalmak)",
     "examples": [
