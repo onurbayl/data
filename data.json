@@ -1,5 +1,285 @@
 [
   {
+    "word": "stay up late",
+    "definition": "To remain awake later than usual at night. (Gece geç saatlere kadar uyanık kalmak)",
+    "examples": [
+      "I stayed up late to finish my homework. (Ödevimi bitirmek için geç saate kadar uyanık kaldım.)",
+      "She often stays up late watching movies. (O, sık sık film izleyerek geç saatlere kadar oturur.)",
+      "Don’t stay up late before the exam. (Sınavdan önce geç saate kadar oturma.)"
+    ],
+    "note": "Günlük konuşmada çok sık kullanılır."
+  },
+  {
+    "word": "leap",
+    "definition": "To jump a long distance or suddenly. (Sıçramak, atlamak)",
+    "examples": [
+      "The cat leaped onto the table. (Kedi masanın üzerine sıçradı.)",
+      "Technology has leaped forward in recent years. (Teknoloji son yıllarda büyük sıçrama yaptı.)",
+      "He leaped at the chance to study abroad. (Yurtdışında okuma fırsatını hemen değerlendirdi.)"
+    ],
+    "note": "Hem fiziksel zıplama hem de mecazi anlamda ilerleme için kullanılır."
+  },
+  {
+    "word": "predation",
+    "definition": "The act of an animal hunting and killing another for food. (Avlanma, yırtıcılık)",
+    "examples": [
+      "Predation is a natural part of the food chain. (Avlanma besin zincirinin doğal bir parçasıdır.)",
+      "Wolves use teamwork in predation. (Kurtlar avlanmada takım çalışması kullanır.)",
+      "The decline in predation increased the rabbit population. (Avlanmanın azalması tavşan nüfusunu artırdı.)"
+    ],
+    "note": "Biyoloji ve ekoloji alanında sıkça geçer."
+  },
+  {
+    "word": "canids",
+    "definition": "Mammals of the dog family (dogs, wolves, foxes, etc.). (Köpekgiller)",
+    "examples": [
+      "Canids are highly social animals. (Köpekgiller çok sosyal hayvanlardır.)",
+      "Wolves and foxes are examples of canids. (Kurtlar ve tilkiler köpekgillere örnektir.)",
+      "Domesticated dogs are the most familiar canids. (Evcil köpekler en bilinen köpekgillerdir.)"
+    ],
+    "note": "Canidae familyasına ait türler için bilimsel terim."
+  },
+  {
+    "word": "impoverished",
+    "definition": "Very poor; lacking resources. (Yoksul, fakirleşmiş)",
+    "examples": [
+      "The war left the country impoverished. (Savaş ülkeyi yoksullaştırdı.)",
+      "Many impoverished families struggle to buy food. (Birçok yoksul aile yiyecek almakta zorlanıyor.)",
+      "The soil became impoverished after years of farming. (Yıllarca tarımdan sonra toprak fakirleşti.)"
+    ],
+    "note": "Hem insanlar hem de kaynaklar için kullanılabilir."
+  },
+  {
+    "word": "cerebellum",
+    "definition": "Part of the brain that controls balance and movement. (Beyincik)",
+    "examples": [
+      "The cerebellum helps us coordinate movements. (Beyincik hareketlerimizi koordine etmemize yardımcı olur.)",
+      "Damage to the cerebellum affects balance. (Beyincikteki hasar dengeyi etkiler.)",
+      "Scientists study the cerebellum to understand motor control. (Bilim insanları motor kontrolü anlamak için beyinciği inceler.)"
+    ],
+    "note": "Tıbbi ve biyolojik terim."
+  },
+  {
+    "word": "to pounce",
+    "definition": "To suddenly jump or attack something. (Üzerine atılmak, ani saldırmak)",
+    "examples": [
+      "The cat pounced on the mouse. (Kedi farenin üzerine atıldı.)",
+      "Reporters pounced on the politician with questions. (Gazeteciler politikacının üzerine sorularla atıldı.)",
+      "He pounced at the opportunity to travel. (Seyahat fırsatını hemen değerlendirdi.)"
+    ],
+    "note": "Hem gerçek saldırı hem mecazi olarak fırsatı kapmak için kullanılır."
+  },
+  {
+    "word": "courtship",
+    "definition": "The behavior of animals trying to attract a mate. (Kur yapma)",
+    "examples": [
+      "Birds often have elaborate courtship dances. (Kuşlar genellikle süslü kur danslarına sahiptir.)",
+      "The peacock shows its feathers during courtship. (Tavus kuşu kur sırasında tüylerini gösterir.)",
+      "Courtship rituals vary among species. (Kur davranışları türler arasında farklılık gösterir.)"
+    ],
+    "note": "Hem hayvan davranışları hem de eski insan ilişkileri için kullanılabilir."
+  },
+  {
+    "word": "mating",
+    "definition": "The process of animals coming together to reproduce. (Çiftleşme)",
+    "examples": [
+      "Spring is the mating season for many animals. (İlkbahar birçok hayvan için çiftleşme mevsimidir.)",
+      "Mating behaviors can be complex. (Çiftleşme davranışları karmaşık olabilir.)",
+      "The scientist observed the mating of insects. (Bilim insanı böceklerin çiftleşmesini gözlemledi.)"
+    ],
+    "note": "Biyolojik terim."
+  },
+  {
+    "word": "submissive",
+    "definition": "Ready to conform to authority or others' will. (Boyun eğen, itaatkâr)",
+    "examples": [
+      "The dog became submissive in front of its owner. (Köpek sahibinin önünde itaatkâr oldu.)",
+      "She had a submissive attitude in the meeting. (Toplantıda boyun eğici bir tavrı vardı.)",
+      "Some animals show submissive behavior to avoid conflict. (Bazı hayvanlar çatışmadan kaçmak için itaatkar davranışlar sergiler.)"
+    ],
+    "note": "Genelde davranış veya kişilik özellikleri için kullanılır."
+  },
+  {
+    "word": "discord",
+    "definition": "Disagreement or conflict between people. (Uyumsuzluk, anlaşmazlık)",
+    "examples": [
+      "There was discord among the team members. (Takım üyeleri arasında anlaşmazlık vardı.)",
+      "Political discord weakened the country. (Siyasi uyumsuzluk ülkeyi zayıflattı.)",
+      "The meeting ended in discord. (Toplantı anlaşmazlıkla sona erdi.)"
+    ],
+    "note": "Genellikle sosyal veya politik çatışmalarda kullanılır."
+  },
+  {
+    "word": "strife",
+    "definition": "Conflict or struggle. (Çatışma, kavga, mücadele)",
+    "examples": [
+      "The country has long been torn by strife. (Ülke uzun süredir çatışmalarla parçalanmıştı.)",
+      "Family strife can affect children deeply. (Aile içi çatışma çocukları derinden etkileyebilir.)",
+      "Religious strife has shaped history. (Dini çatışmalar tarihi şekillendirdi.)"
+    ],
+    "note": "Edebi ve resmi dilde sık geçer."
+  },
+  {
+    "word": "last resort",
+    "definition": "The final option when all else fails. (Son çare)",
+    "examples": [
+      "Violence should be the last resort. (Şiddet son çare olmalı.)",
+      "As a last resort, they borrowed money. (Son çare olarak borç aldılar.)",
+      "He used force only as a last resort. (O, gücü sadece son çare olarak kullandı.)"
+    ],
+    "note": "Kalıp şeklinde kullanılır: 'as a last resort'."
+  },
+  {
+    "word": "rudimentary",
+    "definition": "Basic or undeveloped. (Temel, ilkel)",
+    "examples": [
+      "He only has a rudimentary knowledge of French. (Fransızca hakkında yalnızca temel bilgisi var.)",
+      "The tribe used rudimentary tools. (Kabile ilkel araçlar kullandı.)",
+      "The system is still in its rudimentary stage. (Sistem hâlâ temel aşamasında.)"
+    ],
+    "note": "Hem bilgi hem teknoloji için kullanılabilir."
+  },
+  {
+    "word": "reckoning",
+    "definition": "A calculation, judgment, or moment of truth. (Hesaplaşma, hesap, muhasebe)",
+    "examples": [
+      "By my reckoning, we should arrive by noon. (Hesabıma göre öğlene kadar varmalıyız.)",
+      "The company is facing a day of reckoning. (Şirket bir hesaplaşma günüyle karşı karşıya.)",
+      "Reckoning the costs, the project will be expensive. (Maliyetleri hesaplayınca proje pahalı olacak.)"
+    ],
+    "note": "Hem matematiksel hesap hem de mecazi hesaplaşma anlamında kullanılır."
+  },
+  {
+    "word": "municipal",
+    "definition": "Relating to a city or town government. (Belediye ile ilgili, kentsel)",
+    "examples": [
+      "The municipal council approved the project. (Belediye meclisi projeyi onayladı.)",
+      "She works for the municipal government. (O, belediye yönetiminde çalışıyor.)",
+      "The park is a municipal property. (Park belediyeye ait bir mülktür.)"
+    ],
+    "note": "Belediye hizmetleri ve yönetimiyle ilgili resmi bağlamlarda geçer."
+  },
+  {
+    "word": "spoils of war",
+    "definition": "Valuables taken by the victors after a war. (Savaş ganimeti)",
+    "examples": [
+      "The soldiers divided the spoils of war. (Askerler savaş ganimetini paylaştı.)",
+      "Gold and treasures were among the spoils of war. (Altın ve hazineler savaş ganimetleri arasındaydı.)",
+      "The city’s destruction was part of the spoils of war. (Şehrin yıkımı savaş ganimetlerinin bir parçasıydı.)"
+    ],
+    "note": "Genellikle tarihi veya askeri bağlamda geçer."
+  },
+  {
+    "word": "pilgrimage",
+    "definition": "A journey to a sacred place for religious reasons. (Hac, kutsal yolculuk)",
+    "examples": [
+      "Thousands go on pilgrimage to Mecca. (Binlerce kişi Mekke’ye hac yolculuğu yapar.)",
+      "He made a pilgrimage to his ancestor’s grave. (Atasının mezarına hac ziyareti yaptı.)",
+      "They pilgrimage every year to the holy site. (Her yıl kutsal mekâna hac yolculuğu yaparlar.)"
+    ],
+    "note": "Hem isim hem fiil olarak kullanılabilir."
+  },
+  {
+    "word": "relentless",
+    "definition": "Never giving up; harsh and persistent. (Amansız, acımasız, dur durak bilmeyen)",
+    "examples": [
+      "The sun was relentless in the desert. (Çölün güneşi amansızdı.)",
+      "She faced relentless criticism. (O, amansız eleştirilerle karşılaştı.)",
+      "His relentless effort led to success. (Onun durmaksızın çabası başarıya yol açtı.)"
+    ],
+    "note": "Hem olumsuz koşullar hem de azim için kullanılabilir."
+  },
+  {
+    "word": "by-product",
+    "definition": "Something produced in addition to the main product. (Yan ürün, istenmeyen sonuç)",
+    "examples": [
+      "Molasses is a by-product of sugar refining. (Pekmez, şeker arıtımının yan ürünüdür.)",
+      "Stress is often a by-product of overwork. (Stres genellikle aşırı çalışmanın yan ürünüdür.)",
+      "Plastic waste is a by-product of modern industry. (Plastik atık modern endüstrinin yan ürünüdür.)"
+    ],
+    "note": "Hem endüstri hem de mecazi kullanımda geçer."
+  },
+  {
+    "word": "peasant",
+    "definition": "A poor farmer in traditional or historical societies. (Köylü, rençper)",
+    "examples": [
+      "Medieval peasants worked the land. (Ortaçağ köylüleri toprağı işlerdi.)",
+      "The peasants protested against high taxes. (Köylüler yüksek vergilere karşı protesto ettiler.)",
+      "Peasants made up most of the population. (Nüfusun çoğunluğunu köylüler oluşturuyordu.)"
+    ],
+    "note": "Tarihsel bağlamda çok geçer."
+  },
+  {
+    "word": "delineate",
+    "definition": "To describe, outline, or clearly show. (Tasvir etmek, çizmek, belirlemek)",
+    "examples": [
+      "The report delineates the new plan. (Rapor yeni planı tasvir ediyor.)",
+      "The law clearly delineates the rights of citizens. (Yasa vatandaşların haklarını açıkça belirtiyor.)",
+      "Artists delineated the landscape in detail. (Sanatçılar manzarayı ayrıntılı olarak tasvir ettiler.)"
+    ],
+    "note": "Resmi ve akademik yazılarda çok sık kullanılır."
+  },
+  {
+    "word": "wag",
+    "definition": "To move or cause to move rapidly from side to side. (Sallamak, sallanmak)",
+    "examples": [
+      "The dog wagged its tail happily. (Köpek mutlu bir şekilde kuyruğunu salladı.)",
+      "He wagged his finger at the child. (Çocuğa parmağını salladı.)",
+      "The rumors made people wag their tongues. (Dedikodular insanların dillerini oynatmasına neden oldu.)"
+    ],
+    "note": "Hem hayvan hareketleri hem mecazi dilde kullanılır."
+  },
+  {
+    "word": "clogging",
+    "definition": "The act of blocking or obstructing a passage. (Tıkanma, tıkama)",
+    "examples": [
+      "The pipe was clogged with grease. (Boru yağ ile tıkandı.)",
+      "Hair can cause clogging in the drain. (Saç lavaboda tıkanmaya neden olabilir.)",
+      "Traffic was clogging the main street. (Trafik ana caddeyi tıkıyordu.)"
+    ],
+    "note": "Hem fiziksel tıkanma hem de mecazi olarak kullanılabilir."
+  },
+  {
+    "word": "prayer",
+    "definition": "Words spoken to God or a deity. (Dua)",
+    "examples": [
+      "She said a prayer before sleeping. (O, uyumadan önce dua etti.)",
+      "Prayers were offered for the victims. (Kurbanlar için dualar edildi.)",
+      "He whispered a prayer of thanks. (O, şükür duası fısıldadı.)"
+    ],
+    "note": "Dini bağlamda yaygın kullanılır."
+  },
+  {
+    "word": "to ration",
+    "definition": "To allow only a fixed amount of something. (Karneyle dağıtmak, sınırlı vermek)",
+    "examples": [
+      "Food was rationed during the war. (Savaş sırasında yiyecekler karneyle dağıtıldı.)",
+      "They rationed water in the desert. (Çölde suyu sınırlı verdiler.)",
+      "The government rationed fuel supplies. (Hükümet yakıt tedarikini sınırladı.)"
+    ],
+    "note": "Genellikle kriz, savaş, kıtlık dönemlerinde kullanılır."
+  },
+  {
+    "word": "so long as",
+    "definition": "Only if; provided that. (Yeter ki, -dığı sürece)",
+    "examples": [
+      "You can stay so long as you are quiet. (Sessiz olduğun sürece kalabilirsin.)",
+      "I’ll help you so long as you try your best. (Elimden geleni yaparsan sana yardım ederim.)",
+      "The deal will continue so long as both sides agree. (Her iki taraf da kabul ettiği sürece anlaşma devam edecek.)"
+    ],
+    "note": "Koşul bildiren bağlaçtır."
+  },
+  {
+    "word": "discrepancy",
+    "definition": "A difference or inconsistency between things that should match. (Tutarsızlık, uyumsuzluk, farklılık)",
+    "examples": [
+      "There is a discrepancy between the two reports. (İki rapor arasında bir tutarsızlık var.)",
+      "They found a discrepancy in the accounts. (Hesaplarda bir tutarsızlık buldular.)",
+      "The discrepancy between his words and actions was clear. (Sözleri ile eylemleri arasındaki fark açıktı.)"
+    ],
+    "note": "Resmi, akademik ve iş bağlamlarında sık geçer."
+  },
+  {
     "word": "gain a favor",
     "definition": "To earn someone's approval, support, or kindness. (Birinin onayını, desteğini veya iyiliğini kazanmak)",
     "examples": [
