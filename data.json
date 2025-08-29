@@ -1,5 +1,25 @@
 [
   {
+    "word": "just as",
+    "definition": "1) At the exact moment when. (Tam o anda) | 2) In the same way as. (Tıpkı ... gibi) | 3) To emphasize fairness or similarity. (Aynı şekilde, olduğu gibi)",
+    "examples": [
+      "He arrived just as I was leaving. (Ben tam çıkarken o geldi.)",
+      "Just as water is essential to life, education is essential to society. (Su yaşam için ne kadar önemliyse, eğitim de toplum için o kadar önemlidir.)",
+      "She deserves respect just as much as anyone else. (O da en az diğerleri kadar saygıyı hak ediyor.)"
+    ],
+    "note": "Farklı anlamları bağlama göre değişir: 'tam o sırada', 'tıpkı ... gibi', 'aynı şekilde'."
+  },
+  {
+    "word": "tarp",
+    "definition": "A tarpaulin; a large piece of waterproof material used as a cover. (Branda, muşamba)",
+    "examples": [
+      "They put a tarp over the woodpile to keep it dry. (Odun yığınının üstünü kuru tutmak için bir branda örttüler.)",
+      "The workers slept under a tarp in the rain. (İşçiler yağmurda bir brandanın altında uyudu.)",
+      "We used a tarp to cover the car during the storm. (Fırtına sırasında arabayı örtmek için bir branda kullandık.)"
+    ],
+    "note": "'Tarp' kelimesi 'tarpaulin'in kısaltılmış halidir."
+  },
+  {
     "word": "porous",
     "definition": "Having small holes or spaces that allow liquid or air to pass through. (Gözenekli, geçirgen)",
     "examples": [
