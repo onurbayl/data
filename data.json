@@ -1,5 +1,115 @@
 [
   {
+    "word": "stack dishes",
+    "definition": "To place plates and other tableware in a neat pile. (Tabakları üst üste dizmek)",
+    "examples": [
+      "He stacked the dishes after dinner. (Yemekten sonra tabakları üst üste koydu.)",
+      "Please don’t stack the dishes too high. (Lütfen tabakları çok yüksek üst üste koyma.)",
+      "She carefully stacked the dishes in the cupboard. (Tabakları dikkatlice dolaba dizdi.)"
+    ],
+    "note": "Genellikle mutfakta bulaşık veya tabakları düzenli şekilde üst üste koymak anlamında."
+  },
+  {
+    "word": "flexible digit",
+    "definition": "A finger or toe that can bend and move easily. (Esnek parmak)",
+    "examples": [
+      "Humans have flexible digits that allow fine motor skills. (İnsanların ince motor becerilere imkân veren esnek parmakları vardır.)",
+      "Flexible digits help primates grip branches. (Esnek parmaklar primatların dalları kavramasına yardımcı olur.)",
+      "The pianist’s flexible digits made playing look effortless. (Piyanistin esnek parmakları çalmayı zahmetsiz gösterdi.)"
+    ],
+    "note": "Digit = parmak/toe; flexible digit özellikle kolay bükülebilen parmakları ifade eder."
+  },
+  {
+    "word": "grip",
+    "definition": "A firm hold or grasp on something. (Sıkı tutuş, kavrama)",
+    "examples": [
+      "She lost her grip on the rope. (İp üzerindeki tutuşunu kaybetti.)",
+      "The shoes provide a good grip on slippery surfaces. (Ayakkabılar kaygan yüzeylerde iyi bir tutuş sağlar.)",
+      "He has a strong grip. (Onun güçlü bir kavraması var.)"
+    ],
+    "note": "Hem isim (tutuş) hem fiil (tutmak) olarak kullanılabilir."
+  },
+  {
+    "word": "swing from underside of branches",
+    "definition": "To hang and move back and forth from the lower side of tree branches. (Dalların alt tarafından sallanmak)",
+    "examples": [
+      "Monkeys swing from the underside of branches with ease. (Maymunlar dalların altından kolayca sallanır.)",
+      "The child pretended to swing from the underside of branches. (Çocuk dalların altından sallanıyormuş gibi yaptı.)",
+      "Primates evolved to swing from the underside of branches. (Primatlar dalların altından sallanmak üzere evrimleşti.)"
+    ],
+    "note": "Özellikle primatlar için kullanılan bir ifade."
+  },
+  {
+    "word": "pluck",
+    "definition": "To pull something, like a fruit or feather, off quickly. (Koparmak, yolmak)",
+    "examples": [
+      "She plucked an apple from the tree. (Ağaçtan bir elma kopardı.)",
+      "The chicken was plucked before cooking. (Tavuk pişirilmeden önce yolundu.)",
+      "He plucked a guitar string. (Gitar telini çekti.)"
+    ],
+    "note": "Hem meyve koparmak hem tüy yolmak hem de müzik aleti teli çekmek için kullanılır."
+  },
+  {
+    "word": "appendages",
+    "definition": "Body parts that are attached to the main body, like arms, legs, or tails. (Uzantılar, eklentiler)",
+    "examples": [
+      "The crab’s appendages help it move sideways. (Yengecin uzantıları onun yan yan hareket etmesini sağlar.)",
+      "Wings are appendages that allow birds to fly. (Kanatlar, kuşların uçmasını sağlayan uzantılardır.)",
+      "The robot was designed with multiple appendages. (Robot birçok uzantıyla tasarlandı.)"
+    ],
+    "note": "Genellikle biyoloji ve anatomi bağlamında kullanılır."
+  },
+  {
+    "word": "co-opted",
+    "definition": "Taken over and used for a new purpose. (Başka bir amaç için kullanılmak)",
+    "examples": [
+      "The climbing hand was co-opted for tool-making. (Tırmanmaya yarayan el alet yapımı için kullanılmaya başlandı.)",
+      "Old buildings were co-opted as schools. (Eski binalar okul olarak kullanılmaya başlandı.)",
+      "The ritual was co-opted into a new tradition. (Ritüel yeni bir geleneğe dönüştürüldü.)"
+    ],
+    "note": "Bir özelliğin/asıl işlevin başka bir amaç için kullanılmasını anlatır."
+  },
+  {
+    "word": "saber-toothed",
+    "definition": "Having long, curved, saber-like canine teeth (as in extinct saber-toothed cats). (Kılıç dişli)",
+    "examples": [
+      "The saber-toothed tiger is now extinct. (Kılıç dişli kaplan artık nesli tükenmiş.)",
+      "Fossils of saber-toothed predators were discovered. (Kılıç dişli yırtıcıların fosilleri bulundu.)",
+      "The saber-toothed cat used its teeth to hunt. (Kılıç dişli kedi avlanmak için dişlerini kullanırdı.)"
+    ],
+    "note": "Özellikle tarih öncesi kılıç dişli kediler için kullanılır."
+  },
+  {
+    "word": "regurgitate",
+    "definition": "To bring food back up from the stomach, often to feed young. (Yediklerini geri çıkarmak, kusmak)",
+    "examples": [
+      "Birds regurgitate food to feed their chicks. (Kuşlar yavrularını beslemek için yiyeceği geri çıkarır.)",
+      "The student only regurgitated what the teacher said. (Öğrenci sadece öğretmenin söylediklerini tekrar etti.)",
+      "Some animals regurgitate as part of digestion. (Bazı hayvanlar sindirimin bir parçası olarak geri çıkarır.)"
+    ],
+    "note": "Hem biyolojik anlamda (beslemek için geri çıkarma) hem de mecaz anlamda (ezberden tekrar etme) kullanılır."
+  },
+  {
+    "word": "relate to",
+    "definition": "To understand or identify with someone/something; to be connected to something. (Bağ kurmak, anlamak, ilgili olmak)",
+    "examples": [
+      "I can really relate to what you’re saying. (Söylediklerine gerçekten bağ kurabiliyorum.)",
+      "The story relates to my own experiences. (Hikâye benim deneyimlerimle ilgili.)",
+      "Children often relate to characters in cartoons. (Çocuklar genellikle çizgi film karakterleriyle bağ kurar.)"
+    ],
+    "note": "Genelde insanların duygularını/deneyimlerini anlamak veya bir şeyle bağlantılı olmak için kullanılır."
+  },
+  {
+    "word": "cross-stitching",
+    "definition": "A form of sewing and embroidery where X-shaped stitches are used to form a picture. (Çarpı işi nakış, çarpı dikişi)",
+    "examples": [
+      "She spends her free time cross-stitching flowers. (Boş zamanlarında çiçek deseniyle çarpı işi yapar.)",
+      "Cross-stitching requires patience and attention. (Çarpı işi sabır ve dikkat gerektirir.)",
+      "My grandmother decorated the cloth by cross-stitching. (Büyükannem kumaşı çarpı işiyle süsledi.)"
+    ],
+    "note": "Bir tür nakış tekniği; iplikle kumaş üzerine küçük X şekilleri yapılır."
+  },
+  {
     "word": "fortification",
     "definition": "1) A defensive wall or reinforcement built to protect against attack. (Tahkimat, savunma yapısı) | 2) The process of strengthening or making something more secure. (Güçlendirme, sağlamlaştırma) | 3) Adding nutrients to food to improve its quality. (Gıda zenginleştirme, vitamin/mineral ekleme)",
     "examples": [
