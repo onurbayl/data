@@ -1,5 +1,35 @@
 [
   {
+    "word": "conscious",
+    "definition": "Aware of and responding to one’s surroundings; awake and alert. (Bilinçli, farkında)",
+    "examples": [
+      "She was conscious after the accident. (Kaza sonrası bilinçliydi.)",
+      "He is conscious of the risks involved. (İşin risklerinin farkında.)",
+      "I became conscious of the noise around me. (Etrafımdaki gürültünün farkına vardım.)"
+    ],
+    "note": "Genellikle uyanıklık, farkındalık ve bilinç hali için kullanılır."
+  },
+  {
+    "word": "conscience",
+    "definition": "A person’s moral sense of right and wrong. (Vicdan, ahlaki bilinç)",
+    "examples": [
+      "His conscience told him to apologize. (Vicdanı ona özür dilemesini söyledi.)",
+      "She has a guilty conscience. (Vicdan azabı çekiyor.)",
+      "A good person acts according to their conscience. (İyi bir insan vicdanına göre hareket eder.)"
+    ],
+    "note": "‘Conscious’ ile karıştırılmamalıdır; biri farkındalık diğeri ahlaki duygu ile ilgilidir."
+  },
+  {
+    "word": "walk upright",
+    "definition": "To move on two legs in a vertical posture. (Dik yürümek, iki ayak üzerinde yürümek)",
+    "examples": [
+      "Humans are unique because we walk upright. (İnsanlar dik yürüdükleri için özeldir.)",
+      "Some primates can walk upright for short distances. (Bazı primatlar kısa mesafeler için dik yürüyebilir.)",
+      "Walking upright allowed early humans to see over tall grass. (Dik yürümek, erken insanların uzun otların üzerinden görmesini sağladı.)"
+    ],
+    "note": "Genellikle insan ve bazı primatların bipedal hareketi için kullanılır."
+  },
+  {
     "word": "perplex",
     "definition": "To confuse or puzzle someone, making them uncertain about what to do or think. (Kafasını karıştırmak, şaşırtmak)",
     "examples": [
