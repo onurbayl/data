@@ -1,5 +1,25 @@
 [
   {
+    "word": "perplex",
+    "definition": "To confuse or puzzle someone, making them uncertain about what to do or think. (Kafasını karıştırmak, şaşırtmak)",
+    "examples": [
+      "The complicated instructions perplexed me. (Karmaşık talimatlar kafamı karıştırdı.)",
+      "His strange behavior perplexed his friends. (Onun garip davranışları arkadaşlarını şaşırttı.)",
+      "The riddle perplexed the students. (Bilmece öğrencilerin kafasını karıştırdı.)"
+    ],
+    "note": "Genellikle karmaşık veya anlaşılması zor şeylerin birini kafasını karıştırması durumunda kullanılır."
+  },
+  {
+    "word": "ravage",
+    "definition": "To cause severe and extensive damage or destruction. (Tahrip etmek, harap etmek, büyük zarar vermek)",
+    "examples": [
+      "The hurricane ravaged the coastal town. (Kasırga sahil kasabasını harap etti.)",
+      "The disease ravaged the population. (Hastalık nüfusu kırıp geçirdi.)",
+      "The war ravaged the country for years. (Savaş ülkeyi yıllarca tahrip etti.)"
+    ],
+    "note": "Hem doğal afetler hem de savaş/hastalık gibi büyük yıkıcı etkiler için kullanılır."
+  },
+  {
     "word": "stack dishes",
     "definition": "To place plates and other tableware in a neat pile. (Tabakları üst üste dizmek)",
     "examples": [
