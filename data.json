@@ -1,5 +1,167 @@
 [
   {
+    "word": "sowing",
+    "definition": "The act of planting seeds in the ground. (Ekim, tohum ekme)",
+    "examples": [
+      "Farmers are busy sowing wheat in the spring. (Çiftçiler ilkbaharda buğday ekmekle meşguller.)",
+      "Good sowing techniques improve crop yield. (İyi ekim teknikleri mahsul verimini artırır.)",
+      "She enjoys sowing flowers in her garden. (Bahçesine çiçek ekmeyi seviyor.)"
+    ]
+  },
+  {
+    "word": "weeding",
+    "definition": "The process of removing unwanted plants from a field or garden. (Yabani otları ayıklama)",
+    "examples": [
+      "We spent the afternoon weeding the garden. (Öğleden sonrayı bahçedeki otları ayıklayarak geçirdik.)",
+      "Weeding helps crops grow better. (Yabani otları ayıklamak mahsullerin daha iyi büyümesine yardımcı olur.)",
+      "Regular weeding keeps the farm healthy. (Düzenli ot ayıklama tarlayı sağlıklı tutar.)"
+    ]
+  },
+  {
+    "word": "plowing",
+    "definition": "Turning over the soil to prepare it for planting. (Sürme, toprağı işleme)",
+    "examples": [
+      "The farmer is plowing the field before sowing seeds. (Çiftçi tohum ekmeden önce tarlayı sürüyor.)",
+      "Plowing aerates the soil. (Toprağı sürmek havalanmasını sağlar.)",
+      "He spent the whole day plowing the land. (Bütün günü toprağı sürmekle geçirdi.)"
+    ]
+  },
+  {
+    "word": "drip systems",
+    "definition": "A method of irrigation where water drips slowly to the roots of plants. (Damla sulama sistemi)",
+    "examples": [
+      "Drip systems save water in dry regions. (Damla sulama sistemleri kurak bölgelerde su tasarrufu sağlar.)",
+      "The farmer installed drip systems for his crops. (Çiftçi ürünleri için damla sulama sistemleri kurdu.)",
+      "Drip systems are more efficient than flood irrigation. (Damla sulama, salma sulamadan daha verimlidir.)"
+    ]
+  },
+  {
+    "word": "strip farming",
+    "definition": "An agricultural practice where crops are grown in alternating strips to reduce erosion. (Şerit halinde tarım)",
+    "examples": [
+      "Strip farming helps prevent soil erosion. (Şerit halinde tarım, toprak erozyonunu önlemeye yardımcı olur.)",
+      "Farmers use strip farming to maintain soil fertility. (Çiftçiler toprağın verimliliğini korumak için şerit tarımı kullanır.)",
+      "Strip farming is common in hilly areas. (Şerit tarım, engebeli bölgelerde yaygındır.)"
+    ]
+  },
+  {
+    "word": "apathetic",
+    "definition": "Showing or feeling little or no interest or emotion. (İlgisiz, kayıtsız)",
+    "examples": [
+      "He is apathetic about politics. (Siyasete karşı ilgisizdir.)",
+      "The students seemed apathetic during the lecture. (Öğrenciler derste kayıtsız görünüyordu.)",
+      "She gave an apathetic shrug. (İlgisizce omuz silkti.)"
+    ]
+  },
+  {
+    "word": "pathetic",
+    "definition": "Something so bad, weak, or inadequate that it arouses pity. (Acıklı, zavallı, içler acısı)",
+    "examples": [
+      "His attempt at singing was pathetic. (Şarkı söyleme denemesi içler acısıydı.)",
+      "She looked pathetic standing in the rain. (Yağmurda duran hâliyle zavallı görünüyordu.)",
+      "The team’s performance was pathetic. (Takımın performansı içler acısıydı.)"
+    ]
+  },
+  {
+    "word": "terrace farming",
+    "definition": "A method of farming on hilly or mountainous terrain by creating step-like fields. (Teras tarımı, basamaklı tarım)",
+    "examples": [
+      "Terrace farming is common in mountainous regions. (Teras tarımı dağlık bölgelerde yaygındır.)",
+      "Terrace farming helps prevent soil erosion. (Teras tarımı toprak erozyonunu önlemeye yardımcı olur.)",
+      "Rice is often grown using terrace farming. (Pirinç genellikle teras tarımıyla yetiştirilir.)"
+    ]
+  },
+  {
+    "word": "prairies",
+    "definition": "Large open areas of grassland, especially in North America. (Bozkır, geniş çayır)",
+    "examples": [
+      "Bison once roamed the prairies freely. (Bizonlar bir zamanlar bozkırlarda özgürce dolaşırdı.)",
+      "Prairies cover much of central North America. (Bozkırlar, Kuzey Amerika’nın orta kısmının büyük bir bölümünü kaplar.)",
+      "Farmers cultivated the fertile prairies. (Çiftçiler verimli bozkırları ekti.)"
+    ]
+  },
+  {
+    "word": "constellation",
+    "definition": "A group of stars forming a recognizable pattern in the night sky. (Takımyıldız)",
+    "examples": [
+      "Orion is one of the most famous constellations. (Orion en ünlü takımyıldızlardan biridir.)",
+      "She learned how to identify constellations during camping. (Kamp sırasında takımyıldızları tanımayı öğrendi.)",
+      "Ancient sailors used constellations to navigate. (Antik denizciler yön bulmak için takımyıldızları kullanırdı.)"
+    ]
+  },
+  {
+    "word": "embark",
+    "definition": "To begin a journey, especially by ship or plane; to start something new. (Bir yolculuğa çıkmak, girişmek)",
+    "examples": [
+      "They embarked on a voyage across the Atlantic. (Atlantik ötesi bir yolculuğa çıktılar.)",
+      "He is about to embark on a new career. (Yeni bir kariyere atılmak üzere.)",
+      "We embarked at noon from the harbor. (Öğlen limandan yola çıktık.)"
+    ]
+  },
+  {
+    "word": "celestial",
+    "definition": "Relating to the sky or the heavens. (Göksel, gökle ilgili)",
+    "examples": [
+      "The telescope revealed many celestial bodies. (Teleskop birçok gök cismine gösterdi.)",
+      "The moon is a celestial object. (Ay bir göksel nesnedir.)",
+      "They studied celestial navigation. (Göksel seyrüseferi incelediler.)"
+    ]
+  },
+  {
+    "word": "eclipse",
+    "definition": "An event where one celestial body blocks the light of another. (Tutulma)",
+    "examples": [
+      "We watched the solar eclipse yesterday. (Dün güneş tutulmasını izledik.)",
+      "The lunar eclipse will be visible tonight. (Bu gece ay tutulması görülecek.)",
+      "Her fame eclipsed that of her peers. (Şöhreti, akranlarını gölgede bıraktı.)"
+    ]
+  },
+  {
+    "word": "subside",
+    "definition": "To become less intense, violent, or severe; to go down. (Azalmak, hafiflemek, yatışmak)",
+    "examples": [
+      "The storm subsided after midnight. (Fırtına gece yarısından sonra dindi.)",
+      "His anger slowly subsided. (Öfkesi yavaşça yatıştı.)",
+      "The floodwaters subsided in a few hours. (Sel suları birkaç saat içinde çekildi.)"
+    ]
+  },
+  {
+    "word": "replete with",
+    "definition": "Filled or well-supplied with something. (Dolu, -ile tıka basa dolu)",
+    "examples": [
+      "The book is replete with detailed illustrations. (Kitap detaylı çizimlerle dolu.)",
+      "The forest was replete with wildlife. (Orman vahşi yaşamla doluydu.)",
+      "Her speech was replete with passion. (Konuşması tutkuyla doluydu.)"
+    ]
+  },
+  {
+    "word": "remnant",
+    "definition": "A small remaining part of something. (Artık, kalıntı)",
+    "examples": [
+      "The remnants of the old castle still stand. (Eski kalenin kalıntıları hâlâ ayakta.)",
+      "He bought fabric remnants at a discount. (İndirimli kumaş parçaları aldı.)",
+      "The war left only remnants of the once-great city. (Savaş, bir zamanlar büyük olan şehirden sadece kalıntılar bıraktı.)"
+    ]
+  },
+  {
+    "word": "stargazer",
+    "definition": "A person who looks at the stars, either for study or enjoyment. (Gökyüzünü izleyen kişi, gökbilim meraklısı)",
+    "examples": [
+      "Stargazers gathered to watch the meteor shower. (Gök taşı yağmurunu izlemek için gökyüzü meraklıları toplandı.)",
+      "As a child, he was an avid stargazer. (Çocukken hevesli bir gökyüzü izleyicisiydi.)",
+      "Modern stargazers use advanced telescopes. (Modern gökyüzü meraklıları gelişmiş teleskoplar kullanır.)"
+    ]
+  },
+  {
+    "word": "luminosity",
+    "definition": "The brightness of a celestial object. (Parlaklık, ışınım gücü)",
+    "examples": [
+      "The star’s luminosity is greater than the sun’s. (Yıldızın parlaklığı güneşinkinden fazladır.)",
+      "Astronomers measure luminosity to classify stars. (Astronomlar yıldızları sınıflandırmak için parlaklığı ölçer.)",
+      "Her smile had a luminosity that lit up the room. (Onun gülümsemesi odayı aydınlatan bir parlaklığa sahipti.)"
+    ]
+  },
+  {
     "word": "conscious",
     "definition": "Aware of and responding to one’s surroundings; awake and alert. (Bilinçli, farkında)",
     "examples": [
