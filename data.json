@@ -1,5 +1,185 @@
 [
   {
+    "word": "pods of legumes",
+    "definition": "Seed cases of plants like beans or peas. (Baklagillerin tohum kabukları)",
+    "examples": [
+      "The pods of legumes provide protein-rich food. (Baklagillerin tohum kabukları protein açısından zengindir.)",
+      "Pea pods are often eaten as vegetables. (Bezelye kabukları genellikle sebze olarak yenir.)",
+      "Soybeans grow inside pods of legumes. (Soya fasulyeleri baklagil kabuklarının içinde yetişir.)"
+    ]
+  },
+  {
+    "word": "hulls of grain",
+    "definition": "The outer covering of a seed or grain. (Tahılın kabuğu, dış örtüsü)",
+    "examples": [
+      "The hulls of grain are usually removed before eating. (Tahıl kabukları genellikle yenmeden önce çıkarılır.)",
+      "Rice hulls are used as animal feed. (Pirinç kabukları hayvan yemi olarak kullanılır.)",
+      "The machine separates the kernels from the hulls of grain. (Makine taneleri tahıl kabuklarından ayırır.)"
+    ]
+  },
+  {
+    "word": "fleshy",
+    "definition": "Thick and soft, full of moisture. (Etli, sulu, dolgun)",
+    "examples": [
+      "Tomatoes are fleshy fruits. (Domatesler etli meyvelerdir.)",
+      "He bit into the fleshy peach. (Etli şeftaliden bir ısırık aldı.)",
+      "Cactus plants have fleshy stems to store water. (Kaktüslerin su depolayan etli gövdeleri vardır.)"
+    ]
+  },
+  {
+    "word": "conversely",
+    "definition": "In the opposite way. (Aksine, tersine)",
+    "examples": [
+      "Fleshy fruits are juicy; conversely, dry fruits lack moisture. (Etli meyveler suludur; aksine kuru meyvelerde nem yoktur.)",
+      "She likes coffee; conversely, her brother prefers tea. (O kahveyi sever; aksine kardeşi çayı tercih eder.)",
+      "Conversely, some plants grow better in shade. (Tersine, bazı bitkiler gölgede daha iyi büyür.)"
+    ]
+  },
+  {
+    "word": "ripe",
+    "definition": "Fully developed and ready to eat. (Olgun, yenmeye hazır)",
+    "examples": [
+      "The bananas are ripe and sweet. (Muzlar olgun ve tatlı.)",
+      "Pick the fruit when it is ripe. (Meyveyi olgunlaştığında topla.)",
+      "Ripe tomatoes are used for making sauce. (Olgun domatesler sos yapmak için kullanılır.)"
+    ]
+  },
+  {
+    "word": "pistil",
+    "definition": "The female reproductive part of a flower. (Çiçeğin dişi organı)",
+    "examples": [
+      "The pistil includes the ovary, style, and stigma. (Pistil, yumurtalık, stilus ve stigmayı içerir.)",
+      "The pollen lands on the pistil to fertilize the ovule. (Polen, yumurtayı döllemek için pistile düşer.)",
+      "The pistil is found at the center of the flower. (Pistil çiçeğin ortasında bulunur.)"
+    ]
+  },
+  {
+    "word": "stalk",
+    "definition": "The main stem or support of a plant or organ. (Sap, gövde)",
+    "examples": [
+      "The flower has a long stalk. (Çiçeğin uzun bir sapı var.)",
+      "Corn grows on tall stalks. (Mısır uzun saplarda yetişir.)",
+      "The pistil rises on a stalk called the style. (Pistil, stilus denilen bir sap üzerinde yükselir.)"
+    ]
+  },
+  {
+    "word": "style",
+    "definition": "The long stalk that connects the stigma and ovary in a flower. (Çiçekte stigmayı yumurtalığa bağlayan sap)",
+    "examples": [
+      "Pollen travels down the style to reach the ovary. (Polen, yumurtalığa ulaşmak için stilustan aşağı iner.)",
+      "The style is a part of the pistil. (Stilus pistilin bir parçasıdır.)",
+      "Each pistil contains a style that supports the stigma. (Her pistilde stigmayı taşıyan bir stilus bulunur.)"
+    ]
+  },
+  {
+    "word": "stigma",
+    "definition": "The top part of the pistil where pollen lands. (Çiçeğin dişi organında polenin düştüğü kısım)",
+    "examples": [
+      "The pollen sticks to the stigma. (Polen stigmaya yapışır.)",
+      "The stigma is sticky to catch pollen. (Stigma poleni yakalamak için yapışkandır.)",
+      "The stigma is located at the top of the style. (Stigma, stilusun tepesinde bulunur.)"
+    ]
+  },
+  {
+    "word": "stamen",
+    "definition": "The male reproductive organ of a flower. (Çiçeğin erkek organı)",
+    "examples": [
+      "Stamens produce pollen. (Erkek organlar polen üretir.)",
+      "Each stamen has a thin stalk and an anther. (Her erkek organda ince bir sap ve bir anter bulunur.)",
+      "The stamens surround the pistil. (Erkek organlar pistilin etrafını sarar.)"
+    ]
+  },
+  {
+    "word": "anther",
+    "definition": "The part of the stamen that produces pollen. (Çiçekte polen üreten kısım)",
+    "examples": [
+      "The anthers release pollen. (Anterler polen salar.)",
+      "Bees collect pollen from the anthers. (Arılar poleni anterlerden toplar.)",
+      "Each stamen has an anther at its tip. (Her erkek organın ucunda bir anter vardır.)"
+    ]
+  },
+  {
+    "word": "drupes",
+    "definition": "Fleshy fruits with a single hard seed inside, like peaches. (Çekirdekli meyve)",
+    "examples": [
+      "Peaches and cherries are drupes. (Şeftali ve kiraz çekirdekli meyvelerdir.)",
+      "A drupe has a hard stone inside. (Çekirdekli meyvede sert bir taş vardır.)",
+      "Coconuts are also considered drupes. (Hindistan cevizleri de çekirdekli meyve sayılır.)"
+    ]
+  },
+  {
+    "word": "raspberries",
+    "definition": "A small red aggregate fruit. (Ahududu)",
+    "examples": [
+      "Raspberries grow in clusters. (Ahududular salkım halinde yetişir.)",
+      "She made raspberry jam. (Ahududu reçeli yaptı.)",
+      "Raspberries are aggregate fruits. (Ahududu bileşik meyvedir.)"
+    ]
+  },
+  {
+    "word": "grapes",
+    "definition": "Small round fruit that grows in clusters on vines. (Üzüm)",
+    "examples": [
+      "Grapes are used to make wine. (Üzümler şarap yapmak için kullanılır.)",
+      "She bought a bunch of grapes. (Bir salkım üzüm aldı.)",
+      "Grapes grow on vines. (Üzümler asmalarda yetişir.)"
+    ]
+  },
+  {
+    "word": "grain",
+    "definition": "The seeds of cereal crops like wheat, rice, or corn. (Tahıl tanesi)",
+    "examples": [
+      "Wheat is a common grain. (Buğday yaygın bir tahıldır.)",
+      "The farmer harvested the grain. (Çiftçi tahılı hasat etti.)",
+      "Rice is the main grain in Asia. (Pirinç Asya’daki temel tahıldır.)"
+    ]
+  },
+  {
+    "word": "to fuse",
+    "definition": "To join together into one. (Kaynaşmak, birleşmek)",
+    "examples": [
+      "The flowers fuse into a single fruit. (Çiçekler tek bir meyveye kaynaşır.)",
+      "Heat can cause metals to fuse. (Isı metallerin kaynaşmasına neden olabilir.)",
+      "The cultures fused over time. (Kültürler zamanla kaynaştı.)"
+    ]
+  },
+  {
+    "word": "accessory",
+    "definition": "Something that is not the main part but adds to it. (Ek, yardımcı, tamamlayıcı)",
+    "examples": [
+      "A strawberry is an accessory fruit. (Çilek ek meyve olarak kabul edilir.)",
+      "The belt is just an accessory to the outfit. (Kemer kıyafete sadece bir ektir.)",
+      "In law, an accessory can mean a helper in crime. (Hukukta accessory suç ortağı anlamına gelebilir.)"
+    ]
+  },
+  {
+    "word": "maize",
+    "definition": "Another word for corn. (Mısır)",
+    "examples": [
+      "Maize is a staple crop in many countries. (Mısır birçok ülkede temel üründür.)",
+      "Ancient farmers first domesticated maize in the Americas. (Antik çiftçiler ilk kez Amerika’da mısırı evcilleştirdi.)",
+      "Popcorn is made from maize. (Patlamış mısır, mısırdan yapılır.)"
+    ]
+  },
+  {
+    "word": "still-life",
+    "definition": "A painting of inanimate objects like fruit or flowers. (Natürmort, cansız objeler resmi)",
+    "examples": [
+      "The artist painted a still-life of fruit. (Sanatçı bir natürmort meyve resmi yaptı.)",
+      "Still-life paintings were popular in the 17th century. (Natürmort resimler 17. yüzyılda popülerdi.)",
+      "She studied still-life drawing. (Natürmort çizimi çalıştı.)"
+    ]
+  },
+  {
+    "word": "rind",
+    "definition": "The thick outer skin of some fruits. (Meyve kabuğu)",
+    "examples": [
+      "Watermelon has a thick rind. (Karpuzun kalın bir kabuğu vardır.)",
+      "The rind of cheese can be eaten or removed. (Peynirin kabuğu yenebilir ya da çıkarılabilir.)",
+      "Orange rind is often used in desserts. (Portakal kabuğu tatlılarda sıkça kullanılır.)"
+    ]
+  },
+  {
     "word": "sowing",
     "definition": "The act of planting seeds in the ground. (Ekim, tohum ekme)",
     "examples": [
