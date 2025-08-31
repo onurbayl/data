@@ -1,5 +1,115 @@
 [
   {
+    "word": "earthen mound",
+    "definition": "A large artificial hill made of earth, often used for burial, ceremonies, or as foundations. (Toprak höyük; genelde mezar, tören veya tapınak temeli olarak kullanılan insan yapımı tepe)",
+    "examples": [
+      "The Mississippians built earthen mounds for religious purposes. (Mississipililer dini amaçlarla toprak höyükler inşa ettiler.)",
+      "Archaeologists discovered an ancient earthen mound near the river. (Arkeologlar nehir yakınında antik bir toprak höyük keşfettiler.)",
+      "The leader’s house was placed on top of the largest earthen mound. (Liderin evi en büyük toprak höyüğün üzerine inşa edilmişti.)"
+    ],
+    "notes": "Özellikle Kuzey Amerika'daki yerli kültürlerle ilişkilidir. 'Mound' tek başına da 'höyük' demektir."
+  },
+  {
+    "word": "fortified villages",
+    "definition": "Villages that are protected with walls, fences, or other defensive structures. (Savunma duvarları, çitler veya tahkimatlarla korunmuş köyler)",
+    "examples": [
+      "De Soto encountered fortified villages during his expedition. (De Soto keşif gezisi sırasında tahkim edilmiş köylerle karşılaştı.)",
+      "The villagers built fortified villages to defend against enemies. (Köylüler düşmanlara karşı savunmak için tahkim edilmiş köyler inşa ettiler.)",
+      "Fortified villages were common in regions with frequent warfare. (Sık sık savaşların yaşandığı bölgelerde tahkim edilmiş köyler yaygındı.)"
+    ],
+    "notes": "Fortified → 'tahkim edilmiş, güçlendirilmiş'. Aynı kökten 'fortification' = tahkimat."
+  },
+  {
+    "word": "monumental",
+    "definition": "Extremely large, impressive, or historically significant. (Anıtsal, devasa, çok önemli)",
+    "examples": [
+      "Cahokia contained monumental structures. (Cahokia anıtsal yapılar içeriyordu.)",
+      "Building the Great Wall of China was a monumental achievement. (Çin Seddi'nin inşası anıtsal bir başarıydı.)",
+      "The discovery was of monumental importance for science. (Bu keşif bilim için anıtsal derecede önemliydi.)"
+    ],
+    "notes": "Hem 'çok büyük' anlamında hem de 'çok önemli' anlamında kullanılabilir."
+  },
+  {
+    "word": "topped with",
+    "definition": "Covered or finished with something placed on top. (Üstü kaplı, tepesi süslenmiş)",
+    "examples": [
+      "The mounds were topped with ceremonial buildings. (Höyüklerin tepesinde törensel yapılar vardı.)",
+      "The cake was topped with fresh strawberries. (Pastanın üstü taze çileklerle kaplıydı.)",
+      "The hill was topped with a stone tower. (Tepenin üstünde taş bir kule vardı.)"
+    ],
+    "notes": "Genellikle yemekler veya yapılar için kullanılır. 'with' ile birlikte gelir."
+  },
+  {
+    "word": "burial",
+    "definition": "The act of placing a dead body into the ground. (Defin, gömme işlemi)",
+    "examples": [
+      "The mounds were often used for burial purposes. (Höyükler genellikle defin amaçlı kullanılırdı.)",
+      "The burial site was discovered by archaeologists. (Defin yeri arkeologlar tarafından keşfedildi.)",
+      "He attended his grandfather’s burial last week. (Geçen hafta dedesinin cenaze gömme törenine katıldı.)"
+    ],
+    "notes": "Fiil hali: 'to bury' (gömmek)."
+  },
+  {
+    "word": "assorted",
+    "definition": "Of various different types or kinds. (Çeşitli, karışık)",
+    "examples": [
+      "The shop sells assorted fruits and vegetables. (Dükkan çeşitli meyve ve sebzeler satıyor.)",
+      "Some writers claimed the mounds were built by assorted European groups. (Bazı yazarlar höyüklerin çeşitli Avrupalı gruplar tarafından yapıldığını iddia ettiler.)",
+      "The box contained assorted chocolates. (Kutuda çeşitli çikolatalar vardı.)"
+    ],
+    "notes": "Sıklıkla 'assorted chocolates/cookies' gibi yiyeceklerde geçer. 'Mixed' ile yakın anlamlı."
+  },
+  {
+    "word": "discount (an idea/people)",
+    "definition": "To dismiss or reject something as unimportant or not true. (Göz ardı etmek, dikkate almamak)",
+    "examples": [
+      "Early scholars wrongly discounted Native Americans as mound builders. (Erken dönem akademisyenler yanlış bir şekilde Yerli Amerikalıları höyük yapıcıları olarak göz ardı ettiler.)",
+      "Don’t discount his opinion just because he is young. (Sırf genç diye onun fikrini göz ardı etme.)",
+      "The manager discounted the possibility of failure. (Yönetici başarısızlık ihtimalini göz ardı etti.)"
+    ],
+    "notes": "İndirim anlamındaki 'discount' ile karıştırma! Burada 'önemsememek, dikkate almamak' anlamında."
+  },
+  {
+    "word": "ruled out",
+    "definition": "To eliminate something as a possibility. (İhtimal dışı bırakmak, elemek)",
+    "examples": [
+      "Military conflict has been ruled out as a cause of Cahokia’s decline. (Cahokia’nın çöküşünün nedeni olarak askeri çatışma ihtimal dışı bırakıldı.)",
+      "The doctor ruled out cancer after the test results. (Doktor, test sonuçlarından sonra kanseri ihtimal dışı bıraktı.)",
+      "Other explanations cannot be ruled out yet. (Diğer açıklamalar henüz ihtimal dışı bırakılamaz.)"
+    ],
+    "notes": "Hep geçmiş zaman / pasif yapıda çok sık geçer. 'Rule out' = bir seçeneği elemek."
+  },
+  {
+    "word": "warfare",
+    "definition": "Armed conflict or fighting between groups. (Savaş, silahlı çatışma)",
+    "examples": [
+      "Cahokia showed little evidence of warfare. (Cahokia savaşın çok az kanıtını gösterdi.)",
+      "Modern warfare often involves technology and drones. (Modern savaş genellikle teknoloji ve dronlar içerir.)",
+      "Tribal warfare was common in the region. (Bölgedeki kabile savaşları yaygındı.)"
+    ],
+    "notes": "'War' genel kavram; 'warfare' ise savaş yapma biçimi/tekniği/eylemleri."
+  },
+  {
+    "word": "to be descended from sth",
+    "definition": "To originate from an earlier generation, group, or ancestor. (Soyundan gelmek, köken almak)",
+    "examples": [
+      "The Mississippians were descended from earlier mound builders. (Mississipililer daha önceki höyük yapıcıların soyundan geliyordu.)",
+      "Humans are descended from primates. (İnsanlar primatlardan türemiştir.)",
+      "She claims to be descended from royalty. (Kraliyet soyundan geldiğini iddia ediyor.)"
+    ],
+    "notes": "'Descendant' = torun, soyundan gelen. 'Descend' kökü → inmek, aşağıya gitmek."
+  },
+  {
+    "word": "relate (to mention, to refer to)",
+    "definition": "To tell, describe, or refer to something. (Bahsetmek, değinmek, anlatmak)",
+    "examples": [
+      "The Mississippians did not relate stories of their ancestors. (Mississipililer atalarından bahsetmediler.)",
+      "She related the details of the trip to her family. (Ailesine yolculuğun detaylarını anlattı.)",
+      "The teacher related the lesson to real-life examples. (Öğretmen dersi gerçek yaşam örnekleriyle ilişkilendirdi.)"
+    ],
+    "notes": "Relate to sth = ilişkilendirmek. Relate (bahsetmek) ile karıştırılmamalı. İki farklı kullanımı var."
+  },
+  {
     "word": "pods of legumes",
     "definition": "Seed cases of plants like beans or peas. (Baklagillerin tohum kabukları)",
     "examples": [
