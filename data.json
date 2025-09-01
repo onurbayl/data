@@ -1,5 +1,25 @@
 [
   {
+    "word": "colossal",
+    "definition": "Extremely large, huge, gigantic. (Devasa, muazzam, çok büyük)",
+    "examples": [
+      "The Colossus of Rhodes was a colossal statue. (Rodos Heykeli devasa bir heykeldi.)",
+      "They made a colossal mistake. (Onlar devasa bir hata yaptılar.)",
+      "The building project required a colossal amount of money. (İnşaat projesi muazzam miktarda para gerektiriyordu.)"
+    ],
+    "notes": "Sıklıkla hem fiziksel büyüklük hem de mecazî anlamda (ör. colossal mistake, colossal failure) kullanılır."
+  },
+  {
+    "word": "isthmus",
+    "definition": "A narrow strip of land connecting two larger land areas, often with water on both sides. (İki büyük kara parçasını birbirine bağlayan dar kara şeridi, kıstak)",
+    "examples": [
+      "The Isthmus of Panama connects North and South America. (Panama Kıstağı Kuzey ve Güney Amerika’yı birbirine bağlar.)",
+      "An isthmus is like a natural bridge of land. (Kıstak kara için doğal bir köprü gibidir.)",
+      "The ancient city was located on an isthmus for strategic reasons. (Antik şehir stratejik sebeplerle bir kıstak üzerine kurulmuştu.)"
+    ],
+    "notes": "Coğrafya terimi. Karşıtı: 'strait' (boğaz, iki denizi bağlayan dar su yolu)."
+  },
+  {
     "word": "uphold",
     "definition": "To support or maintain (a principle, law, or decision). (Desteklemek, sürdürmek, onaylamak)",
     "examples": [
