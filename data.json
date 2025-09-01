@@ -1,5 +1,65 @@
 [
   {
+    "word": "uphold",
+    "definition": "To support or maintain (a principle, law, or decision). (Desteklemek, sürdürmek, onaylamak)",
+    "examples": [
+      "The court upheld the original decision. (Mahkeme orijinal kararı onayladı.)",
+      "Teachers must uphold the values of fairness. (Öğretmenler adalet değerlerini desteklemelidir.)",
+      "They swore to uphold the constitution. (Anayasayı koruyacaklarına yemin ettiler.)"
+    ],
+    "notes": "Genelde resmi bağlamda kullanılır: hukuk, ahlak, değerler. 'Support' ile benzer ama daha resmîdir."
+  },
+  {
+    "word": "to conform",
+    "definition": "To follow rules, standards, or expectations. (Uymak, ayak uydurmak)",
+    "examples": [
+      "You must conform to the rules of the school. (Okul kurallarına uymalısın.)",
+      "He refused to conform to social norms. (Toplumsal normlara uymayı reddetti.)",
+      "New buildings must conform to safety regulations. (Yeni binalar güvenlik yönetmeliklerine uygun olmalı.)"
+    ],
+    "notes": "Genelde 'to conform to/with sth' şeklinde kullanılır. Negatif bağlamda: 'conformist' (sorgulamadan uyan kişi)."
+  },
+  {
+    "word": "paragon",
+    "definition": "A perfect example of a quality. (Mükemmellik örneği, kusursuz model)",
+    "examples": [
+      "She is a paragon of kindness. (O, nezaketin mükemmel bir örneğidir.)",
+      "The building is considered a paragon of modern architecture. (Bina, modern mimarinin kusursuz bir örneği sayılır.)",
+      "He was seen as a paragon of virtue. (O, erdemin örneği olarak görülüyordu.)"
+    ],
+    "notes": "Çok edebi/sofistike bir kelime. 'Paragon of virtue, beauty, patience' sık kalıplar."
+  },
+  {
+    "word": "protagonist",
+    "definition": "The main character in a story, play, or movie. (Başkahraman, öncü)",
+    "examples": [
+      "Harry Potter is the protagonist of the series. (Harry Potter serinin başkahramanıdır.)",
+      "The protagonist struggles with inner conflict. (Başkahraman içsel çatışmayla mücadele ediyor.)",
+      "In history, he became the protagonist of social reform. (Tarihte, toplumsal reformun öncüsü oldu.)"
+    ],
+    "notes": "Edebiyatta/filmlerde 'başkahraman'. Günlük dilde 'öncü kişi' anlamı da olabilir. Karşıtı: 'antagonist'."
+  },
+  {
+    "word": "beyond redemption",
+    "definition": "Impossible to save, fix, or improve. (Kurtuluşu olmayan, düzelmez)",
+    "examples": [
+      "The criminal was considered beyond redemption. (Suçlu artık kurtuluşu olmayan biri olarak görülüyordu.)",
+      "Their relationship seemed beyond redemption. (İlişkileri artık düzelmez gibi görünüyordu.)",
+      "The old car was beyond redemption after the crash. (Kaza sonrası araba tamamen kurtarılamaz durumdaydı.)"
+    ],
+    "notes": "Genellikle ahlakî veya onarılamaz durumlar için mecazî anlamda kullanılır."
+  },
+  {
+    "word": "reluctant",
+    "definition": "Unwilling or hesitant to do something. (İsteksiz, gönülsüz, tereddütlü)",
+    "examples": [
+      "She was reluctant to speak in front of the class. (Sınıfın önünde konuşmaya isteksizdi.)",
+      "He gave a reluctant smile. (İsteksiz bir gülümseme verdi.)",
+      "They are reluctant to change their traditions. (Geleneklerini değiştirmeye gönülsüzler.)"
+    ],
+    "notes": "'Reluctantly' (isteksizce) sık kullanılan zarf hali."
+  },
+  {
     "word": "cord",
     "definition": "Strong thick string or thin rope. (İp, kordon, kablo)",
     "examples": [
