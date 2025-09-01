@@ -1,5 +1,65 @@
 [
   {
+    "word": "cord",
+    "definition": "Strong thick string or thin rope. (İp, kordon, kablo)",
+    "examples": [
+      "He tied the box with a piece of cord. (Kutuyu bir parça ip ile bağladı.)",
+      "The curtain was pulled back with a decorative cord. (Perde süslü bir kordonla geri çekildi.)",
+      "The phone cord is tangled. (Telefon kablosu dolaşmış.)"
+    ],
+    "notes": "Kullanıma göre 'ip', 'kablo' veya 'kordon' anlamına gelebilir. 'Umbilical cord' = göbek bağı."
+  },
+  {
+    "word": "aquifer",
+    "definition": "An underground layer of rock or soil that holds water. (Yeraltı su tabakası, akifer)",
+    "examples": [
+      "The city gets its drinking water from a deep aquifer. (Şehir içme suyunu derin bir yeraltı su tabakasından alıyor.)",
+      "Overuse of the aquifer can cause water shortages. (Yeraltı su tabakasının aşırı kullanımı su kıtlığına yol açabilir.)",
+      "Scientists are studying the aquifer to manage water resources. (Bilim insanları su kaynaklarını yönetmek için akiferi inceliyor.)"
+    ],
+    "notes": "Çevre, jeoloji ve su kaynakları konularında sık kullanılan teknik terim."
+  },
+  {
+    "word": "constituent",
+    "definition": "A part of something; also a person represented in politics. (Bileşen, unsur; seçmen)",
+    "examples": [
+      "Water is a major constituent of the human body. (Su, insan vücudunun ana bileşenidir.)",
+      "The chemical is made up of several constituents. (Bu kimyasal birkaç bileşenden oluşuyor.)",
+      "The senator met with his constituents. (Senatör seçmenleriyle buluştu.)"
+    ],
+    "notes": "İki temel anlamı var: 1) Bileşen/unsur 2) Seçmen (politika bağlamında)."
+  },
+  {
+    "word": "decontaminate",
+    "definition": "To remove harmful substances like chemicals, radiation, or germs. (Arındırmak, zararlı maddelerden temizlemek)",
+    "examples": [
+      "The workers decontaminated the area after the chemical spill. (İşçiler kimyasal sızıntıdan sonra bölgeyi arındırdılar.)",
+      "Hospitals must decontaminate surgical tools. (Hastaneler cerrahi aletleri arındırmalıdır.)",
+      "The decontamination process took several hours. (Arındırma süreci birkaç saat sürdü.)"
+    ],
+    "notes": "Özellikle nükleer, kimyasal, biyolojik risklerden temizlik için kullanılır."
+  },
+  {
+    "word": "contaminate",
+    "definition": "To make something dirty, harmful, or impure. (Kirletmek, bulaştırmak, bozmak)",
+    "examples": [
+      "The river was contaminated by factory waste. (Nehir fabrika atıklarıyla kirlendi.)",
+      "Bacteria can contaminate food if not stored properly. (Yiyecekler uygun şekilde saklanmazsa bakteriler bulaşabilir.)",
+      "His remarks were contaminated with prejudice. (Onun sözleri önyargıyla kirlenmişti.)"
+    ],
+    "notes": "Karşıtı: 'purify', 'decontaminate'. Hem fiziksel hem mecazî anlamda kullanılabilir."
+  },
+  {
+    "word": "purify",
+    "definition": "To make something clean and free of harmful substances. (Arıtmak, saflaştırmak)",
+    "examples": [
+      "The machine purifies drinking water. (Makine içme suyunu arıtıyor.)",
+      "She purified the air in the room with plants. (Odayı bitkilerle temiz hava ile arındırdı.)",
+      "Meditation can help purify the mind. (Meditasyon zihni arındırmaya yardımcı olabilir.)"
+    ],
+    "notes": "Fiziksel: su/air purify; mecazî: soul/mind purify. Antonym: 'contaminate'."
+  },
+  {
     "word": "nomadic",
     "definition": "Living by moving from place to place, without a permanent home. (Göçebe, sürekli yer değiştiren)",
     "examples": [
