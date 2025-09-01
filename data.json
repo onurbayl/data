@@ -1,5 +1,85 @@
 [
   {
+    "word": "nomadic",
+    "definition": "Living by moving from place to place, without a permanent home. (Göçebe, sürekli yer değiştiren)",
+    "examples": [
+      "Nomadic tribes moved across the desert in search of water. (Göçebe kabileler su arayışıyla çölü aştılar.)",
+      "Before agriculture, humans lived a mostly nomadic lifestyle. (Tarım öncesinde insanlar çoğunlukla göçebe bir yaşam sürüyordu.)",
+      "She has a nomadic spirit and loves to travel constantly. (Onun göçebe bir ruhu var ve sürekli seyahat etmeyi seviyor.)"
+    ],
+    "notes": "Karşıtı → 'sedentary'. Tarih ve antropoloji metinlerinde sık geçer."
+  },
+  {
+    "word": "sedentary",
+    "definition": "Living in one place; also describes a lifestyle with little movement. (Yerleşik, hareketsiz yaşam tarzı)",
+    "examples": [
+      "The rise of farming led to sedentary societies. (Tarımın yükselişi yerleşik toplumlara yol açtı.)",
+      "Office jobs often create a sedentary lifestyle. (Ofis işleri genellikle hareketsiz bir yaşam tarzı yaratır.)",
+      "Sedentary habits can cause health problems. (Hareketsiz alışkanlıklar sağlık sorunlarına neden olabilir.)"
+    ],
+    "notes": "Karşıtı → 'nomadic'. Ayrıca modern kullanımda 'oturarak geçen yaşam tarzı' anlamında da yaygın."
+  },
+  {
+    "word": "dynasty",
+    "definition": "A powerful family that rules a country for a long period. (Hanedan, sülale)",
+    "examples": [
+      "The Ming dynasty ruled China for nearly 300 years. (Ming Hanedanı Çin’i yaklaşık 300 yıl yönetti.)",
+      "The family has created a business dynasty in the region. (Aile bölgede bir iş hanedanı kurdu.)",
+      "Ancient Egypt had many dynasties of pharaohs. (Antik Mısır’da birçok firavun hanedanı vardı.)"
+    ],
+    "notes": "Tarih bağlamında çok sık geçer. İş dünyasında da mecaz olarak 'business dynasty' denir."
+  },
+  {
+    "word": "intertwine",
+    "definition": "To twist together; to be closely connected. (Birbirine dolanmak, iç içe geçmek, bağlanmak)",
+    "examples": [
+      "The vines intertwined around the tree. (Asmalar ağacın etrafına dolandı.)",
+      "Their cultures are deeply intertwined. (Kültürleri derinden iç içe geçmiştir.)",
+      "Her personal life intertwined with her career. (Onun özel hayatı kariyeriyle iç içe geçti.)"
+    ],
+    "notes": "Mecazî ve fiziksel anlamda kullanılır. 'Twine' = ip, sicim; kök olarak buradan gelir."
+  },
+  {
+    "word": "decadence",
+    "definition": "Moral or cultural decline, often linked to luxury or excess. (Çöküş, yozlaşma, aşırı lüks ve zevk düşkünlüğü)",
+    "examples": [
+      "The empire fell into decadence before its collapse. (İmparatorluk çöküşünden önce yozlaşmaya sürüklendi.)",
+      "Some critics see modern art as a sign of cultural decadence. (Bazı eleştirmenler modern sanatı kültürel yozlaşmanın bir işareti olarak görüyor.)",
+      "The party was a display of pure decadence. (Parti tam bir yozlaşma ve aşırılık gösterisiydi.)"
+    ],
+    "notes": "Negatif anlamlıdır. Fransızca kökenli 'decadence' → 'çürüyüş, düşüş'."
+  },
+  {
+    "word": "virtues",
+    "definition": "High moral standards; positive qualities. (Erdemler, ahlaki değerler, iyi özellikler)",
+    "examples": [
+      "Patience and honesty are important virtues. (Sabır ve dürüstlük önemli erdemlerdir.)",
+      "He praised the virtues of hard work. (O, çalışkanlığın erdemlerini övdü.)",
+      "Ancient philosophers wrote about the cardinal virtues. (Antik filozoflar temel erdemler hakkında yazdılar.)"
+    ],
+    "notes": "Karşıtı → 'vices' (kötü alışkanlıklar, ahlaksızlıklar)."
+  },
+  {
+    "word": "drawn in",
+    "definition": "Attracted or pulled into something, often against one’s will. (Çekilmek, içine çekilmek, kapılmak)",
+    "examples": [
+      "He was drawn in by the excitement of the crowd. (Kalabalığın coşkusuna kapıldı.)",
+      "She got drawn in to the argument even though she didn’t want to. (İstememesine rağmen tartışmaya çekildi.)",
+      "Children are often drawn in by colorful advertisements. (Çocuklar genellikle renkli reklamlara kapılırlar.)"
+    ],
+    "notes": "Genellikle pasif kullanılır: 'be drawn in'. Yakın anlamlı: 'get involved', 'be pulled into'."
+  },
+  {
+    "word": "venue",
+    "definition": "A place where an event happens, especially concerts, sports, or meetings. (Mekan, etkinlik yeri)",
+    "examples": [
+      "The concert will take place at a large outdoor venue. (Konser büyük bir açık hava mekanında gerçekleşecek.)",
+      "The stadium is a popular venue for sports events. (Stadyum spor etkinlikleri için popüler bir mekandır.)",
+      "They are looking for a wedding venue. (Onlar bir düğün mekanı arıyorlar.)"
+    ],
+    "notes": "Özellikle resmi etkinliklerde: 'conference venue', 'music venue'."
+  },
+  {
     "word": "earthen mound",
     "definition": "A large artificial hill made of earth, often used for burial, ceremonies, or as foundations. (Toprak höyük; genelde mezar, tören veya tapınak temeli olarak kullanılan insan yapımı tepe)",
     "examples": [
