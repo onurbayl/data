@@ -1,5 +1,55 @@
 [
   {
+    "word": "entangle",
+    "definition": "To twist together or get caught in something, making it difficult to escape. (Dolaştırmak, karıştırmak, içine çekmek)",
+    "examples": [
+      "The dolphin was entangled in the fishing net. (Yunus balık ağına dolandı.)",
+      "She became entangled in a complicated legal dispute. (Karmaşık bir hukuki anlaşmazlığa karıştı.)",
+      "His lies entangled him further. (Yalanları onu daha çok içine çekti.)"
+    ],
+    "notes": "Mecazi ve gerçek anlamda kullanılabilir. 'Get entangled in sth' = bir şeye bulaşmak, dolanmak."
+  },
+  {
+    "word": "upfront",
+    "definition": "Being honest, open, or paid in advance. (Dürüst/açık; peşin)",
+    "examples": [
+      "She was upfront about her intentions. (Niyetleri konusunda açık sözlüydü.)",
+      "You have to pay upfront before the service begins. (Hizmet başlamadan önce peşin ödeme yapmalısınız.)",
+      "He’s always upfront with his opinions. (Her zaman fikirlerinde açık ve dürüsttür.)"
+    ],
+    "notes": "İki ana anlamı var: 1) Dürüst/açık 2) Peşin ödeme."
+  },
+  {
+    "word": "sanitation",
+    "definition": "The process of keeping places clean and healthy, especially by removing waste. (Sağlık önlemleri, temizlik, hijyen)",
+    "examples": [
+      "Proper sanitation is vital for preventing disease. (Uygun hijyen hastalıkları önlemek için hayati önemdedir.)",
+      "The refugee camp lacked basic sanitation facilities. (Mülteci kampında temel hijyen tesisleri yoktu.)",
+      "Sanitation workers collected garbage early in the morning. (Temizlik görevlileri sabah erkenden çöp topladı.)"
+    ],
+    "notes": "Genellikle kamu sağlığı, altyapı, hijyen bağlamında geçer."
+  },
+  {
+    "word": "binocular vision",
+    "definition": "The ability to use both eyes together to perceive depth and a three-dimensional view. (Çift göz görme, derinlik algısı)",
+    "examples": [
+      "Humans have binocular vision that allows them to judge distance. (İnsanlar mesafeyi ölçmeye yarayan çift göz görmesine sahiptir.)",
+      "Owls rely on binocular vision for hunting at night. (Baykuşlar gece avlanmak için çift göz görmesine güvenir.)",
+      "Without binocular vision, catching a ball would be much harder. (Çift göz görme olmadan top yakalamak çok daha zor olurdu.)"
+    ],
+    "notes": "Bi- = iki, ocular = göz → iki gözün birlikte çalışması. Derinlik algısının temelidir."
+  },
+  {
+    "word": "pun intended",
+    "definition": "A phrase used to acknowledge a play on words, usually humorous. (Kelime oyunu kasıtlı yapıldı demek)",
+    "examples": [
+      "I’m reading a book about anti-gravity—it’s impossible to put down, pun intended. (Yerçekimiyle ilgili bir kitap okuyorum—elden bırakmak imkânsız, kelime oyunu kasıtlıydı.)",
+      "He said the wedding was a 'grave' matter, pun intended. (Düğünün 'mezar kadar ciddi' bir mesele olduğunu söyledi, kelime oyunu kasıtlıydı.)",
+      "Her comment was both sharp and cutting, pun intended. (Onun yorumu hem keskin hem de kesiciydi, kelime oyunu kasıtlıydı.)"
+    ],
+    "notes": "Genellikle şaka yapıldığında, kelimenin ikinci bir anlamı kastedildiğini belirtmek için kullanılır."
+  },
+  {
     "word": "esteem",
     "definition": "Respect and admiration for someone or something. (Saygı, değer verme)",
     "examples": [
