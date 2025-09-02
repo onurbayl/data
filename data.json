@@ -1,5 +1,95 @@
 [
   {
+    "word": "leak",
+    "definition": "To let liquid or gas escape through a hole or crack; also the escape itself. (Sızmak, sızıntı, kaçak)",
+    "examples": [
+      "The roof leaks when it rains. (Yağmur yağınca çatı sızdırıyor.)",
+      "There is a gas leak in the kitchen. (Mutfakta gaz kaçağı var.)",
+      "The company tried to stop the leak of confidential information. (Şirket gizli bilgilerin sızmasını engellemeye çalıştı.)"
+    ],
+    "notes": "Hem fiil (to leak) hem de isim (a leak) olarak kullanılır. Somut (su/gaz) ve soyut (bilgi sızıntısı) bağlamlarda geçer."
+  },
+  {
+    "word": "prevail",
+    "definition": "To be victorious, to exist widely, or to be the most common. (Galip gelmek, üstün gelmek, yaygın olmak)",
+    "examples": [
+      "Justice will prevail in the end. (Adalet sonunda üstün gelecek.)",
+      "A sense of optimism prevails among the students. (Öğrenciler arasında bir iyimserlik hakim.)",
+      "In some regions, traditional customs still prevail. (Bazı bölgelerde geleneksel adetler hâlâ yaygındır.)"
+    ],
+    "notes": "Hem soyut (adalet, fikir) hem de somut (savaşta galip gelmek) bağlamlarda kullanılır."
+  },
+  {
+    "word": "perennial",
+    "definition": "Lasting for a long time or repeatedly occurring; in botany, plants that live for more than two years. (Kalıcı, sürekli; çok yıllık bitki)",
+    "examples": [
+      "Poverty is a perennial problem in many countries. (Yoksulluk birçok ülkede kalıcı bir sorundur.)",
+      "Roses are perennial plants. (Güller çok yıllık bitkilerdir.)",
+      "He is a perennial favorite among fans. (O, hayranlar arasında sürekli favoridir.)"
+    ],
+    "notes": "Botanikte teknik anlamı var (çok yıllık bitki), günlük dilde 'sürekli, bitmeyen' anlamında da kullanılır."
+  },
+  {
+    "word": "leaching",
+    "definition": "The process by which water removes nutrients or minerals from soil. (Toprakta minerallerin suyla süzülerek uzaklaşması)",
+    "examples": [
+      "Leaching reduces the fertility of the soil. (Süzülme toprağın verimliliğini azaltır.)",
+      "Acid rain accelerates leaching of minerals. (Asit yağmuru mineral süzülmesini hızlandırır.)",
+      "Leaching is a major concern in agriculture. (Süzülme tarımda önemli bir sorundur.)"
+    ],
+    "notes": "Genellikle tarım, jeoloji ve çevre bilimlerinde kullanılır."
+  },
+  {
+    "word": "to leach",
+    "definition": "To wash out or remove minerals/nutrients from soil by water. (Suyun topraktan mineral/ besinleri süzerek uzaklaştırması)",
+    "examples": [
+      "Heavy rains leach nutrients from the soil. (Şiddetli yağmurlar topraktaki besinleri süzer.)",
+      "The chemicals leached into the groundwater. (Kimyasallar yer altı suyuna sızdı.)",
+      "Salts are slowly leached away over time. (Tuzlar zamanla yavaşça süzülür.)"
+    ],
+    "notes": "Genelde pasif yapıda kullanılır: 'be leached away'."
+  },
+  {
+    "word": "lush",
+    "definition": "Rich, healthy, and abundant in growth. (Gür, yemyeşil, bereketli)",
+    "examples": [
+      "The valley was full of lush vegetation. (Vadi gür bitki örtüsüyle doluydu.)",
+      "They enjoyed the lush gardens of the palace. (Sarayın yemyeşil bahçelerinin tadını çıkardılar.)",
+      "The island is known for its lush landscapes. (Ada, yemyeşil manzaralarıyla bilinir.)"
+    ],
+    "notes": "Sıklıkla tropik, verimli doğa veya yeşillik için kullanılır."
+  },
+  {
+    "word": "mild",
+    "definition": "Gentle, not harsh, moderate. (Hafif, yumuşak, ılıman)",
+    "examples": [
+      "The patient has a mild fever. (Hastanın hafif ateşi var.)",
+      "The climate here is mild in winter. (Burada kışlar ılımandır.)",
+      "He gave me a mild warning. (Bana hafif bir uyarı verdi.)"
+    ],
+    "notes": "Hava, tat (mild cheese), hastalık veya davranış için kullanılabilir."
+  },
+  {
+    "word": "coarse",
+    "definition": "Rough in texture or manner, not fine. (Kaba, iri taneli, hoyrat)",
+    "examples": [
+      "The fabric felt coarse to the touch. (Kumaş ele kaba geliyordu.)",
+      "He used coarse language. (Kaba bir dil kullandı.)",
+      "The beach was covered with coarse sand. (Sahil iri taneli kumla kaplıydı.)"
+    ],
+    "notes": "Zıt anlamlısı: 'fine'. Hem fiziksel hem de mecazî bağlamda geçer."
+  },
+  {
+    "word": "posture",
+    "definition": "The position in which someone holds their body. (Duruş, bedenin pozisyonu)",
+    "examples": [
+      "Good posture is important for a healthy back. (Sağlıklı bir sırt için doğru duruş önemlidir.)",
+      "She sat in an awkward posture. (Garip bir duruşla oturdu.)",
+      "His confident posture impressed the audience. (Kendinden emin duruşu seyirciyi etkiledi.)"
+    ],
+    "notes": "Hem fiziksel duruş hem de mecazî olarak 'tutum, yaklaşım' anlamında kullanılabilir."
+  },
+  {
     "word": "colossal",
     "definition": "Extremely large, huge, gigantic. (Devasa, muazzam, çok büyük)",
     "examples": [
