@@ -1,5 +1,86 @@
 [
   {
+    "word": "esteem",
+    "definition": "Respect and admiration for someone or something. (Saygı, değer verme)",
+    "examples": [
+      "She is held in high esteem by her colleagues. (Meslektaşları tarafından büyük saygı görür.)",
+      "Children need to build self-esteem to grow confidently. (Çocukların özgüven geliştirmesi için özsaygı inşa etmeleri gerekir.)",
+      "His honesty won him the esteem of the community. (Dürüstlüğü ona toplumun saygısını kazandırdı.)"
+    ],
+    "notes": "Sıklıkla 'self-esteem' (özsaygı) şeklinde kullanılır."
+  },
+  {
+    "word": "self-actualization",
+    "definition": "The realization or fulfillment of one's talents and potential, considered the highest need in Maslow’s hierarchy. (Kendi potansiyelini gerçekleştirme)",
+    "examples": [
+      "Self-actualization is the final stage of personal growth. (Kendi potansiyelini gerçekleştirme kişisel gelişimin son aşamasıdır.)",
+      "Many artists pursue self-actualization through creativity. (Pek çok sanatçı yaratıcılık yoluyla kendi potansiyelini gerçekleştirmeyi hedefler.)",
+      "Traveling the world was part of his self-actualization journey. (Dünyayı gezmek onun kendini gerçekleştirme yolculuğunun bir parçasıydı.)"
+    ],
+    "notes": "Psikoloji, özellikle Maslow’un ihtiyaçlar hiyerarşisi bağlamında geçer."
+  },
+  {
+    "word": "endeavor",
+    "definition": "An attempt or effort to achieve something. (Çaba, gayret, girişim)",
+    "examples": [
+      "Science is a human endeavor to understand the universe. (Bilim, evreni anlamak için insani bir çabadır.)",
+	  "They endeavored to create a better future for their children. (Çocukları için daha iyi bir gelecek yaratmaya uğraştılar.)",
+      "He is engaged in a new business endeavor. (Yeni bir iş girişiminde bulunuyor.)",
+      "Despite his best endeavors, he failed the exam. (Tüm çabalarına rağmen sınavda başarısız oldu.)"
+    ],
+    "notes": "Hem isim hem fiil olarak kullanılır. (to endeavor = çabalamak)."
+  },
+  {
+    "word": "excel in sth",
+    "definition": "To be very good at something. (Bir şeyde çok başarılı olmak, üstün olmak)",
+    "examples": [
+      "She excels in mathematics. (Matematikte çok başarılıdır.)",
+      "He excels in sports, especially swimming. (Sporlarda, özellikle yüzmede çok iyidir.)",
+      "Our team excels in problem-solving. (Ekibimiz problem çözmede çok iyidir.)"
+    ],
+    "notes": "Genellikle 'excel in/at' kalıbıyla kullanılır."
+  },
+  {
+    "word": "savor",
+    "definition": "To enjoy something completely, especially by tasting or experiencing it slowly. (Tadını çıkarmak, keyif almak)",
+    "examples": [
+      "She savored every bite of the delicious cake. (Lezzetli pastanın her lokmasının tadını çıkardı.)",
+      "He savored the moment of victory. (Zafer anının tadını çıkardı.)",
+      "Travelers often savor the experience of exploring new cultures. (Gezginler yeni kültürleri keşfetmenin tadını çıkarır.)"
+    ],
+    "notes": "Genelde yemek veya özel bir anın tadını çıkarmak için kullanılır."
+  },
+  {
+    "word": "ravenous",
+    "definition": "Extremely hungry. (Kurt gibi aç)",
+    "examples": [
+      "After the hike, we were ravenous. (Yürüyüşten sonra kurt gibi açtık.)",
+      "He had a ravenous appetite. (Onun çok iştahlı bir açlığı vardı.)",
+      "The kids came home ravenous after school. (Çocuklar okuldan kurt gibi aç geldiler.)"
+    ],
+    "notes": "Daha güçlü bir ifade: hungry < starving < ravenous."
+  },
+  {
+    "word": "foremost",
+    "definition": "Most important, leading, or first in rank. (Önde gelen, en önemli)",
+    "examples": [
+      "She is one of the foremost scientists in her field. (O, alanındaki önde gelen bilim insanlarından biridir.)",
+      "Safety is our foremost concern. (Güvenlik bizim en önemli kaygımızdır.)",
+      "He is foremost a teacher, but also a writer. (O her şeyden önce bir öğretmen, ama aynı zamanda bir yazardır.)"
+    ],
+    "notes": "Genelde 'the foremost' şeklinde kullanılır."
+  },
+  {
+    "word": "shiver",
+    "definition": "To shake slightly because of cold, fear, or excitement. (Titremek)",
+    "examples": [
+      "She shivered from the cold. (Soğuktan titredi.)",
+      "He shivered with fear as he entered the dark room. (Karanlık odaya girerken korkudan titredi.)",
+      "The news made her shiver with excitement. (Haber onu heyecandan titretti.)"
+    ],
+    "notes": "Genellikle 'with cold/fear/excitement' gibi kalıplarla gelir."
+  },
+  {
     "word": "leak",
     "definition": "To let liquid or gas escape through a hole or crack; also the escape itself. (Sızmak, sızıntı, kaçak)",
     "examples": [
